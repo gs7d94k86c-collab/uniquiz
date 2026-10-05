@@ -1,4 +1,4 @@
-const CACHE_NAME = 'uniquiz-v5-antigravity-v9';
+const CACHE_NAME = 'uniquiz-v5-antigravity-v10';
 const APP_FILES = [
   "./",
   "./index.html",
@@ -18,6 +18,8 @@ const APP_FILES = [
   "./data/diritto_romano/open.js",
   "./data/diritto_processuale_civile/closed.js",
   "./data/diritto_processuale_civile/open.js",
+  "./data/comunicazione_public_speaking/closed.js",
+  "./data/comunicazione_public_speaking/open.js",
   "./data/modules.js",
   "./js/app.js",
   "./manifest.webmanifest"

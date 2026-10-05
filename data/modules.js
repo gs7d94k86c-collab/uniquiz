@@ -368,5 +368,35 @@ window.UNIQUIZ_MODULES = {
       "from": 89,
       "to": 96
     }
+  ],
+  "comunicazione_public_speaking": [
+    {
+      "id": "cps1",
+      "name": "M1 · Fondamenti e Processo di Comunicazione",
+      "title": "Etimologia, definizione, modelli teorici (Shannon e Weaver), canali sensoriali, emittente, ricevente e feedback",
+      "from": 1,
+      "to": 2
+    },
+    {
+      "id": "cps2",
+      "name": "M2 · Forme e Linguaggi Comunicativi",
+      "title": "Scuola di Palo Alto, assiomi di Watzlawick, comunicazione logica e analogica, linguaggio verbale, LAD di Chomsky e sviluppo infantile",
+      "from": 3,
+      "to": 4
+    },
+    {
+      "id": "cps3",
+      "name": "M3 · Comunicazione Non Verbale e Paraverbale",
+      "title": "Cinesica, tipologie di gesti, mimica facciale, contatto oculare, sorriso vero e falso, prosodia e linguaggio paraverbale",
+      "from": 5,
+      "to": 7
+    },
+    {
+      "id": "cps4",
+      "name": "M4 · Informazione, Persuasione e Mass Media",
+      "title": "Semiologia, rivoluzioni comunicative, paradossi pragmatici e semantici, persuasione sociale, pubblicità e mass media",
+      "from": 8,
+      "to": 8
+    }
   ]
 };

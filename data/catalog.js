@@ -35,5 +35,11 @@ window.UNIQUIZ_DATA = {
     "short": "Proc. Civile",
     "closed": [],
     "open": []
+  },
+  "comunicazione_public_speaking": {
+    "title": "Seminario comunicazione e public speaking",
+    "short": "Comunicazione",
+    "closed": [],
+    "open": []
   }
 };
