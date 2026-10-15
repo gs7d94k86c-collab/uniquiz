@@ -1,4 +1,4 @@
-const CACHE_NAME = 'uniquiz-v5-antigravity-v10';
+const CACHE_NAME = 'uniquiz-v5-antigravity-v11';
 const APP_FILES = [
   "./",
   "./index.html",

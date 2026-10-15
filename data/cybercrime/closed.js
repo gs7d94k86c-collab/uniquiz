@@ -1,4 +1,5 @@
 // Cybercrime · domande chiuse
+// Certificate e verificate sulle dispense ufficiali del corso (Lezioni 01-48)
 window.UNIQUIZ_DATA["cybercrime"].closed = [
   {
     "id": "001-01",
@@ -21,7 +22,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 001 · Premessa sulle infrastrutture critiche",
     "source_excerpt": "La lotta al crimine informatico non rappresenta soltanto una necessità per ristabilire l'ordine giuridico violato ma aiuta anche indirettamente nell'opera di prevenzione di questi specifici reati.\nA questo proposito occorre tener conto di un importante circostanza e cioè quella relativa alla vulnerabilità della società informatizzata ed alla sua dipendenza dall' ICT.\nCom'è noto, la tecnologia dell'informazione e delle comunicazioni hanno creato nuove opportunità nel settore economico, sanitario, dell'istruzione ecc. Tuttavia, lo sviluppo tecnologico ha prodotto anche altre conseguenze: attualmente, l'economia dell'intera società è divenuta completamente dipendente dalle tecnologie ICT.\nCiò significa che incidenti, anche non molto gravi, nei sistemi possono danneggiare o addirittura interrompere servizi essenziali per la società e creare situazioni catastrofiche in aree importanti come quella dell'energia, dell'approvvigionamento e dei consumi, delle telecomunicazioni, dell'erogazione di carburanti, dei servizi sanitari, dei servizi finanziari e della difesa nazionale.\nIn effetti la risoluzione dello specifico problema della protezione delle infrastrutture critiche è da tempo all'attenzione di molti paesi della comunità informatica mondiale. Tuttavia alcune circostanze rendono tale problema altamente complesso: vi è innanzitutto il fattore relativo alla interconnessione e alla interdipendenza tra le diverse infrastrutture, per cui un incidente relativo ad una di esse può ripercuotersi a catena, amplificando i danni.\nVa inoltre tenuta presente la circostanza relativa al fatto che la quasi totalità di tali infrastrutture è in mano privata, rendendo molto difficile il coordinamento e il controllo da parte degli organi pubblici.\nProprio in relazione al problema della protezione delle infrastrutture critiche il Parlamento europeo ha, il 7 giugno 2005, emanato un'apposita raccomandazione rivolta al Consiglio europeo. Va rilevato, infine, che il richiamo alla protezione delle infrastrutture critiche informatizzate si trova nell'articolo 7-bis della recentissima normativa antiterrorismo italiana.",
     "note": "Domanda di verifica didattica predisposta per la Lezione 001 in sostituzione del segnaposto di sistema.",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "La lotta al crimine informatico non rappresenta soltanto una necessità per ristabilire l'ordine giuridico violato ma aiuta anche indirettamente nell'opera di prevenzione di questi specifici reati.\nA questo proposito occorre tener conto di un importante circostanza e cioè quella relativa alla ",
+        "highlight": false
+      },
+      {
+        "text": "vulnerabilità della società informatizzata",
+        "highlight": true
+      },
+      {
+        "text": " ed alla sua dipendenza dall' ICT.\nCom'è noto, la tecnologia dell'informazione e delle comunicazioni hanno creato nuove opportunità nel settore economico, sanitario, dell'istruzione ecc. Tuttavia, lo sviluppo tecnologico ha prodotto anche altre conseguenze: attualmente, l'economia dell'intera società è divenuta completamente dipendente dalle tecnologie ICT.\nCiò significa che incidenti, anche non molto gravi, nei sistemi possono danneggiare o addirittura interrompere servizi essenziali per la società e creare situazioni catastrofiche in aree importanti come quella dell'energia, dell'approvvigionamento e dei consumi, delle telecomunicazioni, dell'erogazione di carburanti, dei servizi sanitari, dei servizi finanziari e della difesa nazionale.\nIn effetti la risoluzione dello specifico problema della protezione delle infrastrutture critiche è da tempo all'attenzione di molti paesi della comunità informatica mondiale. Tuttavia alcune circostanze rendono tale problema altamente complesso: vi è innanzitutto il fattore relativo alla interconnessione e alla interdipendenza tra le diverse infrastrutture, per cui un incidente relativo ad una di esse può ripercuotersi a catena, amplificando i danni.\nVa inoltre tenuta presente la circostanza relativa al fatto che la quasi totalità di tali infrastrutture è in mano privata, rendendo molto difficile il coordinamento e il controllo da parte degli organi pubblici.\nProprio in relazione al problema della protezione delle infrastrutture critiche il Parlamento europeo ha, il 7 giugno 2005, emanato un'apposita raccomandazione rivolta al Consiglio europeo. Va rilevato, infine, che il richiamo alla protezione delle infrastrutture critiche informatizzate si trova nell'articolo 7-bis della recentissima normativa antiterrorismo italiana.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "002-01",
@@ -46,7 +61,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 002 · Nozioni hardware e tipologie di computer",
     "source_excerpt": "L’informatica è una disciplina che studia le modalità di risoluzione dei problemi mediante uso di sistemi di elaborazioni (un insieme di risorse HW e SW finalizzati a una risoluzione automatica di problemi e al trattamento automatico di informazioni).\nAbbiamo vari tipi di computer:\n1) Mainframe: sono le grandi macchine, che richiedono personale molto specializzato;\n2) Minicomputer: più piccoli dei precedenti, si trovano in aziende di dimensioni inferiori e richiedono personale meno specializzato;\n3) Netcomputer: funzionano come terminali delle reti;\n4) Personal computer: di uso individuale, anche da parte di non specialisti, possono essere collegati in rete; quelli multimediali consentono di leggere audio e filmati;\n5) Portatili (notebook);\nInfine ci sono i laptop (portatili più leggeri) e i palmari (che non hanno disco fisso e sono tascabili).\nCome terminali di una rete di computer ci possono essere macchine intelligenti (che possono funzionare anche come computer autonomi) e stupide (che non sanno elaborare i dati da sole, perché sono fatte solo di monitor e tastiera). I terminali conversazionali sono quelli in grado di dialogare in tempo reale con una macchina centrale.\nHardware e software (sono rispettivamente le macchine e i programmi). Il software è necessario perché il computer è in sé una macchina universale, che si presta alle funzioni più varie.\nHardware: Comprende l’unità centrale (nella cassa chiamata tower) e le unità periferiche. Le varie unità sono unite con cavi e spine, le quali si chiamano porte. Modelli di porte: seriali (COM), hanno 9 o 25 pin e fanno passare un bit alla volta; parallele (LPT), con 25 fori, fanno passare 8 bit alla volta, servono soprattutto per le stampanti; USB, possono collegare a cascata fino a 127 periferiche, fanno passare 12 milioni di bit al secondo, lo stesso cavo serve per alimentazione e segnale e si possono manomettere anche a macchina accesa; SCSI e HSSB, che sono simili alle USB; IrDA, senza cavi, a raggi infrarossi, sono seriali.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "L’informatica è una disciplina che studia le modalità di risoluzione dei problemi mediante uso di sistemi di elaborazioni (un insieme di risorse HW e SW finalizzati a una risoluzione automatica di problemi e al trattamento automatico di informazioni).\nAbbiamo vari tipi di computer:\n1) Mainframe: sono le grandi macchine, che richiedono personale molto specializzato;\n2) Minicomputer: più piccoli dei precedenti, si trovano in aziende di dimensioni inferiori e richiedono personale meno specializzato;\n3) Netcomputer: funzionano come terminali delle reti;\n4) Personal computer: di uso individuale, anche da parte di non specialisti, possono essere collegati in rete; quelli multimediali consentono di leggere audio e filmati;\n5) ",
+        "highlight": false
+      },
+      {
+        "text": "Portatili",
+        "highlight": true
+      },
+      {
+        "text": " (notebook);\nInfine ci sono i laptop (portatili più leggeri) e i palmari (che non hanno disco fisso e sono tascabili).\nCome terminali di una rete di computer ci possono essere macchine intelligenti (che possono funzionare anche come computer autonomi) e stupide (che non sanno elaborare i dati da sole, perché sono fatte solo di monitor e tastiera). I terminali conversazionali sono quelli in grado di dialogare in tempo reale con una macchina centrale.\nHardware e software (sono rispettivamente le macchine e i programmi). Il software è necessario perché il computer è in sé una macchina universale, che si presta alle funzioni più varie.\nHardware: Comprende l’unità centrale (nella cassa chiamata tower) e le unità periferiche. Le varie unità sono unite con cavi e spine, le quali si chiamano porte. Modelli di porte: seriali (COM), hanno 9 o 25 pin e fanno passare un bit alla volta; parallele (LPT), con 25 fori, fanno passare 8 bit alla volta, servono soprattutto per le stampanti; USB, possono collegare a cascata fino a 127 periferiche, fanno passare 12 milioni di bit al secondo, lo stesso cavo serve per alimentazione e segnale e si possono manomettere anche a macchina accesa; SCSI e HSSB, che sono simili alle USB; IrDA, senza cavi, a raggi infrarossi, sono seriali.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "002-02",
@@ -71,7 +100,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 002 · Nozioni hardware e tipologie di computer",
     "source_excerpt": "Unità centrale:\n1) Microprocessore, o CPU, (l’elaboratore vero e proprio: è un circuito integrato; la sua potenza dipende sia dall'architettura, che vede al primo posto i Pentium, sia dalla velocità, che si misura in Megahertz);\n2) Memoria RAM (piccola, cara e funzionante solo col computer acceso; vi si caricano soltanto le informazioni che servono sul momento; è importantissima, perché la velocità di un computer dipende più ancora che dalla potenza del microprocessore dalla capacità della RAM, che se è insufficiente deve servirsi come supporto dell'hard-disk, molto più lento, formando la cosiddetta memoria virtuale);\n3) Scheda Madre (è il supporto del microprocessore; vi sono inserite anche le schede della RAM e le altre schede: quella video, che serve per l'immagine del monitor, quella audio, che trasforma il segnale analogico in digitale per le casse acustiche, ecc.);\n4) Memorie di massa, che contengono tutte le informazioni a disposizione, pure quelle che non servono sul momento. Le usiamo anche per salvare le informazioni che non vogliamo perdere quando dobbiamo spegnere il computer. In sostanza le memorie di massa contengono sia i programmi, sia i documenti, cioè i prodotti del lavoro. Esse sono: Hard disk e floppy disk, che sono magnetici, e compactdisk o CD-ROM, che sono ottici, cioè al laser.\nUn altro tipo di memoria ROM presente nel computer è quella che lo fa partire all'accensione, caricando il BIOS, cioè le funzioni primarie del sistema operativo. Nella tower ci può essere anche l'UPS, un accumulatore che serve per non restare bloccati, con perdita di dati e altri guai, se manca la luce.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Unità centrale:\n1) Microprocessore, o CPU, (l’elaboratore vero e proprio: è un circuito integrato; la sua potenza dipende sia dall'architettura, che vede al primo posto i Pentium, sia dalla velocità, che si misura in Megahertz);\n2) Memoria RAM (piccola, cara e funzionante solo col computer acceso; vi si caricano soltanto le informazioni che servono sul momento; è importantissima, perché la velocità di un computer dipende più ancora che dalla potenza del microprocessore dalla capacità della RAM, che se è insufficiente deve servirsi come supporto dell'hard-disk, molto più lento, formando la cosiddetta memoria virtuale);\n3) Scheda Madre (è ",
+        "highlight": false
+      },
+      {
+        "text": "il supporto del microprocessore",
+        "highlight": true
+      },
+      {
+        "text": "; vi sono inserite anche le schede della RAM e le altre schede: quella video, che serve per l'immagine del monitor, quella audio, che trasforma il segnale analogico in digitale per le casse acustiche, ecc.);\n4) Memorie di massa, che contengono tutte le informazioni a disposizione, pure quelle che non servono sul momento. Le usiamo anche per salvare le informazioni che non vogliamo perdere quando dobbiamo spegnere il computer. In sostanza le memorie di massa contengono sia i programmi, sia i documenti, cioè i prodotti del lavoro. Esse sono: Hard disk e floppy disk, che sono magnetici, e compactdisk o CD-ROM, che sono ottici, cioè al laser.\nUn altro tipo di memoria ROM presente nel computer è quella che lo fa partire all'accensione, caricando il BIOS, cioè le funzioni primarie del sistema operativo. Nella tower ci può essere anche l'UPS, un accumulatore che serve per non restare bloccati, con perdita di dati e altri guai, se manca la luce.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "003-01",
@@ -96,7 +139,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 003 · Sicurezza informatica e Malware",
     "source_excerpt": "La sicurezza informatica o come viene normalmente intesa in inglese cyber security è l’unione di precise regole, tecnologie, ma anche comportamenti personali, che hanno l’obiettivo primario della protezione delle reti, dei sistemi e dei software dagli attacchi di virus e hacker informatici. Il problema della sicurezza informatica, oggi interessa sia le persone, in quanto usufruiscono di un sistema a loro disposizione, quanto le aziende, gli Enti, le autorità, che trattano dati sensibili, prodotti coperti da brevetto e da diritto d’autore.\nGLI ATTACCHI PIÙ COMUNI\nMalware: Malware o “software malevolo” è un termine generico che descrive un programma/codice dannoso, che mette a rischio un sistema. Sono ostili, invasivi e volutamente maligni, i malware cercano di invadere, danneggiare o disattivare computer, sistemi, reti, tablet e dispositivi mobili, spesso assumendo il controllo parziale delle operazioni del dispositivo. Proprio come l'influenza, interferiscono con il loro normale funzionamento.\nQual è lo scopo dei malware? È semplicemente quello di lucrare illecitamente a spese degli utenti. Sebbene i malware non possano, di solito, danneggiare gli hardware fisici di un sistema o le attrezzature di rete, possono rubare, criptare o eliminare i dati, alterare o compromettere le funzioni fondamentali di un computer e spiare le attività degli utenti senza che questi se ne accorgano o forniscano alcuna autorizzazione.",
     "note": "Nel testo del test è presente il refuso grafico 'Softwer malevolo'.",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "La sicurezza informatica o come viene normalmente intesa in inglese cyber security è l’unione di precise regole, tecnologie, ma anche comportamenti personali, che hanno l’obiettivo primario della protezione delle reti, dei sistemi e dei software dagli attacchi di virus e hacker informatici. Il problema della sicurezza informatica, oggi interessa sia le persone, in quanto usufruiscono di un sistema a loro disposizione, quanto le aziende, gli Enti, le autorità, che trattano dati sensibili, prodotti coperti da brevetto e da diritto d’autore.\nGLI ATTACCHI PIÙ COMUNI\nMalware: Malware o “software ",
+        "highlight": false
+      },
+      {
+        "text": "malevolo",
+        "highlight": true
+      },
+      {
+        "text": "” è un termine generico che descrive un programma/codice dannoso, che mette a rischio un sistema. Sono ostili, invasivi e volutamente maligni, i malware cercano di invadere, danneggiare o disattivare computer, sistemi, reti, tablet e dispositivi mobili, spesso assumendo il controllo parziale delle operazioni del dispositivo. Proprio come l'influenza, interferiscono con il loro normale funzionamento.\nQual è lo scopo dei malware? È semplicemente quello di lucrare illecitamente a spese degli utenti. Sebbene i malware non possano, di solito, danneggiare gli hardware fisici di un sistema o le attrezzature di rete, possono rubare, criptare o eliminare i dati, alterare o compromettere le funzioni fondamentali di un computer e spiare le attività degli utenti senza che questi se ne accorgano o forniscano alcuna autorizzazione.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "003-02",
@@ -121,7 +178,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 003 · Sicurezza informatica e Malware",
     "source_excerpt": "La sicurezza informatica o come viene normalmente intesa in inglese cyber security è l’unione di precise regole, tecnologie, ma anche comportamenti personali, che hanno l’obiettivo primario della protezione delle reti, dei sistemi e dei software dagli attacchi di virus e hacker informatici. Il problema della sicurezza informatica, oggi interessa sia le persone, in quanto usufruiscono di un sistema a loro disposizione, quanto le aziende, gli Enti, le autorità, che trattano dati sensibili, prodotti coperti da brevetto e da diritto d’autore.\nGLI ATTACCHI PIÙ COMUNI\nMalware: Malware o “software malevolo” è un termine generico che descrive un programma/codice dannoso, che mette a rischio un sistema. Sono ostili, invasivi e volutamente maligni, i malware cercano di invadere, danneggiare o disattivare computer, sistemi, reti, tablet e dispositivi mobili, spesso assumendo il controllo parziale delle operazioni del dispositivo. Proprio come l'influenza, interferiscono con il loro normale funzionamento.\nQual è lo scopo dei malware? È semplicemente quello di lucrare illecitamente a spese degli utenti. Sebbene i malware non possano, di solito, danneggiare gli hardware fisici di un sistema o le attrezzature di rete, possono rubare, criptare o eliminare i dati, alterare o compromettere le funzioni fondamentali di un computer e spiare le attività degli utenti senza che questi se ne accorgano o forniscano alcuna autorizzazione.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "La sicurezza informatica o come viene normalmente intesa in inglese cyber security è l’unione di precise regole, tecnologie, ma anche comportamenti personali, che hanno l’obiettivo primario della protezione delle reti, dei sistemi e dei software dagli attacchi di virus e hacker informatici. Il problema della sicurezza informatica, oggi interessa sia le persone, in quanto usufruiscono di un sistema a loro disposizione, quanto le aziende, gli Enti, le autorità, che trattano dati sensibili, prodotti coperti da brevetto e da diritto d’autore.\nGLI ATTACCHI PIÙ COMUNI\nMalware: Malware o “software malevolo” è un termine generico che descrive un programma/codice dannoso, che mette a rischio un sistema. Sono ostili, invasivi e volutamente maligni, i malware cercano di invadere, danneggiare o disattivare computer, sistemi, reti, tablet e dispositivi mobili, spesso assumendo il controllo parziale delle operazioni del dispositivo. Proprio come l'influenza, interferiscono con il loro normale funzionamento.\nQual è lo scopo dei malware? È semplicemente quello di lucrare illecitamente a spese degli utenti. Sebbene i malware non possano, di solito, danneggiare gli hardware fisici di un sistema o le attrezzature di rete, ",
+        "highlight": false
+      },
+      {
+        "text": "possono",
+        "highlight": true
+      },
+      {
+        "text": " rubare, criptare o eliminare i dati, alterare o compromettere le funzioni fondamentali di un computer e spiare le attività degli utenti senza che questi se ne accorgano o forniscano alcuna autorizzazione.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "004-01",
@@ -146,7 +217,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 004 · Sicurezza informatica, rischi e Hacking",
     "source_excerpt": "Nel 2017 il mercato delle soluzioni di information security in Italia raggiunse un valore di 1,09 miliardi di euro, con una crescita del 12% rispetto all’anno precedente. Di questo oltre miliardo di euro destinato alla sicurezza la gran parte (78%) è appannaggio delle grandi imprese. A spingere le grandi aziende è soprattutto la necessità di essere conformi alla nuova normativa europea sulla privacy, il GDPR.\nLa sicurezza nell’informatica equivale ad attuare tutte le misure, tecniche e accorgimenti necessari per proteggere l'hardware, il software e i dati dagli accessi non autorizzati, al fine di garantirne la riservatezza, nonché da usi illeciti, divulgazione, modifica e distruzione.\nHACKING\nCon questo termine si definisce l’insieme delle tecniche e delle operazioni destinate ad accedere, ma anche a conoscere e modificare un sistema hardware o software. Parliamo di attività lecite, che viene svolta a livello professionale da parte di soggetti che si occupano dell’amministrazione di sistemi informatici, oppure a livello accademico per ragioni di studio.\nLe prestazioni dell’hardware sono, spesse volte limitate dai costruttori: accade quindi che si possa intervenire per la rimozione di questa limitazione. L’insieme delle tecniche e delle operazioni hacking può essere applicato come contromisura al fenomeno degli attacchi a sistemi informatico-telematici sia nel pubblico che nel privato.\nDiamo quindi la definizione di cracking, che consiste nel porre in essere un’attività per alterare la struttura di un programma o aggirare la licenza di utilizzo, rendendone illegale l'uso per fini di lucro o danneggiamento.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Nel 2017 il mercato delle soluzioni di information security in Italia raggiunse un valore di 1,09 miliardi di euro, con una crescita del 12% rispetto all’anno precedente. Di questo oltre miliardo di euro destinato alla sicurezza la gran parte (78%) è appannaggio delle grandi imprese. A spingere le grandi aziende è soprattutto la necessità di essere conformi alla nuova normativa europea sulla privacy, il GDPR.\nLa sicurezza nell’informatica equivale ad attuare tutte le misure, tecniche e accorgimenti necessari per proteggere l'hardware, il software e i dati dagli accessi non autorizzati, al fine di garantirne la riservatezza, nonché da usi illeciti, divulgazione, modifica e distruzione.\nHACKING\nCon questo termine si definisce l’insieme delle tecniche e delle operazioni destinate ad accedere, ma anche a conoscere e modificare un sistema hardware o software. Parliamo di attività ",
+        "highlight": false
+      },
+      {
+        "text": "lecite",
+        "highlight": true
+      },
+      {
+        "text": ", che viene svolta a livello professionale da parte di soggetti che si occupano dell’amministrazione di sistemi informatici, oppure a livello accademico per ragioni di studio.\nLe prestazioni dell’hardware sono, spesse volte limitate dai costruttori: accade quindi che si possa intervenire per la rimozione di questa limitazione. L’insieme delle tecniche e delle operazioni hacking può essere applicato come contromisura al fenomeno degli attacchi a sistemi informatico-telematici sia nel pubblico che nel privato.\nDiamo quindi la definizione di cracking, che consiste nel porre in essere un’attività per alterare la struttura di un programma o aggirare la licenza di utilizzo, rendendone illegale l'uso per fini di lucro o danneggiamento.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "004-02",
@@ -171,7 +256,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 004 · Sicurezza informatica, rischi e Hacking",
     "source_excerpt": "Per mantenere la sicurezza e prevenire trattamenti in violazione al GDPR, il titolare del trattamento o il responsabile del trattamento deve valutare anche il rischio informatico che può essere definito come il rischio di danni economici (rischi diretti) e di reputazione (rischi indiretti) derivanti dall’uso della tecnologia, intendendosi con ciò sia i rischi impliciti nella tecnologia (i cosiddetti rischi di natura endogena) che i rischi derivanti dall’automazione, attraverso l’uso della tecnologia, di processi operativi aziendali (i cosiddetti rischi di natura esogena).\nIn particolare questi ultimi possono essere:\n- danneggiamento di hardware e software;\n- errori nell’esecuzione delle operazioni nei sistemi;\n- malfunzionamento dei sistemi;\n- programmi indesiderati.\nVanno ovviamente predisposte specifiche misure per limitare tali rischi, quali la cifratura. Tali misure devono assicurare un adeguato livello di sicurezza, inclusa la riservatezza, tenuto conto dello stato dell'arte e dei costi di attuazione rispetto ai rischi che presentano i trattamenti e alla natura dei dati personali da proteggere.\nNel GDPR un chiaro riferimento alle misure di sicurezza si trova nell’art. 22 (principio di accountability) e nell'art. 32 sulla sicurezza del trattamento (pseudonimizzazione, cifratura, resilienza, ripristino tempestivo e piani di disaster recovery).",
     "note": "Quesito formulato con negazione nel paniere d'esame; la chiave corretta è 'Tutte le risposte sono corrette'.",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Per mantenere la sicurezza e prevenire trattamenti in violazione al GDPR, il titolare del trattamento o il responsabile del trattamento deve valutare anche il ",
+        "highlight": false
+      },
+      {
+        "text": "rischio informatico",
+        "highlight": true
+      },
+      {
+        "text": " che può essere definito come il rischio di danni economici (rischi diretti) e di reputazione (rischi indiretti) derivanti dall’uso della tecnologia, intendendosi con ciò sia i rischi impliciti nella tecnologia (i cosiddetti rischi di natura endogena) che i rischi derivanti dall’automazione, attraverso l’uso della tecnologia, di processi operativi aziendali (i cosiddetti rischi di natura esogena).\nIn particolare questi ultimi possono essere:\n- danneggiamento di hardware e software;\n- errori nell’esecuzione delle operazioni nei sistemi;\n- malfunzionamento dei sistemi;\n- programmi indesiderati.\nVanno ovviamente predisposte specifiche misure per limitare tali rischi, quali la cifratura. Tali misure devono assicurare un adeguato livello di sicurezza, inclusa la riservatezza, tenuto conto dello stato dell'arte e dei costi di attuazione rispetto ai rischi che presentano i trattamenti e alla natura dei dati personali da proteggere.\nNel GDPR un chiaro riferimento alle misure di sicurezza si trova nell’art. 22 (principio di accountability) e nell'art. 32 sulla sicurezza del trattamento (pseudonimizzazione, cifratura, resilienza, ripristino tempestivo e piani di disaster recovery).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "005-01",
@@ -196,7 +295,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 005 · Sicurezza degli utenti e Fake news",
     "source_excerpt": "Oggi la sicurezza degli utenti è minacciata dalla diffusione delle cosiddette fake news.\nLa creazione e la diffusione di notizie false non è una conseguenza della rivoluzione informatica ma di un fenomeno che è sempre esistito. Con l’avvento di internet e con il successo dei social network le notizie false sono aumentate considerevolmente.\nA differenza di quanto si verificava con i mezzi di comunicazione di massa quali furono la televisione, i giornali e la stessa radio, il web non prevede una figura culturale che possa intervenire e che sia preposta a cosa debba o non debba essere pubblicato: manca qualcuno che al tempo delle verifiche svolgeva la funzione di direttore responsabile e in sua mancanza questa missione era devoluta all’editore.\nAppare così evidente che nel web ciascuno di noi ha la possibilità di diffondere ciò che pensa e ciò che crede valga la pena di diffondere. Sia la correttezza e persino la scientificità degli scritti vengono manipolate e alterate a piacimento. Assistiamo anche alla diffusione di informazioni che influenzano le masse, screditano gli avversari politici e persino riescono a influire sui risultati elettorali.\nEcco perché le fake news rientrano fra i problemi di sicurezza informatica: la diffusione di notizie particolari può interferire sull’ordine pubblico e sulla salute delle persone (come avvenuto nel corso della pandemia da Covid-19).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Oggi la sicurezza degli utenti è minacciata dalla diffusione delle cosiddette fake news.\nLa creazione e la diffusione di notizie ",
+        "highlight": false
+      },
+      {
+        "text": "false",
+        "highlight": true
+      },
+      {
+        "text": " non è una conseguenza della rivoluzione informatica ma di un fenomeno che è sempre esistito. Con l’avvento di internet e con il successo dei social network le notizie false sono aumentate considerevolmente.\nA differenza di quanto si verificava con i mezzi di comunicazione di massa quali furono la televisione, i giornali e la stessa radio, il web non prevede una figura culturale che possa intervenire e che sia preposta a cosa debba o non debba essere pubblicato: manca qualcuno che al tempo delle verifiche svolgeva la funzione di direttore responsabile e in sua mancanza questa missione era devoluta all’editore.\nAppare così evidente che nel web ciascuno di noi ha la possibilità di diffondere ciò che pensa e ciò che crede valga la pena di diffondere. Sia la correttezza e persino la scientificità degli scritti vengono manipolate e alterate a piacimento. Assistiamo anche alla diffusione di informazioni che influenzano le masse, screditano gli avversari politici e persino riescono a influire sui risultati elettorali.\nEcco perché le fake news rientrano fra i problemi di sicurezza informatica: la diffusione di notizie particolari può interferire sull’ordine pubblico e sulla salute delle persone (come avvenuto nel corso della pandemia da Covid-19).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "006-01",
@@ -221,7 +334,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 006 · Cyberlaundering e Cybersquatting",
     "source_excerpt": "Cyberlaundering\nIl cyberlaundering è un fenomeno per molti versi ancora poco conosciuto e difficilmente percepito, infatti, è solo dalla metà degli anni novanta che si parla di riciclaggio via Internet e solo verso la fine dello stesso decennio il rischio di operazioni illecite nella rete viene evidenziato dallo stesso G.A.F.I.\nA seguito dell'11 settembre 2001 la cronaca ha evidenziato l'utilizzo di tecniche informatiche da parte dei terroristi ai fini della raccolta e movimentazione di capitali da utilizzare a scopi terroristici, questo ha portato gli esperti delle principali strutture internazionali antiriciclaggio a porre una crescente attenzione ai fenomeni di movimentazioni di capitali attraverso la rete Internet.\nIl termine cyberlaundering deriva dall'unione del prefisso cyber (dalla letteratura fantascientifica) e del termine laundering (riciclaggio di capitali).\nSi tratta di un fenomeno di riciclaggio sotto diverse forme. La più importante è quella che prevede il trasferimento di somme di denaro provento di attività illecita in conti di cui si ha la disponibilità e quindi la pulizia delle stesse somme. Avuta la disponibilità delle somme si possono effettuare transazioni apparentemente lecite e che invece portano alla commissione di altri reati.\nPer ripulire il denaro e per eludere le norme finanziarie, organizzazioni criminose si avvalgono di sistemi bancari paralleli e di sistemi clandestini come quello cinese feichien che tradotto vuol dire denaro volante. In questo caso il trasferimento di somme dall’Italia alla Cina avviene attraverso il versamento di denaro presso un’agenzia italiana di cambio valuta e la consegna contestuale al richiedente di una password che assume il rango di certificato di deposito, riconsegna del certificato di deposito al destinatario delle somme che opera in Cina ed infine il prelievo delle somme decurtata la provvigione.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Cyberlaundering\nIl cyberlaundering è un fenomeno per molti versi ancora poco conosciuto e difficilmente percepito, infatti, è solo dalla metà degli anni novanta che si parla di riciclaggio via Internet e solo verso la fine dello stesso decennio il rischio di operazioni illecite nella rete viene evidenziato dallo stesso G.A.F.I.\nA seguito dell'11 settembre 2001 la cronaca ha evidenziato l'utilizzo di tecniche informatiche da parte dei terroristi ai fini della raccolta e movimentazione di capitali da utilizzare a scopi terroristici, questo ha portato gli esperti delle principali strutture internazionali antiriciclaggio a porre una crescente attenzione ai fenomeni di movimentazioni di capitali attraverso la rete Internet.\nIl termine cyberlaundering deriva dall'unione del prefisso cyber (dalla letteratura fantascientifica) e del termine laundering (riciclaggio di capitali).\nSi tratta di ",
+        "highlight": false
+      },
+      {
+        "text": "un fenomeno di riciclaggio sotto",
+        "highlight": true
+      },
+      {
+        "text": " diverse forme. La più importante è quella che prevede il trasferimento di somme di denaro provento di attività illecita in conti di cui si ha la disponibilità e quindi la pulizia delle stesse somme. Avuta la disponibilità delle somme si possono effettuare transazioni apparentemente lecite e che invece portano alla commissione di altri reati.\nPer ripulire il denaro e per eludere le norme finanziarie, organizzazioni criminose si avvalgono di sistemi bancari paralleli e di sistemi clandestini come quello cinese feichien che tradotto vuol dire denaro volante. In questo caso il trasferimento di somme dall’Italia alla Cina avviene attraverso il versamento di denaro presso un’agenzia italiana di cambio valuta e la consegna contestuale al richiedente di una password che assume il rango di certificato di deposito, riconsegna del certificato di deposito al destinatario delle somme che opera in Cina ed infine il prelievo delle somme decurtata la provvigione.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "006-02",
@@ -246,7 +373,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 006 · Cyberlaundering e Cybersquatting",
     "source_excerpt": "Cyberlaundering\nIl cyberlaundering è un fenomeno per molti versi ancora poco conosciuto e difficilmente percepito, infatti, è solo dalla metà degli anni novanta che si parla di riciclaggio via Internet e solo verso la fine dello stesso decennio il rischio di operazioni illecite nella rete viene evidenziato dallo stesso G.A.F.I.\nA seguito dell'11 settembre 2001 la cronaca ha evidenziato l'utilizzo di tecniche informatiche da parte dei terroristi ai fini della raccolta e movimentazione di capitali da utilizzare a scopi terroristici, questo ha portato gli esperti delle principali strutture internazionali antiriciclaggio a porre una crescente attenzione ai fenomeni di movimentazioni di capitali attraverso la rete Internet.\nIl termine cyberlaundering deriva dall'unione del prefisso cyber (dalla letteratura fantascientifica) e del termine laundering (riciclaggio di capitali).\nSi tratta di un fenomeno di riciclaggio sotto diverse forme. La più importante è quella che prevede il trasferimento di somme di denaro provento di attività illecita in conti di cui si ha la disponibilità e quindi la pulizia delle stesse somme. Avuta la disponibilità delle somme si possono effettuare transazioni apparentemente lecite e che invece portano alla commissione di altri reati.\nPer ripulire il denaro e per eludere le norme finanziarie, organizzazioni criminose si avvalgono di sistemi bancari paralleli e di sistemi clandestini come quello cinese feichien che tradotto vuol dire denaro volante. In questo caso il trasferimento di somme dall’Italia alla Cina avviene attraverso il versamento di denaro presso un’agenzia italiana di cambio valuta e la consegna contestuale al richiedente di una password che assume il rango di certificato di deposito, riconsegna del certificato di deposito al destinatario delle somme che opera in Cina ed infine il prelievo delle somme decurtata la provvigione.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Cyberlaundering\nIl cyberlaundering è un fenomeno per molti versi ancora poco conosciuto e difficilmente percepito, infatti, è solo dalla metà degli anni novanta che si parla di riciclaggio via Internet e solo verso la fine dello stesso decennio il rischio di operazioni illecite nella rete viene evidenziato dallo stesso G.A.F.I.\nA seguito dell'11 settembre 2001 la cronaca ha evidenziato l'utilizzo di tecniche informatiche da parte dei terroristi ai fini della raccolta e movimentazione di capitali da utilizzare a scopi terroristici, questo ha portato gli esperti delle principali strutture internazionali antiriciclaggio a porre una crescente attenzione ai fenomeni di movimentazioni di capitali attraverso la rete Internet.\nIl termine cyberlaundering deriva dall'unione del prefisso cyber (dalla letteratura fantascientifica) e del termine laundering (riciclaggio di capitali).\nSi tratta di un fenomeno di riciclaggio sotto diverse forme. La più importante è quella che prevede il trasferimento di somme di denaro provento di attività illecita in conti di cui si ha la disponibilità e quindi la pulizia delle stesse somme. Avuta la disponibilità delle somme si possono effettuare transazioni apparentemente lecite e che invece portano alla commissione di altri reati.\nPer ripulire il denaro e per eludere le norme finanziarie, organizzazioni criminose si avvalgono di sistemi bancari paralleli e di sistemi clandestini come quello cinese feichien che tradotto vuol dire ",
+        "highlight": false
+      },
+      {
+        "text": "denaro volante",
+        "highlight": true
+      },
+      {
+        "text": ". In questo caso il trasferimento di somme dall’Italia alla Cina avviene attraverso il versamento di denaro presso un’agenzia italiana di cambio valuta e la consegna contestuale al richiedente di una password che assume il rango di certificato di deposito, riconsegna del certificato di deposito al destinatario delle somme che opera in Cina ed infine il prelievo delle somme decurtata la provvigione.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "006-03",
@@ -271,7 +412,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 006 · Cyberlaundering e Cybersquatting",
     "source_excerpt": "Il Cybersquatting\nIl cybersquatting ha avuto il suo apice nella seconda metà degli anni novanta quando, a fronte di una conoscenza ancora molto approssimativa delle potenzialità commerciali connesse all'utilizzo di internet, taluni soggetti, più esperti nel mondo telematico, hanno incominciato a registrare centinaia di nomi a dominio corrispondenti a marchi famosi.\nSecondo un'indagine svolta nell'agosto del 1995, imprese del calibro di Coca-Cola e Viacom, intervistate circa la possibilità di estendere le proprie attività di marketing in internet, avrebbero dichiarato di non avere alcuna idea se in rete qualcuno avesse già registrato nomi a dominio corrispondenti ai loro prodotti o marchi.\nIl cybersquatting indica il fenomeno di accaparramento di nomi di dominio corrispondenti a marchi altrui o nomi di personaggi famosi al fine di realizzare un lucro sul trasferimento del dominio a chi ne abbia interesse.\nRiguardo all'ipotesi in cui a venire registrato da terzi in malafede sia il nome di una persona, la giurisprudenza ha ritenuto applicabile la tutela del nome prevista dall'articolo 7 c.c., individuando quali presupposti della tutela il fatto dell'usurpazione e il pregiudizio economico-morale.\nPer le imprese, superando un primo orientamento restrittivo, il nome a dominio è stato assimilato all'insegna, perché svolge l'identica funzione di contraddistinguere il luogo virtuale in cui l'imprenditore offre al pubblico i propri prodotti o servizi (Codice della Proprietà Industriale), vietando l'adozione di segni che possano determinare rischio di confusione o associazione.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Il Cybersquatting\nIl cybersquatting ha avuto il suo apice nella seconda metà degli anni novanta quando, a fronte di una conoscenza ancora molto approssimativa delle potenzialità commerciali connesse all'utilizzo di internet, taluni soggetti, più esperti nel mondo telematico, hanno incominciato a registrare centinaia di nomi a dominio corrispondenti a marchi famosi.\nSecondo un'indagine svolta nell'agosto del 1995, imprese del calibro di Coca-Cola e Viacom, intervistate circa la possibilità di estendere le proprie attività di marketing in internet, avrebbero dichiarato di non avere alcuna idea se in rete qualcuno avesse già registrato nomi a dominio corrispondenti ai loro prodotti o marchi.\nIl cybersquatting indica il fenomeno di accaparramento di nomi di dominio corrispondenti a marchi altrui o nomi di personaggi famosi al fine di realizzare un lucro sul trasferimento del dominio a chi ne abbia interesse.\nRiguardo all'ipotesi in cui a venire registrato da terzi in malafede sia il nome di una persona, la giurisprudenza ha ritenuto applicabile la tutela del nome prevista dall'articolo 7 c.c., individuando quali presupposti della tutela il fatto dell'usurpazione e il pregiudizio economico-morale.\nPer le imprese, superando un primo orientamento restrittivo, ",
+        "highlight": false
+      },
+      {
+        "text": "il nome a dominio",
+        "highlight": true
+      },
+      {
+        "text": " è stato assimilato all'insegna, perché svolge l'identica funzione di contraddistinguere il luogo virtuale in cui l'imprenditore offre al pubblico i propri prodotti o servizi (Codice della Proprietà Industriale), vietando l'adozione di segni che possano determinare rischio di confusione o associazione.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "006-04",
@@ -296,7 +451,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 006 · Cyberlaundering e Cybersquatting",
     "source_excerpt": "Il Cybersquatting\nIl cybersquatting ha avuto il suo apice nella seconda metà degli anni novanta quando, a fronte di una conoscenza ancora molto approssimativa delle potenzialità commerciali connesse all'utilizzo di internet, taluni soggetti, più esperti nel mondo telematico, hanno incominciato a registrare centinaia di nomi a dominio corrispondenti a marchi famosi.\nSecondo un'indagine svolta nell'agosto del 1995, imprese del calibro di Coca-Cola e Viacom, intervistate circa la possibilità di estendere le proprie attività di marketing in internet, avrebbero dichiarato di non avere alcuna idea se in rete qualcuno avesse già registrato nomi a dominio corrispondenti ai loro prodotti o marchi.\nIl cybersquatting indica il fenomeno di accaparramento di nomi di dominio corrispondenti a marchi altrui o nomi di personaggi famosi al fine di realizzare un lucro sul trasferimento del dominio a chi ne abbia interesse.\nRiguardo all'ipotesi in cui a venire registrato da terzi in malafede sia il nome di una persona, la giurisprudenza ha ritenuto applicabile la tutela del nome prevista dall'articolo 7 c.c., individuando quali presupposti della tutela il fatto dell'usurpazione e il pregiudizio economico-morale.\nPer le imprese, superando un primo orientamento restrittivo, il nome a dominio è stato assimilato all'insegna, perché svolge l'identica funzione di contraddistinguere il luogo virtuale in cui l'imprenditore offre al pubblico i propri prodotti o servizi (Codice della Proprietà Industriale), vietando l'adozione di segni che possano determinare rischio di confusione o associazione.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Il Cybersquatting\nIl cybersquatting ha avuto il suo apice ",
+        "highlight": false
+      },
+      {
+        "text": "nella seconda metà degli anni",
+        "highlight": true
+      },
+      {
+        "text": " novanta quando, a fronte di una conoscenza ancora molto approssimativa delle potenzialità commerciali connesse all'utilizzo di internet, taluni soggetti, più esperti nel mondo telematico, hanno incominciato a registrare centinaia di nomi a dominio corrispondenti a marchi famosi.\nSecondo un'indagine svolta nell'agosto del 1995, imprese del calibro di Coca-Cola e Viacom, intervistate circa la possibilità di estendere le proprie attività di marketing in internet, avrebbero dichiarato di non avere alcuna idea se in rete qualcuno avesse già registrato nomi a dominio corrispondenti ai loro prodotti o marchi.\nIl cybersquatting indica il fenomeno di accaparramento di nomi di dominio corrispondenti a marchi altrui o nomi di personaggi famosi al fine di realizzare un lucro sul trasferimento del dominio a chi ne abbia interesse.\nRiguardo all'ipotesi in cui a venire registrato da terzi in malafede sia il nome di una persona, la giurisprudenza ha ritenuto applicabile la tutela del nome prevista dall'articolo 7 c.c., individuando quali presupposti della tutela il fatto dell'usurpazione e il pregiudizio economico-morale.\nPer le imprese, superando un primo orientamento restrittivo, il nome a dominio è stato assimilato all'insegna, perché svolge l'identica funzione di contraddistinguere il luogo virtuale in cui l'imprenditore offre al pubblico i propri prodotti o servizi (Codice della Proprietà Industriale), vietando l'adozione di segni che possano determinare rischio di confusione o associazione.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "007-01",
@@ -321,7 +490,17 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 007 · Defacing, Pharming e Cracker",
     "source_excerpt": "Il defacing\nSi tratta di quel fenomeno che in ambito informatico usa cambiare (defacciare, ovvero sfigurare) illecitamente la home page di un sito web (la sua faccia, quindi), o modificarne, sostituendole, una più o tutte le pagine interne. Com’è chiaro, tale pratica, vero e proprio atto vandalico, è attuata da persone non autorizzate, all'insaputa di chi gestisce il sito, per le motivazioni più disparate (dalla dimostrazione d'abilità a ragioni ideologiche, sino alle motivazioni economiche) e, di solito, sfrutta i bug presenti nel software di gestione del sito oppure nei sistemi operativi sottostanti.\nIl defacing dunque non è altro che uno scherzo goliardico per molti, che arreca danno di immagine alla vittima. Da questo punto di vista rappresenta l'estrema evoluzione di quelle azioni puramente dimostrative degli hacker delle prime reti telematiche, legate a un codice d'onore che imponeva di non distruggere dati.\nTuttavia il defacing può anche essere utilizzato per scopi criminali ben più gravi: propaganda politica ostile, minaccia di reiterati defacing a scopo di estorsione o ricatto, oppure truffa perpetrata da un cracker che, alterando la pagina di pagamento, reindirizza la transazione su una pagina fasulla per carpire i dati della carta di credito.",
     "note": "Nel testo d'esame è presente il refuso 'i hug' per indicare 'i bug'.",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Il defacing",
+        "highlight": true
+      },
+      {
+        "text": "\nSi tratta di quel fenomeno che in ambito informatico usa cambiare (defacciare, ovvero sfigurare) illecitamente la home page di un sito web (la sua faccia, quindi), o modificarne, sostituendole, una più o tutte le pagine interne. Com’è chiaro, tale pratica, vero e proprio atto vandalico, è attuata da persone non autorizzate, all'insaputa di chi gestisce il sito, per le motivazioni più disparate (dalla dimostrazione d'abilità a ragioni ideologiche, sino alle motivazioni economiche) e, di solito, sfrutta i bug presenti nel software di gestione del sito oppure nei sistemi operativi sottostanti.\nIl defacing dunque non è altro che uno scherzo goliardico per molti, che arreca danno di immagine alla vittima. Da questo punto di vista rappresenta l'estrema evoluzione di quelle azioni puramente dimostrative degli hacker delle prime reti telematiche, legate a un codice d'onore che imponeva di non distruggere dati.\nTuttavia il defacing può anche essere utilizzato per scopi criminali ben più gravi: propaganda politica ostile, minaccia di reiterati defacing a scopo di estorsione o ricatto, oppure truffa perpetrata da un cracker che, alterando la pagina di pagamento, reindirizza la transazione su una pagina fasulla per carpire i dati della carta di credito.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "007-02",
@@ -346,7 +525,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 007 · Defacing, Pharming e Cracker",
     "source_excerpt": "Il Pharming\nIl pharming consiste nell’infettare il computer della vittima con un trojan che altera la gestione degli indirizzi IP. In pratica l’utente inserisce l’indirizzo corretto del sito della propria banca ma il computer, infettato dal trojan, associa al dominio web digitato l’IP della pagina fasulla che capterà truffaldinamente la chiave di accesso all’home banking del malcapitato.\nIl pharming è quindi l’inserimento di virus o codice dannoso nei software in modo da potere monitorare e spiare costantemente gli utenti. Si tratta di un attacco alla rete che mira a spostare il traffico diretto su un certo sito web verso un sito web indicato dall'attaccante.\nIl nome deriva dalla contrazione di phishing e farming, poiché si tratta in sostanza di una sorta di phishing che può colpire una moltitudine di utenti allo stesso tempo. Il pharming è essenzialmente mirato a siti di commercio elettronico e siti di banking. Le due metodologie di attacco più diffuse per realizzarlo agiscono rispettivamente sul computer dell'utente (modifica del file hosts) oppure su un server DNS (DNS poisoning).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Il Pharming\nIl pharming consiste nell’",
+        "highlight": false
+      },
+      {
+        "text": "infettare il computer",
+        "highlight": true
+      },
+      {
+        "text": " della vittima con un trojan che altera la gestione degli indirizzi IP. In pratica l’utente inserisce l’indirizzo corretto del sito della propria banca ma il computer, infettato dal trojan, associa al dominio web digitato l’IP della pagina fasulla che capterà truffaldinamente la chiave di accesso all’home banking del malcapitato.\nIl pharming è quindi l’inserimento di virus o codice dannoso nei software in modo da potere monitorare e spiare costantemente gli utenti. Si tratta di un attacco alla rete che mira a spostare il traffico diretto su un certo sito web verso un sito web indicato dall'attaccante.\nIl nome deriva dalla contrazione di phishing e farming, poiché si tratta in sostanza di una sorta di phishing che può colpire una moltitudine di utenti allo stesso tempo. Il pharming è essenzialmente mirato a siti di commercio elettronico e siti di banking. Le due metodologie di attacco più diffuse per realizzarlo agiscono rispettivamente sul computer dell'utente (modifica del file hosts) oppure su un server DNS (DNS poisoning).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "007-03",
@@ -371,7 +564,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 007 · Defacing, Pharming e Cracker",
     "source_excerpt": "Il defacing\nSi tratta di quel fenomeno che in ambito informatico usa cambiare (defacciare, ovvero sfigurare) illecitamente la home page di un sito web (la sua faccia, quindi), o modificarne, sostituendole, una più o tutte le pagine interne. Com’è chiaro, tale pratica, vero e proprio atto vandalico, è attuata da persone non autorizzate, all'insaputa di chi gestisce il sito, per le motivazioni più disparate (dalla dimostrazione d'abilità a ragioni ideologiche, sino alle motivazioni economiche) e, di solito, sfrutta i bug presenti nel software di gestione del sito oppure nei sistemi operativi sottostanti.\nIl defacing dunque non è altro che uno scherzo goliardico per molti, che arreca danno di immagine alla vittima. Da questo punto di vista rappresenta l'estrema evoluzione di quelle azioni puramente dimostrative degli hacker delle prime reti telematiche, legate a un codice d'onore che imponeva di non distruggere dati.\nTuttavia il defacing può anche essere utilizzato per scopi criminali ben più gravi: propaganda politica ostile, minaccia di reiterati defacing a scopo di estorsione o ricatto, oppure truffa perpetrata da un cracker che, alterando la pagina di pagamento, reindirizza la transazione su una pagina fasulla per carpire i dati della carta di credito.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Il defacing\nSi tratta di quel fenomeno che in ambito informatico usa cambiare (",
+        "highlight": false
+      },
+      {
+        "text": "defacciare",
+        "highlight": true
+      },
+      {
+        "text": ", ovvero sfigurare) illecitamente la home page di un sito web (la sua faccia, quindi), o modificarne, sostituendole, una più o tutte le pagine interne. Com’è chiaro, tale pratica, vero e proprio atto vandalico, è attuata da persone non autorizzate, all'insaputa di chi gestisce il sito, per le motivazioni più disparate (dalla dimostrazione d'abilità a ragioni ideologiche, sino alle motivazioni economiche) e, di solito, sfrutta i bug presenti nel software di gestione del sito oppure nei sistemi operativi sottostanti.\nIl defacing dunque non è altro che uno scherzo goliardico per molti, che arreca danno di immagine alla vittima. Da questo punto di vista rappresenta l'estrema evoluzione di quelle azioni puramente dimostrative degli hacker delle prime reti telematiche, legate a un codice d'onore che imponeva di non distruggere dati.\nTuttavia il defacing può anche essere utilizzato per scopi criminali ben più gravi: propaganda politica ostile, minaccia di reiterati defacing a scopo di estorsione o ricatto, oppure truffa perpetrata da un cracker che, alterando la pagina di pagamento, reindirizza la transazione su una pagina fasulla per carpire i dati della carta di credito.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "007-04",
@@ -396,7 +603,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 007 · Defacing, Pharming e Cracker",
     "source_excerpt": "Il Pharming\nIl pharming consiste nell’infettare il computer della vittima con un trojan che altera la gestione degli indirizzi IP. In pratica l’utente inserisce l’indirizzo corretto del sito della propria banca ma il computer, infettato dal trojan, associa al dominio web digitato l’IP della pagina fasulla che capterà truffaldinamente la chiave di accesso all’home banking del malcapitato.\nIl pharming è quindi l’inserimento di virus o codice dannoso nei software in modo da potere monitorare e spiare costantemente gli utenti. Si tratta di un attacco alla rete che mira a spostare il traffico diretto su un certo sito web verso un sito web indicato dall'attaccante.\nIl nome deriva dalla contrazione di phishing e farming, poiché si tratta in sostanza di una sorta di phishing che può colpire una moltitudine di utenti allo stesso tempo. Il pharming è essenzialmente mirato a siti di commercio elettronico e siti di banking. Le due metodologie di attacco più diffuse per realizzarlo agiscono rispettivamente sul computer dell'utente (modifica del file hosts) oppure su un server DNS (DNS poisoning).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Il Pharming\nIl pharming consiste nell’infettare il computer della vittima con un trojan che altera la gestione degli indirizzi IP. In pratica l’utente inserisce l’indirizzo corretto del sito della propria banca ma il computer, infettato dal trojan, associa al dominio web digitato l’IP della pagina fasulla che capterà truffaldinamente la chiave di accesso all’home banking del malcapitato.\nIl pharming è quindi l’inserimento di virus o codice dannoso nei software in modo da potere monitorare e spiare costantemente gli utenti. Si tratta di un attacco alla rete che mira a spostare il traffico diretto su un certo sito web verso un sito web indicato dall'attaccante.\nIl nome deriva dalla contrazione di phishing e farming, poiché si tratta in sostanza di una sorta di phishing che può colpire una moltitudine di utenti allo stesso tempo. Il pharming è essenzialmente mirato a siti di ",
+        "highlight": false
+      },
+      {
+        "text": "commercio",
+        "highlight": true
+      },
+      {
+        "text": " elettronico e siti di banking. Le due metodologie di attacco più diffuse per realizzarlo agiscono rispettivamente sul computer dell'utente (modifica del file hosts) oppure su un server DNS (DNS poisoning).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "007-05",
@@ -421,7 +642,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 007 · Defacing, Pharming e Cracker",
     "source_excerpt": "Differenza fra hacker e cracker:\nMentre i primi fanno irruzione nei sistemi altrui per gioco o scommessa, ma non arrecano danni e non approfittano della situazione, i secondi invece compiono vere e proprie razzie talvolta anche devastanti, e solitamente agiscono per vendetta (sia personale che sociale) o per semplice profitto personale.\nSul fronte dei cracker dunque le cose non sono idilliache: accantonati ormai i pur deboli motivi ideologici, i cracker di oggi agiscono essenzialmente per motivi di lucro. I meno scrupolosi rivolgono le proprie attenzioni ai sistemi di e-commerce o di trading online, attirati dalla possibilità di catturare denaro falsificando transazioni o penetrando nei siti delle istituzioni finanziarie; gli altri cercano di compiere gesta clamorose per guadagnarsi notorietà, nella speranza di farsi assumere e pagare a peso d'oro come responsabili della sicurezza informatica.\nFare il cracker al giorno d'oggi è facilitato dalla standardizzazione dei sistemi operativi server (come Windows NT), che ha consentito di concentrare gli sforzi su un solo grosso bersaglio diffuso a livello planetario.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Differenza fra hacker e cracker:\nMentre i primi fanno irruzione nei sistemi altrui per gioco o scommessa, ma non arrecano danni e non approfittano della situazione, i secondi invece compiono vere e proprie razzie talvolta anche devastanti, e solitamente agiscono per vendetta (sia personale che sociale) o per semplice profitto personale.\nSul fronte dei cracker dunque le cose non sono idilliache: accantonati ormai i pur deboli motivi ideologici, i cracker di oggi agiscono essenzialmente per motivi di ",
+        "highlight": false
+      },
+      {
+        "text": "lucro",
+        "highlight": true
+      },
+      {
+        "text": ". I meno scrupolosi rivolgono le proprie attenzioni ai sistemi di e-commerce o di trading online, attirati dalla possibilità di catturare denaro falsificando transazioni o penetrando nei siti delle istituzioni finanziarie; gli altri cercano di compiere gesta clamorose per guadagnarsi notorietà, nella speranza di farsi assumere e pagare a peso d'oro come responsabili della sicurezza informatica.\nFare il cracker al giorno d'oggi è facilitato dalla standardizzazione dei sistemi operativi server (come Windows NT), che ha consentito di concentrare gli sforzi su un solo grosso bersaglio diffuso a livello planetario.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "007-06",
@@ -446,7 +681,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 007 · Defacing, Pharming e Cracker",
     "source_excerpt": "Differenza fra hacker e cracker:\nMentre i primi fanno irruzione nei sistemi altrui per gioco o scommessa, ma non arrecano danni e non approfittano della situazione, i secondi invece compiono vere e proprie razzie talvolta anche devastanti, e solitamente agiscono per vendetta (sia personale che sociale) o per semplice profitto personale.\nSul fronte dei cracker dunque le cose non sono idilliache: accantonati ormai i pur deboli motivi ideologici, i cracker di oggi agiscono essenzialmente per motivi di lucro. I meno scrupolosi rivolgono le proprie attenzioni ai sistemi di e-commerce o di trading online, attirati dalla possibilità di catturare denaro falsificando transazioni o penetrando nei siti delle istituzioni finanziarie; gli altri cercano di compiere gesta clamorose per guadagnarsi notorietà, nella speranza di farsi assumere e pagare a peso d'oro come responsabili della sicurezza informatica.\nFare il cracker al giorno d'oggi è facilitato dalla standardizzazione dei sistemi operativi server (come Windows NT), che ha consentito di concentrare gli sforzi su un solo grosso bersaglio diffuso a livello planetario.",
     "note": "Nel testo originario è presente il refuso 'cracken'.",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Differenza fra hacker e cracker:\nMentre ",
+        "highlight": false
+      },
+      {
+        "text": "i primi",
+        "highlight": true
+      },
+      {
+        "text": " fanno irruzione nei sistemi altrui per gioco o scommessa, ma non arrecano danni e non approfittano della situazione, i secondi invece compiono vere e proprie razzie talvolta anche devastanti, e solitamente agiscono per vendetta (sia personale che sociale) o per semplice profitto personale.\nSul fronte dei cracker dunque le cose non sono idilliache: accantonati ormai i pur deboli motivi ideologici, i cracker di oggi agiscono essenzialmente per motivi di lucro. I meno scrupolosi rivolgono le proprie attenzioni ai sistemi di e-commerce o di trading online, attirati dalla possibilità di catturare denaro falsificando transazioni o penetrando nei siti delle istituzioni finanziarie; gli altri cercano di compiere gesta clamorose per guadagnarsi notorietà, nella speranza di farsi assumere e pagare a peso d'oro come responsabili della sicurezza informatica.\nFare il cracker al giorno d'oggi è facilitato dalla standardizzazione dei sistemi operativi server (come Windows NT), che ha consentito di concentrare gli sforzi su un solo grosso bersaglio diffuso a livello planetario.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "008-01",
@@ -471,7 +720,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 008 · Phishing, Sniffing e Spoofing",
     "source_excerpt": "Phishing: Con questo termine si suole indicare l’uso di comunicazioni elettroniche che abbiano come fine l’ottenimento all’accesso di informazioni personali. Tramite email in apparenza provenienti da una banca, si invita il cliente a digitare i propri dati personali, in particolare numero di conto e codice di identificazione, con la scusa di una verifica di sicurezza. Con quei codici l’agente ha la possibilità di entrare sul conto effettuando disposizioni a proprio favore. È un’attività illegale che sfrutta le tecniche di ingegneria sociale. L'accredito delle somme viene poi riciclato all'estero tramite sistemi di money transfer.\nSniffing: Con questo termine si indica l’attività di intercettazione dei dati che transitano in una determinata rete. Può avere scopi leciti di analisi e gestione del traffico, ma assume rilievo penale quando è impiegato per rubare password, numeri di conto e informazioni personali, sfruttando connessioni Wi-Fi aperte o non sicure (es. in hotel o aeroporti).\nSpoofing: Questo tipo di fenomeno sfrutta le comunicazioni elettroniche come fossero richieste di aiuto. L’autore materiale ha come destinatario delle richieste amici e conoscenti della vittima del furto di identità i cui indirizzi sono stati sottratti dalla sua mailing list. Con la Legge 119 del 2014, che ha modificato l'art. 640-ter c.p. inserendo il terzo comma, è stata introdotta l'aggravante per il fatto commesso mediante furto o indebito utilizzo dell'identità digitale.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Phishing: Con questo termine si suole indicare l’uso di comunicazioni elettroniche che abbiano come fine l’ottenimento all’accesso di informazioni personali. Tramite email in apparenza provenienti da una banca, si invita il cliente a digitare i propri ",
+        "highlight": false
+      },
+      {
+        "text": "dati personali",
+        "highlight": true
+      },
+      {
+        "text": ", in particolare numero di conto e codice di identificazione, con la scusa di una verifica di sicurezza. Con quei codici l’agente ha la possibilità di entrare sul conto effettuando disposizioni a proprio favore. È un’attività illegale che sfrutta le tecniche di ingegneria sociale. L'accredito delle somme viene poi riciclato all'estero tramite sistemi di money transfer.\nSniffing: Con questo termine si indica l’attività di intercettazione dei dati che transitano in una determinata rete. Può avere scopi leciti di analisi e gestione del traffico, ma assume rilievo penale quando è impiegato per rubare password, numeri di conto e informazioni personali, sfruttando connessioni Wi-Fi aperte o non sicure (es. in hotel o aeroporti).\nSpoofing: Questo tipo di fenomeno sfrutta le comunicazioni elettroniche come fossero richieste di aiuto. L’autore materiale ha come destinatario delle richieste amici e conoscenti della vittima del furto di identità i cui indirizzi sono stati sottratti dalla sua mailing list. Con la Legge 119 del 2014, che ha modificato l'art. 640-ter c.p. inserendo il terzo comma, è stata introdotta l'aggravante per il fatto commesso mediante furto o indebito utilizzo dell'identità digitale.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "008-02",
@@ -496,7 +759,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 008 · Phishing, Sniffing e Spoofing",
     "source_excerpt": "Phishing: Con questo termine si suole indicare l’uso di comunicazioni elettroniche che abbiano come fine l’ottenimento all’accesso di informazioni personali. Tramite email in apparenza provenienti da una banca, si invita il cliente a digitare i propri dati personali, in particolare numero di conto e codice di identificazione, con la scusa di una verifica di sicurezza. Con quei codici l’agente ha la possibilità di entrare sul conto effettuando disposizioni a proprio favore. È un’attività illegale che sfrutta le tecniche di ingegneria sociale. L'accredito delle somme viene poi riciclato all'estero tramite sistemi di money transfer.\nSniffing: Con questo termine si indica l’attività di intercettazione dei dati che transitano in una determinata rete. Può avere scopi leciti di analisi e gestione del traffico, ma assume rilievo penale quando è impiegato per rubare password, numeri di conto e informazioni personali, sfruttando connessioni Wi-Fi aperte o non sicure (es. in hotel o aeroporti).\nSpoofing: Questo tipo di fenomeno sfrutta le comunicazioni elettroniche come fossero richieste di aiuto. L’autore materiale ha come destinatario delle richieste amici e conoscenti della vittima del furto di identità i cui indirizzi sono stati sottratti dalla sua mailing list. Con la Legge 119 del 2014, che ha modificato l'art. 640-ter c.p. inserendo il terzo comma, è stata introdotta l'aggravante per il fatto commesso mediante furto o indebito utilizzo dell'identità digitale.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Phishing: Con questo termine si suole indicare l’uso di comunicazioni elettroniche che abbiano come fine l’ottenimento all’accesso di informazioni personali. Tramite email in apparenza provenienti da una banca, si invita il cliente a digitare i propri dati personali, in particolare numero di conto e codice di identificazione, con la scusa di una verifica di sicurezza. Con quei codici l’agente ha la possibilità di entrare sul conto effettuando disposizioni a proprio favore. È un’attività illegale che sfrutta le tecniche di ingegneria sociale. L'accredito delle somme viene poi riciclato all'estero tramite sistemi di money transfer.\nSniffing: Con questo termine si indica l’attività di intercettazione dei dati che transitano in una determinata rete. Può avere scopi leciti di analisi e gestione del traffico, ma assume rilievo penale quando è impiegato per rubare password, numeri di conto e informazioni personali, sfruttando connessioni Wi-Fi aperte o non sicure (es. in hotel o aeroporti).\n",
+        "highlight": false
+      },
+      {
+        "text": "Spoofing",
+        "highlight": true
+      },
+      {
+        "text": ": Questo tipo di fenomeno sfrutta le comunicazioni elettroniche come fossero richieste di aiuto. L’autore materiale ha come destinatario delle richieste amici e conoscenti della vittima del furto di identità i cui indirizzi sono stati sottratti dalla sua mailing list. Con la Legge 119 del 2014, che ha modificato l'art. 640-ter c.p. inserendo il terzo comma, è stata introdotta l'aggravante per il fatto commesso mediante furto o indebito utilizzo dell'identità digitale.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "009-01",
@@ -521,7 +798,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 009 · Cyberbullismo",
     "source_excerpt": "Cyber-bullismo\nNella fattispecie si tratta di atti di molestia, quasi sempre tra minorenni, che prendono campo online attraverso l’invio di messaggi, foto o video con contenuti falsi, offensivi e minacciosi. Il cyberbullismo può costituire violazione del codice penale, del codice civile e del codice della privacy.\nLa condotta è analoga al bullismo tradizionale: i bulli prendono di mira un compagno con la finalità di isolarlo ed espellerlo dal gruppo sociale.\nDiversamente dal bullismo, il cyberbullismo si caratterizza per l’anonimato del molestatore e per la difficoltà che la vittima incontra nel rintracciarlo e nel porvi rimedio. Questo anonimato consente la commissione di atti che di persona non si compirebbero mai.\nI cyberbulli si sentono forti perché protetti dietro uno schermo o un dispositivo mobile. Le ragioni della crescita del fenomeno sono quattro:\n1) La facilità di nascondersi fa sentire i minori impuniti e invincibili ('leoni da tastiera');\n2) La distanza online riduce l'empatia dell'aggressore, rendendolo inconsapevole del danno psicologico cagionato;\n3) Internet moltiplica viralmente il danno, consentendo a migliaia di utenti di visualizzare e condividere i post offensivi in poche ore;\n4) L'immediatezza delle comunicazioni accresce il conflitto prolungandolo sia online che in presenza. Le conseguenze sulla vittima possono essere devastanti: ansia, depressione, isolamento e crollo dell'autostima.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Cyber-bullismo\nNella fattispecie si tratta di atti di molestia, quasi sempre tra minorenni, che prendono campo online attraverso l’invio di messaggi, foto o video con contenuti falsi, offensivi e minacciosi. Il cyberbullismo può costituire violazione del codice penale, del codice civile e del codice della privacy.\nLa condotta è analoga al bullismo tradizionale: i bulli prendono di mira un compagno con la finalità di isolarlo ed espellerlo dal gruppo sociale.\nDiversamente dal bullismo, il cyberbullismo si caratterizza per l’anonimato del molestatore e per la difficoltà che la vittima incontra nel rintracciarlo e nel porvi rimedio. Questo anonimato consente la commissione di atti che di persona non si compirebbero mai.\nI cyberbulli si sentono forti perché protetti dietro uno schermo o un dispositivo mobile. Le ragioni della crescita del fenomeno sono quattro:\n1) La facilità di nascondersi fa sentire i minori impuniti e invincibili ('leoni da tastiera');\n2) ",
+        "highlight": false
+      },
+      {
+        "text": "La distanza online",
+        "highlight": true
+      },
+      {
+        "text": " riduce l'empatia dell'aggressore, rendendolo inconsapevole del danno psicologico cagionato;\n3) Internet moltiplica viralmente il danno, consentendo a migliaia di utenti di visualizzare e condividere i post offensivi in poche ore;\n4) L'immediatezza delle comunicazioni accresce il conflitto prolungandolo sia online che in presenza. Le conseguenze sulla vittima possono essere devastanti: ansia, depressione, isolamento e crollo dell'autostima.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "009-02",
@@ -546,7 +837,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 009 · Cyberbullismo",
     "source_excerpt": "Cyber-bullismo\nNella fattispecie si tratta di atti di molestia, quasi sempre tra minorenni, che prendono campo online attraverso l’invio di messaggi, foto o video con contenuti falsi, offensivi e minacciosi. Il cyberbullismo può costituire violazione del codice penale, del codice civile e del codice della privacy.\nLa condotta è analoga al bullismo tradizionale: i bulli prendono di mira un compagno con la finalità di isolarlo ed espellerlo dal gruppo sociale.\nDiversamente dal bullismo, il cyberbullismo si caratterizza per l’anonimato del molestatore e per la difficoltà che la vittima incontra nel rintracciarlo e nel porvi rimedio. Questo anonimato consente la commissione di atti che di persona non si compirebbero mai.\nI cyberbulli si sentono forti perché protetti dietro uno schermo o un dispositivo mobile. Le ragioni della crescita del fenomeno sono quattro:\n1) La facilità di nascondersi fa sentire i minori impuniti e invincibili ('leoni da tastiera');\n2) La distanza online riduce l'empatia dell'aggressore, rendendolo inconsapevole del danno psicologico cagionato;\n3) Internet moltiplica viralmente il danno, consentendo a migliaia di utenti di visualizzare e condividere i post offensivi in poche ore;\n4) L'immediatezza delle comunicazioni accresce il conflitto prolungandolo sia online che in presenza. Le conseguenze sulla vittima possono essere devastanti: ansia, depressione, isolamento e crollo dell'autostima.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Cyber-bullismo\nNella fattispecie si tratta di atti di molestia, quasi sempre tra minorenni, che prendono campo online attraverso l’invio di messaggi, foto o video con contenuti falsi, offensivi e minacciosi. Il cyberbullismo può costituire violazione del codice penale, del codice civile e del codice della privacy.\nLa condotta è analoga al bullismo tradizionale: i bulli prendono di mira un compagno con la finalità di isolarlo ed espellerlo dal gruppo sociale.\nDiversamente dal bullismo, il cyberbullismo si caratterizza per l’anonimato del molestatore e per la difficoltà che la vittima incontra nel rintracciarlo e nel porvi rimedio. Questo anonimato consente la commissione di atti che di persona non si compirebbero mai.\nI cyberbulli si sentono forti perché ",
+        "highlight": false
+      },
+      {
+        "text": "protetti dietro uno schermo",
+        "highlight": true
+      },
+      {
+        "text": " o un dispositivo mobile. Le ragioni della crescita del fenomeno sono quattro:\n1) La facilità di nascondersi fa sentire i minori impuniti e invincibili ('leoni da tastiera');\n2) La distanza online riduce l'empatia dell'aggressore, rendendolo inconsapevole del danno psicologico cagionato;\n3) Internet moltiplica viralmente il danno, consentendo a migliaia di utenti di visualizzare e condividere i post offensivi in poche ore;\n4) L'immediatezza delle comunicazioni accresce il conflitto prolungandolo sia online che in presenza. Le conseguenze sulla vittima possono essere devastanti: ansia, depressione, isolamento e crollo dell'autostima.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "010-01",
@@ -571,7 +876,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 010 · Cyberstalking e art. 612-bis c.p.",
     "source_excerpt": "Cyber-stalking\nUn altro reato informatico particolarmente odioso è quello chiamato cyber-stalking: grazie a smartphone, computer e tablet è possibile rendere la vita impossibile a chiunque sia stato preso di mira. La persona viene diffamata, assediata, pedinata elettronicamente, minacciata, molestata e oppressa. Questa condotta può essere rivolta ad un solo soggetto, ma anche ad un gruppo di persone (una classe scolastica, un coro, una squadra di calcio, persino catechisti).\nPerché si configuri il reato, queste azioni devono essere ripetitive, costanti, senza eccessive pause. La vittima si sente assediata poiché le intrusioni non conoscono pause notturne o festive.\nGli atti persecutori sono contemplati all’art. 612-bis del Codice Penale (introdotto con D.L. 11/2009, conv. in L. 38/2009). L'articolo punisce chiunque con condotte reiterate minaccia o molesta taluno in modo da cagionare un perdurante e grave stato di ansia o di paura, un fondato timore per l'incolumità propria o di un prossimo congiunto, o da costringere ad alterare le proprie abitudini di vita.\nLa pena è aumentata se il fatto è commesso attraverso strumenti informatici o telematici (comma 2, introdotto dal D.L. 93/2013, conv. in L. 119/2013). Il delitto è punito a querela della persona offesa (termine di 6 mesi, remissione solo processuale), ma si procede d'ufficio se commesso contro minori o disabili.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Cyber-stalking\nUn altro reato informatico particolarmente odioso è quello chiamato cyber-stalking: grazie a smartphone, computer e tablet è possibile rendere la vita impossibile a chiunque sia stato preso di mira. La persona viene diffamata, assediata, pedinata elettronicamente, minacciata, molestata e oppressa. Questa condotta ",
+        "highlight": false
+      },
+      {
+        "text": "può essere",
+        "highlight": true
+      },
+      {
+        "text": " rivolta ad un solo soggetto, ma anche ad un gruppo di persone (una classe scolastica, un coro, una squadra di calcio, persino catechisti).\nPerché si configuri il reato, queste azioni devono essere ripetitive, costanti, senza eccessive pause. La vittima si sente assediata poiché le intrusioni non conoscono pause notturne o festive.\nGli atti persecutori sono contemplati all’art. 612-bis del Codice Penale (introdotto con D.L. 11/2009, conv. in L. 38/2009). L'articolo punisce chiunque con condotte reiterate minaccia o molesta taluno in modo da cagionare un perdurante e grave stato di ansia o di paura, un fondato timore per l'incolumità propria o di un prossimo congiunto, o da costringere ad alterare le proprie abitudini di vita.\nLa pena è aumentata se il fatto è commesso attraverso strumenti informatici o telematici (comma 2, introdotto dal D.L. 93/2013, conv. in L. 119/2013). Il delitto è punito a querela della persona offesa (termine di 6 mesi, remissione solo processuale), ma si procede d'ufficio se commesso contro minori o disabili.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "010-02",
@@ -596,7 +915,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 010 · Cyberstalking e art. 612-bis c.p.",
     "source_excerpt": "Cyber-stalking\nUn altro reato informatico particolarmente odioso è quello chiamato cyber-stalking: grazie a smartphone, computer e tablet è possibile rendere la vita impossibile a chiunque sia stato preso di mira. La persona viene diffamata, assediata, pedinata elettronicamente, minacciata, molestata e oppressa. Questa condotta può essere rivolta ad un solo soggetto, ma anche ad un gruppo di persone (una classe scolastica, un coro, una squadra di calcio, persino catechisti).\nPerché si configuri il reato, queste azioni devono essere ripetitive, costanti, senza eccessive pause. La vittima si sente assediata poiché le intrusioni non conoscono pause notturne o festive.\nGli atti persecutori sono contemplati all’art. 612-bis del Codice Penale (introdotto con D.L. 11/2009, conv. in L. 38/2009). L'articolo punisce chiunque con condotte reiterate minaccia o molesta taluno in modo da cagionare un perdurante e grave stato di ansia o di paura, un fondato timore per l'incolumità propria o di un prossimo congiunto, o da costringere ad alterare le proprie abitudini di vita.\nLa pena è aumentata se il fatto è commesso attraverso strumenti informatici o telematici (comma 2, introdotto dal D.L. 93/2013, conv. in L. 119/2013). Il delitto è punito a querela della persona offesa (termine di 6 mesi, remissione solo processuale), ma si procede d'ufficio se commesso contro minori o disabili.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Cyber-stalking\nUn altro reato informatico particolarmente odioso è quello chiamato cyber-stalking: grazie a smartphone, computer e tablet è possibile rendere la vita impossibile a chiunque sia stato preso di mira. La persona viene diffamata, assediata, pedinata elettronicamente, minacciata, molestata e oppressa. Questa condotta può essere rivolta ad un solo soggetto, ma anche ad un gruppo di persone (una classe scolastica, un coro, una squadra di calcio, persino catechisti).\nPerché si configuri il reato, queste ",
+        "highlight": false
+      },
+      {
+        "text": "azioni devono essere ripetitive",
+        "highlight": true
+      },
+      {
+        "text": ", costanti, senza eccessive pause. La vittima si sente assediata poiché le intrusioni non conoscono pause notturne o festive.\nGli atti persecutori sono contemplati all’art. 612-bis del Codice Penale (introdotto con D.L. 11/2009, conv. in L. 38/2009). L'articolo punisce chiunque con condotte reiterate minaccia o molesta taluno in modo da cagionare un perdurante e grave stato di ansia o di paura, un fondato timore per l'incolumità propria o di un prossimo congiunto, o da costringere ad alterare le proprie abitudini di vita.\nLa pena è aumentata se il fatto è commesso attraverso strumenti informatici o telematici (comma 2, introdotto dal D.L. 93/2013, conv. in L. 119/2013). Il delitto è punito a querela della persona offesa (termine di 6 mesi, remissione solo processuale), ma si procede d'ufficio se commesso contro minori o disabili.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "011-01",
@@ -621,7 +954,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 011 · Sexting, Sextortion e Revenge Porn",
     "source_excerpt": "Sexting\nUno dei pericoli più allarmanti sorti nell'ambito delle tecnologie informatiche sono le pratiche del sexting. La parola rappresenta la contrazione dei termini sex e texting (invio di messaggi di testo). Il termine si riferisce all'invio di contenuti erotici o pornografici tramite telefoni cellulari. All'inizio era legato agli SMS, ma con la multimedialità si è arricchito di foto e video.\nIl termine definisce le condotte di autoproduzione, possesso, diffusione o cessione di immagini di minori nudi o in atteggiamenti sessualmente espliciti attraverso dispositivi mobili, chat e social network.\nGli effetti di pregiudizio che il sexting può causare sono terribili: può nuocere gravemente all'integrità psichica, alla dignità, alla privacy e alla reputazione delle giovani vittime, anche a distanza di molti anni.\nQuando il materiale viene diffuso senza consenso a terzi, è praticamente impossibile impedirne la propagazione virale. Nei casi più gravi può sfociare nella sextortion (ricatto ed estorsione a sfondo sessuale con minaccia di diffusione delle immagini intime) o nel revenge porn.\nIl termine Revenge porn è stato usato per la prima volta negli Stati Uniti ed è diventato di uso comune a livello mondiale dopo la comparsa del sito web 'Is Anyone Up?' ('C'è qualcuno?'). La diffusione non consensuale di materiale intimo per vendetta alla fine di una relazione sentimentale distrugge la vita delle vittime, conducendo in casi estremi al suicidio.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Sexting\nUno dei pericoli più allarmanti sorti nell'ambito delle tecnologie informatiche sono le pratiche del sexting. La parola rappresenta la contrazione dei termini sex e texting (invio di messaggi di testo). Il termine si riferisce all'",
+        "highlight": false
+      },
+      {
+        "text": "invio di contenuti erotici o pornografici tramite telefoni",
+        "highlight": true
+      },
+      {
+        "text": " cellulari. All'inizio era legato agli SMS, ma con la multimedialità si è arricchito di foto e video.\nIl termine definisce le condotte di autoproduzione, possesso, diffusione o cessione di immagini di minori nudi o in atteggiamenti sessualmente espliciti attraverso dispositivi mobili, chat e social network.\nGli effetti di pregiudizio che il sexting può causare sono terribili: può nuocere gravemente all'integrità psichica, alla dignità, alla privacy e alla reputazione delle giovani vittime, anche a distanza di molti anni.\nQuando il materiale viene diffuso senza consenso a terzi, è praticamente impossibile impedirne la propagazione virale. Nei casi più gravi può sfociare nella sextortion (ricatto ed estorsione a sfondo sessuale con minaccia di diffusione delle immagini intime) o nel revenge porn.\nIl termine Revenge porn è stato usato per la prima volta negli Stati Uniti ed è diventato di uso comune a livello mondiale dopo la comparsa del sito web 'Is Anyone Up?' ('C'è qualcuno?'). La diffusione non consensuale di materiale intimo per vendetta alla fine di una relazione sentimentale distrugge la vita delle vittime, conducendo in casi estremi al suicidio.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "011-02",
@@ -646,7 +993,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 011 · Sexting, Sextortion e Revenge Porn",
     "source_excerpt": "Sexting\nUno dei pericoli più allarmanti sorti nell'ambito delle tecnologie informatiche sono le pratiche del sexting. La parola rappresenta la contrazione dei termini sex e texting (invio di messaggi di testo). Il termine si riferisce all'invio di contenuti erotici o pornografici tramite telefoni cellulari. All'inizio era legato agli SMS, ma con la multimedialità si è arricchito di foto e video.\nIl termine definisce le condotte di autoproduzione, possesso, diffusione o cessione di immagini di minori nudi o in atteggiamenti sessualmente espliciti attraverso dispositivi mobili, chat e social network.\nGli effetti di pregiudizio che il sexting può causare sono terribili: può nuocere gravemente all'integrità psichica, alla dignità, alla privacy e alla reputazione delle giovani vittime, anche a distanza di molti anni.\nQuando il materiale viene diffuso senza consenso a terzi, è praticamente impossibile impedirne la propagazione virale. Nei casi più gravi può sfociare nella sextortion (ricatto ed estorsione a sfondo sessuale con minaccia di diffusione delle immagini intime) o nel revenge porn.\nIl termine Revenge porn è stato usato per la prima volta negli Stati Uniti ed è diventato di uso comune a livello mondiale dopo la comparsa del sito web 'Is Anyone Up?' ('C'è qualcuno?'). La diffusione non consensuale di materiale intimo per vendetta alla fine di una relazione sentimentale distrugge la vita delle vittime, conducendo in casi estremi al suicidio.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Sexting\nUno dei pericoli più allarmanti sorti nell'ambito delle tecnologie informatiche sono le pratiche del sexting. La parola rappresenta la contrazione dei termini sex e texting (invio di messaggi di testo). Il termine si riferisce all'invio di contenuti erotici o pornografici tramite telefoni cellulari. All'inizio era legato agli SMS, ma con la multimedialità si è arricchito di foto e video.\nIl termine definisce le condotte di autoproduzione, possesso, diffusione o cessione di immagini di minori nudi o in atteggiamenti sessualmente espliciti attraverso dispositivi mobili, chat e social network.\nGli effetti di pregiudizio che ",
+        "highlight": false
+      },
+      {
+        "text": "il sexting può",
+        "highlight": true
+      },
+      {
+        "text": " causare sono terribili: può nuocere gravemente all'integrità psichica, alla dignità, alla privacy e alla reputazione delle giovani vittime, anche a distanza di molti anni.\nQuando il materiale viene diffuso senza consenso a terzi, è praticamente impossibile impedirne la propagazione virale. Nei casi più gravi può sfociare nella sextortion (ricatto ed estorsione a sfondo sessuale con minaccia di diffusione delle immagini intime) o nel revenge porn.\nIl termine Revenge porn è stato usato per la prima volta negli Stati Uniti ed è diventato di uso comune a livello mondiale dopo la comparsa del sito web 'Is Anyone Up?' ('C'è qualcuno?'). La diffusione non consensuale di materiale intimo per vendetta alla fine di una relazione sentimentale distrugge la vita delle vittime, conducendo in casi estremi al suicidio.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "011-03",
@@ -671,7 +1032,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 011 · Sexting, Sextortion e Revenge Porn",
     "source_excerpt": "Sexting\nUno dei pericoli più allarmanti sorti nell'ambito delle tecnologie informatiche sono le pratiche del sexting. La parola rappresenta la contrazione dei termini sex e texting (invio di messaggi di testo). Il termine si riferisce all'invio di contenuti erotici o pornografici tramite telefoni cellulari. All'inizio era legato agli SMS, ma con la multimedialità si è arricchito di foto e video.\nIl termine definisce le condotte di autoproduzione, possesso, diffusione o cessione di immagini di minori nudi o in atteggiamenti sessualmente espliciti attraverso dispositivi mobili, chat e social network.\nGli effetti di pregiudizio che il sexting può causare sono terribili: può nuocere gravemente all'integrità psichica, alla dignità, alla privacy e alla reputazione delle giovani vittime, anche a distanza di molti anni.\nQuando il materiale viene diffuso senza consenso a terzi, è praticamente impossibile impedirne la propagazione virale. Nei casi più gravi può sfociare nella sextortion (ricatto ed estorsione a sfondo sessuale con minaccia di diffusione delle immagini intime) o nel revenge porn.\nIl termine Revenge porn è stato usato per la prima volta negli Stati Uniti ed è diventato di uso comune a livello mondiale dopo la comparsa del sito web 'Is Anyone Up?' ('C'è qualcuno?'). La diffusione non consensuale di materiale intimo per vendetta alla fine di una relazione sentimentale distrugge la vita delle vittime, conducendo in casi estremi al suicidio.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Sexting\nUno dei pericoli più allarmanti sorti nell'ambito delle tecnologie informatiche sono le pratiche del sexting. La parola rappresenta la contrazione dei termini sex e texting (invio di messaggi di testo). Il termine si riferisce all'invio di contenuti erotici o pornografici tramite telefoni cellulari. All'inizio era legato agli SMS, ma con la multimedialità si è arricchito di foto e video.\nIl termine definisce le condotte di autoproduzione, possesso, diffusione o cessione di immagini di minori nudi o in atteggiamenti sessualmente espliciti attraverso dispositivi mobili, chat e social network.\nGli effetti di pregiudizio che il sexting può causare sono terribili: può nuocere gravemente all'integrità psichica, alla dignità, alla privacy e alla reputazione delle giovani vittime, anche a distanza di molti anni.\nQuando il materiale viene diffuso senza consenso a terzi, è praticamente impossibile impedirne la propagazione virale. Nei casi più gravi può sfociare nella sextortion (ricatto ed estorsione a sfondo sessuale con minaccia di diffusione delle immagini intime) o nel revenge porn.\nIl termine Revenge porn è stato usato per la prima volta ",
+        "highlight": false
+      },
+      {
+        "text": "negli Stati Uniti",
+        "highlight": true
+      },
+      {
+        "text": " ed è diventato di uso comune a livello mondiale dopo la comparsa del sito web 'Is Anyone Up?' ('C'è qualcuno?'). La diffusione non consensuale di materiale intimo per vendetta alla fine di una relazione sentimentale distrugge la vita delle vittime, conducendo in casi estremi al suicidio.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "012-01",
@@ -696,7 +1071,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 012 · Cyberterrorismo",
     "source_excerpt": "Cyber-terrorism\nI terroristi possono utilizzare strumenti informatici per provocare danni, lanciando attacchi contro apparecchiature informatiche, reti o informazioni, e possono utilizzare Internet per propaganda, incitamento, minacce, proselitismo, finanziamento e reclutamento di nuovi simpatizzanti. Attraverso siti e forum 'jihadisti', individui lontani (dalla Cecenia all'Afghanistan, dall'Iraq alle Filippine) possono scambiarsi informazioni sulla costruzione di ordigni esplosivi e coordinare cellule.\nIl Consiglio d'Europa definisce il cyberterrorismo come “terrorismo che utilizza le tecnologie informatiche per intimidire, costringere o causare danni a gruppi sociali per scopi politico-religiosi” (Subijana Zunzunegui 2008).\nLa Spagna è il terzo Paese (dopo Stati Uniti e Regno Unito) che ha subito il maggior numero di attacchi informatici nel 2014, con oltre 70.000 incidenti registrati secondo le dichiarazioni del Ministro degli Esteri.\nI crimini di cyberterrorismo rispondono a una determinata motivazione ideologica e comportano implicazioni gravissime per la sicurezza e la difesa nazionale degli Stati, incidendo sul tessuto economico e sulle infrastrutture vitali. All'Assemblea Generale dell'ONU è stato promosso un patto congiunto dai leader europei (Gentiloni, May, Macron) per impegnare i colossi del web (Google, Facebook, Twitter, YouTube del Global Internet Forum) nella rimozione automatica dei contenuti di radicalizzazione e nella gestione del confinamento algoritmico.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Cyber-terrorism\nI terroristi possono utilizzare strumenti informatici per provocare danni, lanciando attacchi contro apparecchiature informatiche, reti o informazioni, e possono utilizzare Internet per propaganda, incitamento, minacce, proselitismo, finanziamento e reclutamento di nuovi simpatizzanti. Attraverso siti e forum 'jihadisti', individui lontani (dalla Cecenia all'Afghanistan, dall'Iraq alle Filippine) possono scambiarsi informazioni sulla costruzione di ordigni esplosivi e coordinare cellule.\nIl Consiglio d'Europa definisce il cyberterrorismo come “terrorismo che utilizza le tecnologie informatiche per intimidire, costringere o causare danni a gruppi sociali per scopi politico-religiosi” (Subijana Zunzunegui 2008).\n",
+        "highlight": false
+      },
+      {
+        "text": "La Spagna",
+        "highlight": true
+      },
+      {
+        "text": " è il terzo Paese (dopo Stati Uniti e Regno Unito) che ha subito il maggior numero di attacchi informatici nel 2014, con oltre 70.000 incidenti registrati secondo le dichiarazioni del Ministro degli Esteri.\nI crimini di cyberterrorismo rispondono a una determinata motivazione ideologica e comportano implicazioni gravissime per la sicurezza e la difesa nazionale degli Stati, incidendo sul tessuto economico e sulle infrastrutture vitali. All'Assemblea Generale dell'ONU è stato promosso un patto congiunto dai leader europei (Gentiloni, May, Macron) per impegnare i colossi del web (Google, Facebook, Twitter, YouTube del Global Internet Forum) nella rimozione automatica dei contenuti di radicalizzazione e nella gestione del confinamento algoritmico.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "012-02",
@@ -721,7 +1110,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 012 · Cyberterrorismo",
     "source_excerpt": "Cyber-terrorism\nI terroristi possono utilizzare strumenti informatici per provocare danni, lanciando attacchi contro apparecchiature informatiche, reti o informazioni, e possono utilizzare Internet per propaganda, incitamento, minacce, proselitismo, finanziamento e reclutamento di nuovi simpatizzanti. Attraverso siti e forum 'jihadisti', individui lontani (dalla Cecenia all'Afghanistan, dall'Iraq alle Filippine) possono scambiarsi informazioni sulla costruzione di ordigni esplosivi e coordinare cellule.\nIl Consiglio d'Europa definisce il cyberterrorismo come “terrorismo che utilizza le tecnologie informatiche per intimidire, costringere o causare danni a gruppi sociali per scopi politico-religiosi” (Subijana Zunzunegui 2008).\nLa Spagna è il terzo Paese (dopo Stati Uniti e Regno Unito) che ha subito il maggior numero di attacchi informatici nel 2014, con oltre 70.000 incidenti registrati secondo le dichiarazioni del Ministro degli Esteri.\nI crimini di cyberterrorismo rispondono a una determinata motivazione ideologica e comportano implicazioni gravissime per la sicurezza e la difesa nazionale degli Stati, incidendo sul tessuto economico e sulle infrastrutture vitali. All'Assemblea Generale dell'ONU è stato promosso un patto congiunto dai leader europei (Gentiloni, May, Macron) per impegnare i colossi del web (Google, Facebook, Twitter, YouTube del Global Internet Forum) nella rimozione automatica dei contenuti di radicalizzazione e nella gestione del confinamento algoritmico.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Cyber-terrorism\nI terroristi possono utilizzare strumenti informatici per provocare danni, lanciando attacchi contro apparecchiature informatiche, reti o informazioni, e possono utilizzare Internet per propaganda, incitamento, minacce, proselitismo, finanziamento e reclutamento di nuovi simpatizzanti. Attraverso siti e forum 'jihadisti', individui lontani (dalla Cecenia all'Afghanistan, dall'Iraq alle Filippine) possono scambiarsi informazioni sulla costruzione di ordigni esplosivi e coordinare cellule.\n",
+        "highlight": false
+      },
+      {
+        "text": "Il Consiglio d",
+        "highlight": true
+      },
+      {
+        "text": "'Europa definisce il cyberterrorismo come “terrorismo che utilizza le tecnologie informatiche per intimidire, costringere o causare danni a gruppi sociali per scopi politico-religiosi” (Subijana Zunzunegui 2008).\nLa Spagna è il terzo Paese (dopo Stati Uniti e Regno Unito) che ha subito il maggior numero di attacchi informatici nel 2014, con oltre 70.000 incidenti registrati secondo le dichiarazioni del Ministro degli Esteri.\nI crimini di cyberterrorismo rispondono a una determinata motivazione ideologica e comportano implicazioni gravissime per la sicurezza e la difesa nazionale degli Stati, incidendo sul tessuto economico e sulle infrastrutture vitali. All'Assemblea Generale dell'ONU è stato promosso un patto congiunto dai leader europei (Gentiloni, May, Macron) per impegnare i colossi del web (Google, Facebook, Twitter, YouTube del Global Internet Forum) nella rimozione automatica dei contenuti di radicalizzazione e nella gestione del confinamento algoritmico.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "013-01",
@@ -746,7 +1149,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 013 · Cyberwarfare",
     "source_excerpt": "Cyber-warfare\nLa guerra informatica è una priorità assoluta per Forze armate, intelligence e governi di tutto il mondo. Il termine Cyber-warfare è stato definito come una serie di \"azioni condotte da uno Stato per violare altri computer o reti di un Paese avversario, al fine di causare danni o effettuarne una interruzione sul funzionamento\", avvalendosi anche di attori non appartenenti allo Stato (gruppi terroristici, hacker mercenari, gruppi estremisti e criminalità organizzata).\nLa guerra cibernetica predilige gli Stati tecnologicamente avanzati: uno Stato altamente informatizzato presenta infatti un grado di vulnerabilità strutturale enormemente superiore rispetto a Paesi a bassa digitalizzazione. È più facile paralizzare uno Stato moderno colpendo nodi strategici, reti di distribuzione di energia, gas, acqua, telecomunicazioni, ospedali o sistemi di comando militare.\nSi distingue in:\n- Cyberwarfare difensivo: protezione di edifici e infrastrutture critiche, ridondanza di rete, schermatura hardware, formazione del personale;\n- Cyberwarfare offensivo: attacchi vandalici, attacchi di propaganda, sottrazione di dati classificati, diniego di accesso a comandi militari e satelliti spaziali.\nLa caratteristica comune a questi attacchi è il costo relativamente basso per gli aggressori a fronte di danni stimati in decine di miliardi per i Paesi colpiti, protetti dall'anonimato che Internet garantisce.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Cyber-warfare\nLa guerra informatica è una priorità assoluta per Forze armate, intelligence e governi di tutto il mondo. Il termine Cyber-warfare è stato definito come una serie di \"azioni condotte da uno Stato per violare altri computer o reti di un Paese avversario, al fine di causare danni o effettuarne una interruzione sul funzionamento\", avvalendosi anche di attori non appartenenti allo Stato (gruppi terroristici, hacker mercenari, gruppi estremisti e criminalità organizzata).\nLa guerra cibernetica predilige ",
+        "highlight": false
+      },
+      {
+        "text": "gli Stati tecnologicamente avanzati",
+        "highlight": true
+      },
+      {
+        "text": ": uno Stato altamente informatizzato presenta infatti un grado di vulnerabilità strutturale enormemente superiore rispetto a Paesi a bassa digitalizzazione. È più facile paralizzare uno Stato moderno colpendo nodi strategici, reti di distribuzione di energia, gas, acqua, telecomunicazioni, ospedali o sistemi di comando militare.\nSi distingue in:\n- Cyberwarfare difensivo: protezione di edifici e infrastrutture critiche, ridondanza di rete, schermatura hardware, formazione del personale;\n- Cyberwarfare offensivo: attacchi vandalici, attacchi di propaganda, sottrazione di dati classificati, diniego di accesso a comandi militari e satelliti spaziali.\nLa caratteristica comune a questi attacchi è il costo relativamente basso per gli aggressori a fronte di danni stimati in decine di miliardi per i Paesi colpiti, protetti dall'anonimato che Internet garantisce.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "014-01",
@@ -771,7 +1188,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 014 · Cyber-espionage e APT",
     "source_excerpt": "Cyber-espionage\nSi tratta di molteplici attività poste in essere da specialisti in grado di sfruttare la rete per favorire uno o più Governi, al fine di garantirgli una superiorità strategica ed economica rispetto ad altri Stati o Organizzazioni Internazionali (basi militari, sistemi d'arma, tecnologie dual-use).\nNel nostro ordinamento, lo spionaggio a fini politico-militari è disciplinato dall'art. 257 c.p., che punisce con la reclusione non inferiore a 15 anni (fino all'ergastolo in tempo di guerra o se compromette la difesa) chiunque si procura notizie che debbono rimanere segrete. Il reato richiede il dolo specifico di spionaggio.\nLe informazioni carpite vengono classificate secondo quattro livelli di sicurezza:\n- R (Riservate);\n- RR (Riservatissime);\n- S (Segrete);\n- SS (Segretissime).\nLa sottrazione avviene tramite TTP (Tattiche, Tecniche e Procedure). Tra gli Stati sistematicamente attivi figurano Iran (Global Threat Report 2020 di CrowdStrike), Cina e Russia.\nUna delle forme più avanzate di cyber espionage è nota come Advanced Persistent Threats (APT): si caratterizza per complessa organizzazione, elevato spessore tecnologico e lunga durata nel tempo, combinando social engineering, exploit zero-day e malware all'interno di vere e proprie operazioni militari di intelligence.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Cyber-espionage\nSi tratta di molteplici attività poste in essere da specialisti in grado di sfruttare la rete per favorire uno o più Governi, al fine di garantirgli una superiorità strategica ed economica rispetto ad altri Stati o Organizzazioni Internazionali (basi militari, sistemi d'arma, tecnologie dual-use).\nNel nostro ordinamento, lo spionaggio a fini politico-militari è disciplinato dall'art. 257 c.p., che punisce con la reclusione non inferiore a 15 anni (fino all'ergastolo in tempo di guerra o se compromette la difesa) chiunque si procura notizie che debbono rimanere segrete. Il reato richiede il dolo specifico di spionaggio.\nLe ",
+        "highlight": false
+      },
+      {
+        "text": "informazioni",
+        "highlight": true
+      },
+      {
+        "text": " carpite vengono classificate secondo quattro livelli di sicurezza:\n- R (Riservate);\n- RR (Riservatissime);\n- S (Segrete);\n- SS (Segretissime).\nLa sottrazione avviene tramite TTP (Tattiche, Tecniche e Procedure). Tra gli Stati sistematicamente attivi figurano Iran (Global Threat Report 2020 di CrowdStrike), Cina e Russia.\nUna delle forme più avanzate di cyber espionage è nota come Advanced Persistent Threats (APT): si caratterizza per complessa organizzazione, elevato spessore tecnologico e lunga durata nel tempo, combinando social engineering, exploit zero-day e malware all'interno di vere e proprie operazioni militari di intelligence.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "014-02",
@@ -796,7 +1227,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 014 · Cyber-espionage e APT",
     "source_excerpt": "Cyber-espionage\nSi tratta di molteplici attività poste in essere da specialisti in grado di sfruttare la rete per favorire uno o più Governi, al fine di garantirgli una superiorità strategica ed economica rispetto ad altri Stati o Organizzazioni Internazionali (basi militari, sistemi d'arma, tecnologie dual-use).\nNel nostro ordinamento, lo spionaggio a fini politico-militari è disciplinato dall'art. 257 c.p., che punisce con la reclusione non inferiore a 15 anni (fino all'ergastolo in tempo di guerra o se compromette la difesa) chiunque si procura notizie che debbono rimanere segrete. Il reato richiede il dolo specifico di spionaggio.\nLe informazioni carpite vengono classificate secondo quattro livelli di sicurezza:\n- R (Riservate);\n- RR (Riservatissime);\n- S (Segrete);\n- SS (Segretissime).\nLa sottrazione avviene tramite TTP (Tattiche, Tecniche e Procedure). Tra gli Stati sistematicamente attivi figurano Iran (Global Threat Report 2020 di CrowdStrike), Cina e Russia.\nUna delle forme più avanzate di cyber espionage è nota come Advanced Persistent Threats (APT): si caratterizza per complessa organizzazione, elevato spessore tecnologico e lunga durata nel tempo, combinando social engineering, exploit zero-day e malware all'interno di vere e proprie operazioni militari di intelligence.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Cyber-espionage\nSi tratta di molteplici attività poste in essere da specialisti in grado di sfruttare la rete per favorire uno o più Governi, al fine di garantirgli una superiorità strategica ed economica rispetto ad altri Stati o Organizzazioni Internazionali (basi militari, sistemi d'arma, tecnologie dual-use).\nNel nostro ordinamento, lo spionaggio a fini politico-militari è disciplinato dall'art. 257 c.p., che punisce con la reclusione non inferiore a 15 anni (fino all'ergastolo in tempo di guerra o se compromette la difesa) chiunque si procura notizie che debbono rimanere segrete. Il reato richiede il dolo specifico di spionaggio.\nLe ",
+        "highlight": false
+      },
+      {
+        "text": "informazioni",
+        "highlight": true
+      },
+      {
+        "text": " carpite vengono classificate secondo quattro livelli di sicurezza:\n- R (Riservate);\n- RR (Riservatissime);\n- S (Segrete);\n- SS (Segretissime).\nLa sottrazione avviene tramite TTP (Tattiche, Tecniche e Procedure). Tra gli Stati sistematicamente attivi figurano Iran (Global Threat Report 2020 di CrowdStrike), Cina e Russia.\nUna delle forme più avanzate di cyber espionage è nota come Advanced Persistent Threats (APT): si caratterizza per complessa organizzazione, elevato spessore tecnologico e lunga durata nel tempo, combinando social engineering, exploit zero-day e malware all'interno di vere e proprie operazioni militari di intelligence.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "014-03",
@@ -821,7 +1266,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 014 · Cyber-espionage e APT",
     "source_excerpt": "Cyber-espionage\nSi tratta di molteplici attività poste in essere da specialisti in grado di sfruttare la rete per favorire uno o più Governi, al fine di garantirgli una superiorità strategica ed economica rispetto ad altri Stati o Organizzazioni Internazionali (basi militari, sistemi d'arma, tecnologie dual-use).\nNel nostro ordinamento, lo spionaggio a fini politico-militari è disciplinato dall'art. 257 c.p., che punisce con la reclusione non inferiore a 15 anni (fino all'ergastolo in tempo di guerra o se compromette la difesa) chiunque si procura notizie che debbono rimanere segrete. Il reato richiede il dolo specifico di spionaggio.\nLe informazioni carpite vengono classificate secondo quattro livelli di sicurezza:\n- R (Riservate);\n- RR (Riservatissime);\n- S (Segrete);\n- SS (Segretissime).\nLa sottrazione avviene tramite TTP (Tattiche, Tecniche e Procedure). Tra gli Stati sistematicamente attivi figurano Iran (Global Threat Report 2020 di CrowdStrike), Cina e Russia.\nUna delle forme più avanzate di cyber espionage è nota come Advanced Persistent Threats (APT): si caratterizza per complessa organizzazione, elevato spessore tecnologico e lunga durata nel tempo, combinando social engineering, exploit zero-day e malware all'interno di vere e proprie operazioni militari di intelligence.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "Cyber-espionage\nSi tratta di molteplici attività poste in essere da specialisti in grado di sfruttare la rete per favorire uno o più Governi, al fine di garantirgli una superiorità strategica ed economica rispetto ad altri Stati o Organizzazioni Internazionali (basi militari, sistemi d'arma, tecnologie dual-use).\nNel nostro ordinamento, lo spionaggio a fini politico-militari è disciplinato dall'art. 257 c.p., che punisce con la reclusione non inferiore a 15 anni (fino all'ergastolo in tempo di guerra o se compromette la difesa) chiunque si procura notizie che debbono rimanere segrete. Il reato richiede il dolo specifico di spionaggio.\nLe ",
+        "highlight": false
+      },
+      {
+        "text": "informazioni",
+        "highlight": true
+      },
+      {
+        "text": " carpite vengono classificate secondo quattro livelli di sicurezza:\n- R (Riservate);\n- RR (Riservatissime);\n- S (Segrete);\n- SS (Segretissime).\nLa sottrazione avviene tramite TTP (Tattiche, Tecniche e Procedure). Tra gli Stati sistematicamente attivi figurano Iran (Global Threat Report 2020 di CrowdStrike), Cina e Russia.\nUna delle forme più avanzate di cyber espionage è nota come Advanced Persistent Threats (APT): si caratterizza per complessa organizzazione, elevato spessore tecnologico e lunga durata nel tempo, combinando social engineering, exploit zero-day e malware all'interno di vere e proprie operazioni militari di intelligence.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "015-01",
@@ -846,7 +1305,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 015 · Pedopornografia e tutela del minore",
     "source_excerpt": "La pedopornografia su internet\nLa pedopornografia si definisce nel reato che prevede e punisce la produzione, la divulgazione, la diffusione e la pubblicizzazione, anche per via telematica, di immagini o video che ritraggono minori di anni 18 coinvolti in comportamenti sessualmente espliciti, concreti o simulati, o qualsiasi rappresentazione degli organi sessuali a fini sessuali.\nLa pedopornografia online è punita dall'art. 600-ter c.p. (introdotto dall'art. 3 della L. 269/1998, modificato dalla L. 38/2006 e dalla L. 172/2012). La norma punisce con reclusione da 6 a 12 anni chi produce o commercializza materiale pornografico minorile, e con reclusione da 1 a 5 anni chi lo distribuisce, divulga o pubblicizza con qualsiasi mezzo.\nA tutela della persona e del minore esiste altresì il diritto della personalità noto come \"diritto all'immagine\" (art. 10 Codice Civile) e gli artt. 96 e 97 della Legge 633/1941 sul diritto d'autore, che vietano l'esposizione o il commercio del ritratto altrui senza consenso, specialmente quando arrechi pregiudizio all'onore o al decoro.\nNelle indagini che coinvolgono minori vittime o testimoni di pedopornografia online, l'art. 351 comma 1-ter c.p.p. prescrive che l'assunzione di sommarie informazioni (s.i.t.) avvenga obbligatoriamente con l'ausilio di un esperto in psicologia o psichiatria infantile nominato dal Pubblico Ministero.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "La pedopornografia su internet\nLa pedopornografia si definisce nel reato che prevede e punisce la produzione, la divulgazione, la diffusione e la pubblicizzazione, anche per via telematica, di immagini o video che ritraggono minori di anni 18 coinvolti in comportamenti sessualmente espliciti, concreti o simulati, o qualsiasi rappresentazione degli organi sessuali a fini sessuali.\nLa pedopornografia online è punita dall'art. 600-ter c.p. (introdotto dall'art. 3 della L. 269/1998, modificato dalla L. 38/2006 e dalla L. 172/2012). La norma punisce con reclusione da 6 a 12 anni chi produce o commercializza materiale pornografico minorile, e con reclusione da 1 a 5 anni chi lo distribuisce, divulga o pubblicizza con qualsiasi mezzo.\nA tutela della persona e del minore esiste altresì il ",
+        "highlight": false
+      },
+      {
+        "text": "diritto",
+        "highlight": true
+      },
+      {
+        "text": " della personalità noto come \"diritto all'immagine\" (art. 10 Codice Civile) e gli artt. 96 e 97 della Legge 633/1941 sul diritto d'autore, che vietano l'esposizione o il commercio del ritratto altrui senza consenso, specialmente quando arrechi pregiudizio all'onore o al decoro.\nNelle indagini che coinvolgono minori vittime o testimoni di pedopornografia online, l'art. 351 comma 1-ter c.p.p. prescrive che l'assunzione di sommarie informazioni (s.i.t.) avvenga obbligatoriamente con l'ausilio di un esperto in psicologia o psichiatria infantile nominato dal Pubblico Ministero.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "015-02",
@@ -871,7 +1344,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 015 · Pedopornografia e tutela del minore",
     "source_excerpt": "La pedopornografia su internet\nLa pedopornografia si definisce nel reato che prevede e punisce la produzione, la divulgazione, la diffusione e la pubblicizzazione, anche per via telematica, di immagini o video che ritraggono minori di anni 18 coinvolti in comportamenti sessualmente espliciti, concreti o simulati, o qualsiasi rappresentazione degli organi sessuali a fini sessuali.\nLa pedopornografia online è punita dall'art. 600-ter c.p. (introdotto dall'art. 3 della L. 269/1998, modificato dalla L. 38/2006 e dalla L. 172/2012). La norma punisce con reclusione da 6 a 12 anni chi produce o commercializza materiale pornografico minorile, e con reclusione da 1 a 5 anni chi lo distribuisce, divulga o pubblicizza con qualsiasi mezzo.\nA tutela della persona e del minore esiste altresì il diritto della personalità noto come \"diritto all'immagine\" (art. 10 Codice Civile) e gli artt. 96 e 97 della Legge 633/1941 sul diritto d'autore, che vietano l'esposizione o il commercio del ritratto altrui senza consenso, specialmente quando arrechi pregiudizio all'onore o al decoro.\nNelle indagini che coinvolgono minori vittime o testimoni di pedopornografia online, l'art. 351 comma 1-ter c.p.p. prescrive che l'assunzione di sommarie informazioni (s.i.t.) avvenga obbligatoriamente con l'ausilio di un esperto in psicologia o psichiatria infantile nominato dal Pubblico Ministero.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "La pedopornografia su internet\n",
+        "highlight": false
+      },
+      {
+        "text": "La pedopornografia si definisce nel reato che prevede e punisce",
+        "highlight": true
+      },
+      {
+        "text": " la produzione, la divulgazione, la diffusione e la pubblicizzazione, anche per via telematica, di immagini o video che ritraggono minori di anni 18 coinvolti in comportamenti sessualmente espliciti, concreti o simulati, o qualsiasi rappresentazione degli organi sessuali a fini sessuali.\nLa pedopornografia online è punita dall'art. 600-ter c.p. (introdotto dall'art. 3 della L. 269/1998, modificato dalla L. 38/2006 e dalla L. 172/2012). La norma punisce con reclusione da 6 a 12 anni chi produce o commercializza materiale pornografico minorile, e con reclusione da 1 a 5 anni chi lo distribuisce, divulga o pubblicizza con qualsiasi mezzo.\nA tutela della persona e del minore esiste altresì il diritto della personalità noto come \"diritto all'immagine\" (art. 10 Codice Civile) e gli artt. 96 e 97 della Legge 633/1941 sul diritto d'autore, che vietano l'esposizione o il commercio del ritratto altrui senza consenso, specialmente quando arrechi pregiudizio all'onore o al decoro.\nNelle indagini che coinvolgono minori vittime o testimoni di pedopornografia online, l'art. 351 comma 1-ter c.p.p. prescrive che l'assunzione di sommarie informazioni (s.i.t.) avvenga obbligatoriamente con l'ausilio di un esperto in psicologia o psichiatria infantile nominato dal Pubblico Ministero.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "017-01",
@@ -896,7 +1383,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 017 · Regolamento GDPR",
     "source_excerpt": "GDPR (General Data Protection Regulation)\nIl GDPR (Regolamento UE 2016/679) è il provvedimento normativo più significativo degli ultimi 20 anni in tema di trattamento dei dati personali, entrato in vigore il 24 maggio 2016 e applicabile in tutta l'Unione Europea dal 25 maggio 2018. Trattandosi di un Regolamento, è obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno Stato membro senza necessità di leggi nazionali di recepimento.\nIl suo obiettivo principale è rafforzare la protezione dei dati personali dei cittadini dell'UE e restituire all'individuo il controllo sulle proprie informazioni.\nAmbito di applicazione: Si applica alle società con sede nell'UE, ma ha anche efficacia extraterritoriale: si applica integralmente alle imprese situate fuori dall'UE (es. Google, Facebook) che offrono beni o servizi a residenti nell'UE o ne monitorano i comportamenti.\nIl GDPR NON si applica quando:\n1) L'interessato è deceduto;\n2) L'interessato è una persona giuridica (enti, società);\n3) Il trattamento è svolto da persone fisiche per fini esclusivamente personali o domestici.\nFigure chiave:\n- Titolare del trattamento (Data Controller): l'azienda o ente che ha il controllo dei dati, determinandone le finalità e le modalità di utilizzo;\n- Responsabile del trattamento (Data Processor): figura che elabora e tratta i dati per conto del titolare sulla base di un contratto vincolante.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "GDPR (General Data Protection Regulation)\nIl GDPR (Regolamento UE 2016/679) è il provvedimento normativo più significativo degli ultimi 20 anni in tema di trattamento dei dati personali, entrato in vigore il 24 maggio 2016 e applicabile in tutta l'Unione Europea dal 25 maggio 2018. Trattandosi di un Regolamento, è obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno Stato membro senza necessità di leggi nazionali di recepimento.\nIl suo obiettivo principale è rafforzare la protezione dei dati personali dei cittadini dell'UE e restituire all'individuo il controllo sulle proprie informazioni.\nAmbito di applicazione: Si applica alle società con sede nell'UE, ma ha anche efficacia extraterritoriale: si applica integralmente alle imprese situate fuori dall'UE (es. Google, Facebook) che offrono beni o servizi a residenti nell'UE o ne monitorano i comportamenti.\nIl GDPR NON si applica quando:\n1) L'interessato è deceduto;\n2) L'interessato è una persona giuridica (enti, società);\n3) Il trattamento è svolto da persone fisiche per fini esclusivamente personali o domestici.\nFigure chiave:\n- Titolare del trattamento (Data Controller): l'azienda o ente ",
+        "highlight": false
+      },
+      {
+        "text": "che ha il controllo dei dati",
+        "highlight": true
+      },
+      {
+        "text": ", determinandone le finalità e le modalità di utilizzo;\n- Responsabile del trattamento (Data Processor): figura che elabora e tratta i dati per conto del titolare sulla base di un contratto vincolante.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "017-02",
@@ -921,7 +1422,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 017 · Regolamento GDPR",
     "source_excerpt": "GDPR (General Data Protection Regulation)\nIl GDPR (Regolamento UE 2016/679) è il provvedimento normativo più significativo degli ultimi 20 anni in tema di trattamento dei dati personali, entrato in vigore il 24 maggio 2016 e applicabile in tutta l'Unione Europea dal 25 maggio 2018. Trattandosi di un Regolamento, è obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno Stato membro senza necessità di leggi nazionali di recepimento.\nIl suo obiettivo principale è rafforzare la protezione dei dati personali dei cittadini dell'UE e restituire all'individuo il controllo sulle proprie informazioni.\nAmbito di applicazione: Si applica alle società con sede nell'UE, ma ha anche efficacia extraterritoriale: si applica integralmente alle imprese situate fuori dall'UE (es. Google, Facebook) che offrono beni o servizi a residenti nell'UE o ne monitorano i comportamenti.\nIl GDPR NON si applica quando:\n1) L'interessato è deceduto;\n2) L'interessato è una persona giuridica (enti, società);\n3) Il trattamento è svolto da persone fisiche per fini esclusivamente personali o domestici.\nFigure chiave:\n- Titolare del trattamento (Data Controller): l'azienda o ente che ha il controllo dei dati, determinandone le finalità e le modalità di utilizzo;\n- Responsabile del trattamento (Data Processor): figura che elabora e tratta i dati per conto del titolare sulla base di un contratto vincolante.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "GDPR (General Data Protection Regulation)\nIl GDPR (Regolamento UE 2016/679) è il provvedimento normativo più significativo degli ultimi 20 anni in tema di trattamento dei dati personali, entrato in vigore il 24 maggio 2016 e applicabile in tutta l'Unione Europea dal 25 maggio 2018. Trattandosi di un Regolamento, è obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno Stato membro senza necessità di leggi nazionali di recepimento.\nIl suo obiettivo principale è rafforzare la protezione dei dati personali dei cittadini dell'UE e restituire all'individuo il controllo sulle proprie informazioni.\nAmbito di applicazione: Si applica alle società con sede nell'UE, ma ha anche efficacia extraterritoriale: si applica integralmente alle imprese situate fuori dall'UE (es. Google, Facebook) che offrono beni o servizi a residenti nell'UE o ne monitorano i comportamenti.\nIl GDPR NON si applica quando:\n1) L'",
+        "highlight": false
+      },
+      {
+        "text": "interessato è deceduto",
+        "highlight": true
+      },
+      {
+        "text": ";\n2) L'interessato è una persona giuridica (enti, società);\n3) Il trattamento è svolto da persone fisiche per fini esclusivamente personali o domestici.\nFigure chiave:\n- Titolare del trattamento (Data Controller): l'azienda o ente che ha il controllo dei dati, determinandone le finalità e le modalità di utilizzo;\n- Responsabile del trattamento (Data Processor): figura che elabora e tratta i dati per conto del titolare sulla base di un contratto vincolante.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "017-03",
@@ -946,7 +1461,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 017 · Regolamento GDPR",
     "source_excerpt": "GDPR (General Data Protection Regulation)\nIl GDPR (Regolamento UE 2016/679) è il provvedimento normativo più significativo degli ultimi 20 anni in tema di trattamento dei dati personali, entrato in vigore il 24 maggio 2016 e applicabile in tutta l'Unione Europea dal 25 maggio 2018. Trattandosi di un Regolamento, è obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno Stato membro senza necessità di leggi nazionali di recepimento.\nIl suo obiettivo principale è rafforzare la protezione dei dati personali dei cittadini dell'UE e restituire all'individuo il controllo sulle proprie informazioni.\nAmbito di applicazione: Si applica alle società con sede nell'UE, ma ha anche efficacia extraterritoriale: si applica integralmente alle imprese situate fuori dall'UE (es. Google, Facebook) che offrono beni o servizi a residenti nell'UE o ne monitorano i comportamenti.\nIl GDPR NON si applica quando:\n1) L'interessato è deceduto;\n2) L'interessato è una persona giuridica (enti, società);\n3) Il trattamento è svolto da persone fisiche per fini esclusivamente personali o domestici.\nFigure chiave:\n- Titolare del trattamento (Data Controller): l'azienda o ente che ha il controllo dei dati, determinandone le finalità e le modalità di utilizzo;\n- Responsabile del trattamento (Data Processor): figura che elabora e tratta i dati per conto del titolare sulla base di un contratto vincolante.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "GDPR (",
+        "highlight": false
+      },
+      {
+        "text": "General Data Protection Regulation",
+        "highlight": true
+      },
+      {
+        "text": ")\nIl GDPR (Regolamento UE 2016/679) è il provvedimento normativo più significativo degli ultimi 20 anni in tema di trattamento dei dati personali, entrato in vigore il 24 maggio 2016 e applicabile in tutta l'Unione Europea dal 25 maggio 2018. Trattandosi di un Regolamento, è obbligatorio in tutti i suoi elementi e direttamente applicabile in ciascuno Stato membro senza necessità di leggi nazionali di recepimento.\nIl suo obiettivo principale è rafforzare la protezione dei dati personali dei cittadini dell'UE e restituire all'individuo il controllo sulle proprie informazioni.\nAmbito di applicazione: Si applica alle società con sede nell'UE, ma ha anche efficacia extraterritoriale: si applica integralmente alle imprese situate fuori dall'UE (es. Google, Facebook) che offrono beni o servizi a residenti nell'UE o ne monitorano i comportamenti.\nIl GDPR NON si applica quando:\n1) L'interessato è deceduto;\n2) L'interessato è una persona giuridica (enti, società);\n3) Il trattamento è svolto da persone fisiche per fini esclusivamente personali o domestici.\nFigure chiave:\n- Titolare del trattamento (Data Controller): l'azienda o ente che ha il controllo dei dati, determinandone le finalità e le modalità di utilizzo;\n- Responsabile del trattamento (Data Processor): figura che elabora e tratta i dati per conto del titolare sulla base di un contratto vincolante.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "018-01",
@@ -971,7 +1500,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 018 · Dati personali e DPO",
     "source_excerpt": "DATI PERSONALI E DPO\nCostituisce dato personale qualunque informazione relativa a persona fisica identificata o identificabile ('interessato'): nome e cognome, indirizzo, numero di passaporto, reddito, profilo culturale, indirizzo IP, dati sanitari.\nCategorie speciali di dati (art. 9 GDPR): i dati non possono trattare origine razziale o etnica, orientamento sessuale, opinioni politiche, convinzioni religiose o filosofiche, appartenenza sindacale, dati genetici, biometrici o sanitari, salvo esplicito consenso o motivi di interesse pubblico previsti dalla legge.\nNomina del Responsabile della Protezione dei Dati (DPO / RPD):\nUna società è tenuta a nominare il DPO quando:\n1) Deve monitorare periodicamente e sistematicamente i cittadini su larga scala;\n2) Il trattamento dei dati costituisce l'attività principale (core business);\n3) Tratta su larga scala categorie particolari di dati (es. ospedali).\nIl responsabile della protezione dei dati PUÒ appartenere al personale interno all'azienda o essere un professionista/società esterno contrattualizzato. Il DPO vigila sul rispetto delle norme, fornisce consulenza ai dipendenti e funge da punto di contatto con l'Autorità Garante e con i cittadini.\nCondizioni per il trattamento lecito: consenso libero e informato dell'interessato, adempimento di obblighi contrattuali, obblighi legali, salvaguardia di interessi vitali o legittimo interesse del titolare.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "DATI PERSONALI E DPO\nCostituisce dato personale qualunque informazione relativa a persona fisica identificata o identificabile ('interessato'): nome e cognome, indirizzo, numero di passaporto, reddito, profilo culturale, indirizzo IP, dati sanitari.\nCategorie speciali ",
+        "highlight": false
+      },
+      {
+        "text": "di dati",
+        "highlight": true
+      },
+      {
+        "text": " (art. 9 GDPR): i dati non possono trattare origine razziale o etnica, orientamento sessuale, opinioni politiche, convinzioni religiose o filosofiche, appartenenza sindacale, dati genetici, biometrici o sanitari, salvo esplicito consenso o motivi di interesse pubblico previsti dalla legge.\nNomina del Responsabile della Protezione dei Dati (DPO / RPD):\nUna società è tenuta a nominare il DPO quando:\n1) Deve monitorare periodicamente e sistematicamente i cittadini su larga scala;\n2) Il trattamento dei dati costituisce l'attività principale (core business);\n3) Tratta su larga scala categorie particolari di dati (es. ospedali).\nIl responsabile della protezione dei dati PUÒ appartenere al personale interno all'azienda o essere un professionista/società esterno contrattualizzato. Il DPO vigila sul rispetto delle norme, fornisce consulenza ai dipendenti e funge da punto di contatto con l'Autorità Garante e con i cittadini.\nCondizioni per il trattamento lecito: consenso libero e informato dell'interessato, adempimento di obblighi contrattuali, obblighi legali, salvaguardia di interessi vitali o legittimo interesse del titolare.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "018-02",
@@ -996,7 +1539,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 018 · Dati personali e DPO",
     "source_excerpt": "DATI PERSONALI E DPO\nCostituisce dato personale qualunque informazione relativa a persona fisica identificata o identificabile ('interessato'): nome e cognome, indirizzo, numero di passaporto, reddito, profilo culturale, indirizzo IP, dati sanitari.\nCategorie speciali di dati (art. 9 GDPR): i dati non possono trattare origine razziale o etnica, orientamento sessuale, opinioni politiche, convinzioni religiose o filosofiche, appartenenza sindacale, dati genetici, biometrici o sanitari, salvo esplicito consenso o motivi di interesse pubblico previsti dalla legge.\nNomina del Responsabile della Protezione dei Dati (DPO / RPD):\nUna società è tenuta a nominare il DPO quando:\n1) Deve monitorare periodicamente e sistematicamente i cittadini su larga scala;\n2) Il trattamento dei dati costituisce l'attività principale (core business);\n3) Tratta su larga scala categorie particolari di dati (es. ospedali).\nIl responsabile della protezione dei dati PUÒ appartenere al personale interno all'azienda o essere un professionista/società esterno contrattualizzato. Il DPO vigila sul rispetto delle norme, fornisce consulenza ai dipendenti e funge da punto di contatto con l'Autorità Garante e con i cittadini.\nCondizioni per il trattamento lecito: consenso libero e informato dell'interessato, adempimento di obblighi contrattuali, obblighi legali, salvaguardia di interessi vitali o legittimo interesse del titolare.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "DATI PERSONALI E DPO\nCostituisce dato personale qualunque informazione relativa a persona fisica identificata o identificabile ('interessato'): nome e cognome, indirizzo, numero di passaporto, reddito, profilo culturale, indirizzo IP, dati sanitari.\nCategorie speciali di dati (art. 9 GDPR): i dati non possono trattare origine razziale o etnica, orientamento sessuale, opinioni politiche, convinzioni religiose o filosofiche, appartenenza sindacale, dati genetici, biometrici o sanitari, salvo esplicito consenso o motivi di interesse pubblico previsti dalla legge.\nNomina del Responsabile della Protezione dei Dati (DPO / RPD):\nUna società è tenuta a nominare il DPO quando:\n1) Deve monitorare periodicamente e sistematicamente i cittadini su larga scala;\n2) Il trattamento dei dati costituisce l'attività principale (core business);\n3) Tratta su larga scala categorie particolari di dati (es. ospedali).\n",
+        "highlight": false
+      },
+      {
+        "text": "Il responsabile della protezione dei dati PUÒ appartenere",
+        "highlight": true
+      },
+      {
+        "text": " al personale interno all'azienda o essere un professionista/società esterno contrattualizzato. Il DPO vigila sul rispetto delle norme, fornisce consulenza ai dipendenti e funge da punto di contatto con l'Autorità Garante e con i cittadini.\nCondizioni per il trattamento lecito: consenso libero e informato dell'interessato, adempimento di obblighi contrattuali, obblighi legali, salvaguardia di interessi vitali o legittimo interesse del titolare.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "019-01",
@@ -1021,7 +1578,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 019 · Diritti dell'interessato nel GDPR",
     "source_excerpt": "DIRITTI DELL'INTERESSATO NEL GDPR\nIl GDPR riconosce al cittadino una serie di diritti fondamentali a tutela dei propri dati:\n- Diritto di accesso (art. 15): il cittadino ha diritto di accedere gratuitamente ai propri dati personali, sapere se è in corso un trattamento, conoscerne le finalità e i destinatari, e ottenerne copia in formato accessibile;\n- Diritto alla portabilità (art. 20): quando il trattamento si basa su consenso o contratto, l'interessato può richiedere la restituzione dei dati o la trasmissione diretta ad altra società in formato strutturato di uso comune e leggibile da dispositivo automatico;\n- Diritto di rettifica (art. 16): se i dati personali sono errati, incompleti o inesatti, l'interessato ha il diritto di chiederne la rettifica o integrazione senza indebito ritardo;\n- Diritto alla cancellazione / Diritto all'oblio (art. 17): l'interessato può chiedere la cancellazione dei dati se non più necessari alle finalità. L'azienda non è tenuta a cancellarli se il trattamento è necessario per la libertà di espressione, per adempiere a un obbligo legale, per motivi di sanità pubblica/ricerca o per difesa in sede giudiziaria;\n- Diritto di opposizione (art. 21): la persona può opporsi in qualsiasi momento al trattamento basato su interesse legittimo; l'azienda deve interrompere il trattamento a meno che non dimostri motivi legittimi prevalenti. Se l'opposizione riguarda il marketing diretto, l'interruzione è obbligatoria e immediata senza eccezioni;\n- Decisioni automatizzate e profilazione (art. 22): diritto di non essere sottoposto a decisioni basate unicamente sul trattamento automatizzato senza possibilità di intervento umano e impugnazione.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "DIRITTI DELL'INTERESSATO NEL GDPR\nIl GDPR riconosce al cittadino una serie di diritti fondamentali a tutela dei propri dati:\n- Diritto di accesso (art. 15): il cittadino ha diritto di accedere gratuitamente ai propri dati personali, sapere se è in corso un trattamento, conoscerne le finalità e i destinatari, e ottenerne copia in formato accessibile;\n- Diritto alla portabilità (art. 20): quando il trattamento si basa su consenso o contratto, l'interessato può richiedere la restituzione dei dati o la trasmissione diretta ad altra società in formato strutturato di uso comune e leggibile da dispositivo automatico;\n- Diritto di rettifica (art. 16): se i dati personali sono errati, incompleti o inesatti, l'interessato ha il diritto di chiederne la rettifica o integrazione senza indebito ritardo;\n- Diritto alla cancellazione / Diritto all'oblio (art. 17): l'interessato può chiedere la cancellazione dei dati se non più necessari alle finalità. L'azienda non è tenuta a cancellarli se il trattamento è necessario per la libertà di espressione, per adempiere a un obbligo legale, per motivi di sanità pubblica/ricerca o per difesa in sede giudiziaria;\n- Diritto di opposizione (art. 21): la persona può opporsi in qualsiasi momento al trattamento basato su interesse legittimo; l'azienda deve interrompere il trattamento ",
+        "highlight": false
+      },
+      {
+        "text": "a meno che",
+        "highlight": true
+      },
+      {
+        "text": " non dimostri motivi legittimi prevalenti. Se l'opposizione riguarda il marketing diretto, l'interruzione è obbligatoria e immediata senza eccezioni;\n- Decisioni automatizzate e profilazione (art. 22): diritto di non essere sottoposto a decisioni basate unicamente sul trattamento automatizzato senza possibilità di intervento umano e impugnazione.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "019-02",
@@ -1046,7 +1617,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 019 · Diritti dell'interessato nel GDPR",
     "source_excerpt": "DIRITTI DELL'INTERESSATO NEL GDPR\nIl GDPR riconosce al cittadino una serie di diritti fondamentali a tutela dei propri dati:\n- Diritto di accesso (art. 15): il cittadino ha diritto di accedere gratuitamente ai propri dati personali, sapere se è in corso un trattamento, conoscerne le finalità e i destinatari, e ottenerne copia in formato accessibile;\n- Diritto alla portabilità (art. 20): quando il trattamento si basa su consenso o contratto, l'interessato può richiedere la restituzione dei dati o la trasmissione diretta ad altra società in formato strutturato di uso comune e leggibile da dispositivo automatico;\n- Diritto di rettifica (art. 16): se i dati personali sono errati, incompleti o inesatti, l'interessato ha il diritto di chiederne la rettifica o integrazione senza indebito ritardo;\n- Diritto alla cancellazione / Diritto all'oblio (art. 17): l'interessato può chiedere la cancellazione dei dati se non più necessari alle finalità. L'azienda non è tenuta a cancellarli se il trattamento è necessario per la libertà di espressione, per adempiere a un obbligo legale, per motivi di sanità pubblica/ricerca o per difesa in sede giudiziaria;\n- Diritto di opposizione (art. 21): la persona può opporsi in qualsiasi momento al trattamento basato su interesse legittimo; l'azienda deve interrompere il trattamento a meno che non dimostri motivi legittimi prevalenti. Se l'opposizione riguarda il marketing diretto, l'interruzione è obbligatoria e immediata senza eccezioni;\n- Decisioni automatizzate e profilazione (art. 22): diritto di non essere sottoposto a decisioni basate unicamente sul trattamento automatizzato senza possibilità di intervento umano e impugnazione.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "DIRITTI DELL'INTERESSATO NEL GDPR\nIl GDPR riconosce al cittadino una serie di diritti fondamentali a tutela dei propri dati:\n- Diritto di accesso (art. 15): il cittadino ha diritto di accedere gratuitamente ai propri dati personali, sapere se è in corso un trattamento, conoscerne le finalità e i destinatari, e ottenerne copia in formato accessibile;\n- Diritto alla portabilità (art. 20): quando il trattamento si basa su consenso o contratto, l'interessato può richiedere la restituzione dei dati o la trasmissione diretta ad altra società in formato strutturato di uso comune e leggibile da dispositivo automatico;\n- Diritto di rettifica (art. 16): se i dati personali sono errati, incompleti o inesatti, l'interessato ",
+        "highlight": false
+      },
+      {
+        "text": "ha il diritto di chiederne la rettifica",
+        "highlight": true
+      },
+      {
+        "text": " o integrazione senza indebito ritardo;\n- Diritto alla cancellazione / Diritto all'oblio (art. 17): l'interessato può chiedere la cancellazione dei dati se non più necessari alle finalità. L'azienda non è tenuta a cancellarli se il trattamento è necessario per la libertà di espressione, per adempiere a un obbligo legale, per motivi di sanità pubblica/ricerca o per difesa in sede giudiziaria;\n- Diritto di opposizione (art. 21): la persona può opporsi in qualsiasi momento al trattamento basato su interesse legittimo; l'azienda deve interrompere il trattamento a meno che non dimostri motivi legittimi prevalenti. Se l'opposizione riguarda il marketing diretto, l'interruzione è obbligatoria e immediata senza eccezioni;\n- Decisioni automatizzate e profilazione (art. 22): diritto di non essere sottoposto a decisioni basate unicamente sul trattamento automatizzato senza possibilità di intervento umano e impugnazione.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "020-01",
@@ -1071,7 +1656,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 020 · Data Breach, DPIA e Sanzioni",
     "source_excerpt": "VIOLAZIONE DEI DATI E SANZIONI\nÈ considerata violazione dei dati (Data Breach) la divulgazione accidentale o illegale, la perdita, la modifica o l'accesso non autorizzato ai dati personali trattati da un'azienda.\nNotifica: Se la violazione presenta un rischio per i diritti e le libertà delle persone, deve essere notificata all'Autorità Garante entro 72 ore dal momento in cui è nota. Se il rischio è elevato, la violazione deve essere comunicata tempestivamente anche agli interessati.\nTermini di risposta: L'azienda deve rispondere alle richieste degli interessati senza indebito ritardo e comunque entro un mese (prorogabile di 2 mesi per richieste complesse).\nValutazione d'impatto (DPIA): È obbligatoria quando il trattamento prevede l'uso di nuove tecnologie o presenta un rischio elevato (profilazione su larga scala, videosorveglianza di aree pubbliche, trattamento di dati sanitari o giudiziari).\nPrincipi architetturali:\n- Privacy by design: protezione dei dati fin dalla progettazione dei sistemi;\n- Privacy by default: adozione automatica delle impostazioni predefinite che più tutelano la riservatezza.\nSanzioni: Il mancato rispetto del GDPR comporta sanzioni pecuniarie amministrative fino a 20 milioni di euro o fino al 4% del fatturato mondiale annuo dell'azienda, oltre all'ordine di cessazione del trattamento.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "VIOLAZIONE DEI DATI E SANZIONI\nÈ considerata violazione dei dati (Data Breach) la divulgazione accidentale o illegale, la perdita, la modifica o l'accesso non autorizzato ai dati personali trattati da un'azienda.\nNotifica: Se la violazione presenta un rischio per i diritti e le libertà delle persone, ",
+        "highlight": false
+      },
+      {
+        "text": "deve essere notificata all",
+        "highlight": true
+      },
+      {
+        "text": "'Autorità Garante entro 72 ore dal momento in cui è nota. Se il rischio è elevato, la violazione deve essere comunicata tempestivamente anche agli interessati.\nTermini di risposta: L'azienda deve rispondere alle richieste degli interessati senza indebito ritardo e comunque entro un mese (prorogabile di 2 mesi per richieste complesse).\nValutazione d'impatto (DPIA): È obbligatoria quando il trattamento prevede l'uso di nuove tecnologie o presenta un rischio elevato (profilazione su larga scala, videosorveglianza di aree pubbliche, trattamento di dati sanitari o giudiziari).\nPrincipi architetturali:\n- Privacy by design: protezione dei dati fin dalla progettazione dei sistemi;\n- Privacy by default: adozione automatica delle impostazioni predefinite che più tutelano la riservatezza.\nSanzioni: Il mancato rispetto del GDPR comporta sanzioni pecuniarie amministrative fino a 20 milioni di euro o fino al 4% del fatturato mondiale annuo dell'azienda, oltre all'ordine di cessazione del trattamento.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "020-02",
@@ -1096,7 +1695,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 020 · Data Breach, DPIA e Sanzioni",
     "source_excerpt": "VIOLAZIONE DEI DATI E SANZIONI\nÈ considerata violazione dei dati (Data Breach) la divulgazione accidentale o illegale, la perdita, la modifica o l'accesso non autorizzato ai dati personali trattati da un'azienda.\nNotifica: Se la violazione presenta un rischio per i diritti e le libertà delle persone, deve essere notificata all'Autorità Garante entro 72 ore dal momento in cui è nota. Se il rischio è elevato, la violazione deve essere comunicata tempestivamente anche agli interessati.\nTermini di risposta: L'azienda deve rispondere alle richieste degli interessati senza indebito ritardo e comunque entro un mese (prorogabile di 2 mesi per richieste complesse).\nValutazione d'impatto (DPIA): È obbligatoria quando il trattamento prevede l'uso di nuove tecnologie o presenta un rischio elevato (profilazione su larga scala, videosorveglianza di aree pubbliche, trattamento di dati sanitari o giudiziari).\nPrincipi architetturali:\n- Privacy by design: protezione dei dati fin dalla progettazione dei sistemi;\n- Privacy by default: adozione automatica delle impostazioni predefinite che più tutelano la riservatezza.\nSanzioni: Il mancato rispetto del GDPR comporta sanzioni pecuniarie amministrative fino a 20 milioni di euro o fino al 4% del fatturato mondiale annuo dell'azienda, oltre all'ordine di cessazione del trattamento.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "VIOLAZIONE DEI DATI E SANZIONI\nÈ considerata violazione dei dati (Data Breach) la divulgazione accidentale o illegale, la perdita, la modifica o l'accesso non autorizzato ai dati personali trattati da un'azienda.\nNotifica: Se la violazione presenta un rischio per i diritti e le libertà delle persone, deve essere notificata all'Autorità Garante entro 72 ore dal momento in cui è nota. Se il rischio è elevato, la violazione deve essere comunicata tempestivamente anche agli interessati.\nTermini di risposta: L'azienda deve rispondere alle richieste degli interessati senza indebito ritardo e comunque entro un mese (prorogabile di 2 mesi per richieste complesse).\nValutazione d'impatto (DPIA): È obbligatoria quando il trattamento prevede l'uso di nuove tecnologie o presenta un rischio elevato (profilazione su larga scala, videosorveglianza di aree pubbliche, trattamento di dati sanitari o giudiziari).\nPrincipi architetturali:\n- Privacy by design: protezione dei dati fin dalla progettazione dei sistemi;\n- Privacy by default: adozione automatica delle impostazioni predefinite che più tutelano la riservatezza.\nSanzioni: Il mancato rispetto del GDPR comporta sanzioni pecuniarie amministrative ",
+        "highlight": false
+      },
+      {
+        "text": "fino a 20 milioni di euro",
+        "highlight": true
+      },
+      {
+        "text": " o fino al 4% del fatturato mondiale annuo dell'azienda, oltre all'ordine di cessazione del trattamento.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "020-03",
@@ -1121,7 +1734,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 020 · Data Breach, DPIA e Sanzioni",
     "source_excerpt": "VIOLAZIONE DEI DATI E SANZIONI\nÈ considerata violazione dei dati (Data Breach) la divulgazione accidentale o illegale, la perdita, la modifica o l'accesso non autorizzato ai dati personali trattati da un'azienda.\nNotifica: Se la violazione presenta un rischio per i diritti e le libertà delle persone, deve essere notificata all'Autorità Garante entro 72 ore dal momento in cui è nota. Se il rischio è elevato, la violazione deve essere comunicata tempestivamente anche agli interessati.\nTermini di risposta: L'azienda deve rispondere alle richieste degli interessati senza indebito ritardo e comunque entro un mese (prorogabile di 2 mesi per richieste complesse).\nValutazione d'impatto (DPIA): È obbligatoria quando il trattamento prevede l'uso di nuove tecnologie o presenta un rischio elevato (profilazione su larga scala, videosorveglianza di aree pubbliche, trattamento di dati sanitari o giudiziari).\nPrincipi architetturali:\n- Privacy by design: protezione dei dati fin dalla progettazione dei sistemi;\n- Privacy by default: adozione automatica delle impostazioni predefinite che più tutelano la riservatezza.\nSanzioni: Il mancato rispetto del GDPR comporta sanzioni pecuniarie amministrative fino a 20 milioni di euro o fino al 4% del fatturato mondiale annuo dell'azienda, oltre all'ordine di cessazione del trattamento.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "VIOLAZIONE DEI DATI E SANZIONI\nÈ considerata violazione dei dati (Data Breach) la divulgazione accidentale o illegale, la perdita, la modifica o l'accesso non autorizzato ai dati personali trattati da un'azienda.\nNotifica: Se la violazione presenta un rischio per i diritti e le libertà delle persone, deve essere notificata all'Autorità Garante entro 72 ore dal momento in cui è nota. Se il rischio è elevato, la violazione deve essere comunicata tempestivamente anche agli interessati.\nTermini di risposta: L'azienda deve rispondere alle richieste degli interessati senza indebito ritardo e comunque entro un mese (prorogabile di 2 mesi per richieste complesse).\nValutazione d'impatto (DPIA): È obbligatoria quando il trattamento prevede l'uso di nuove tecnologie o presenta un rischio elevato (profilazione su larga scala, videosorveglianza di aree pubbliche, trattamento di dati sanitari o giudiziari).\nPrincipi architetturali:\n- Privacy by design: protezione dei dati fin dalla progettazione dei sistemi;\n- Privacy by default: adozione automatica delle ",
+        "highlight": false
+      },
+      {
+        "text": "impostazioni predefinite che più",
+        "highlight": true
+      },
+      {
+        "text": " tutelano la riservatezza.\nSanzioni: Il mancato rispetto del GDPR comporta sanzioni pecuniarie amministrative fino a 20 milioni di euro o fino al 4% del fatturato mondiale annuo dell'azienda, oltre all'ordine di cessazione del trattamento.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "021-01",
@@ -1146,7 +1773,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 021 · Riservatezza, ISO 27002 e Convenzione di Budapest",
     "source_excerpt": "RISERVATEZZA DEI DATI E STANDARD ISO\nLa Computer Security ha lo scopo di proteggere l'infrastruttura informativa e i dati in essa contenuti, sia in ambienti locali sia su reti estese come Internet, difendendoli da virus, trojan, worm, interferenze e accessi non autorizzati.\nLa riservatezza è la proprietà delle informazioni per cui è garantito che esse siano accessibili solo al personale autorizzato. È stata formalmente definita dall'International Organization for Standardization (ISO) nello standard ISO/IEC 27002 come \"garantire che le informazioni siano accessibili solo a coloro che sono autorizzati ad accedervi\", costituendo uno dei capisaldi della sicurezza.\nIn informatica la riservatezza protegge le comunicazioni scambiate tra emittente e destinatario nei confronti di terzi, rendendo il contenuto inintelligibile a chi non sia autorizzato.\nTuttavia, va chiarito che NON esiste un meccanismo di sicurezza assolutamente sicuro.\nLa disponibilità dei dati è il protocollo di progettazione e attuazione che garantisce un determinato grado di continuità operativa, consentendo agli utenti di accedere al sistema e ai propri dati senza interruzioni.\nCooperazione internazionale: Esempio cardine è la Convenzione sul Cybercrime del Consiglio d'Europa (Budapest, 23 novembre 2001), ratificata dall'Italia con la Legge 48/2008 e sottoscritta anche dagli Stati Uniti per favorire canali di cooperazione diretta tra polizie e magistrature.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "RISERVATEZZA DEI DATI E STANDARD ISO\nLa Computer Security ha lo scopo di proteggere l'infrastruttura informativa e i dati in essa contenuti, sia in ambienti locali sia su reti estese come Internet, difendendoli da virus, trojan, worm, interferenze e accessi non autorizzati.\nLa riservatezza è la proprietà delle informazioni per cui è garantito che esse siano accessibili solo al personale autorizzato. È stata formalmente definita dall'",
+        "highlight": false
+      },
+      {
+        "text": "International Organization for Standardization",
+        "highlight": true
+      },
+      {
+        "text": " (ISO) nello standard ISO/IEC 27002 come \"garantire che le informazioni siano accessibili solo a coloro che sono autorizzati ad accedervi\", costituendo uno dei capisaldi della sicurezza.\nIn informatica la riservatezza protegge le comunicazioni scambiate tra emittente e destinatario nei confronti di terzi, rendendo il contenuto inintelligibile a chi non sia autorizzato.\nTuttavia, va chiarito che NON esiste un meccanismo di sicurezza assolutamente sicuro.\nLa disponibilità dei dati è il protocollo di progettazione e attuazione che garantisce un determinato grado di continuità operativa, consentendo agli utenti di accedere al sistema e ai propri dati senza interruzioni.\nCooperazione internazionale: Esempio cardine è la Convenzione sul Cybercrime del Consiglio d'Europa (Budapest, 23 novembre 2001), ratificata dall'Italia con la Legge 48/2008 e sottoscritta anche dagli Stati Uniti per favorire canali di cooperazione diretta tra polizie e magistrature.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "021-02",
@@ -1171,7 +1812,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 021 · Riservatezza, ISO 27002 e Convenzione di Budapest",
     "source_excerpt": "RISERVATEZZA DEI DATI E STANDARD ISO\nLa Computer Security ha lo scopo di proteggere l'infrastruttura informativa e i dati in essa contenuti, sia in ambienti locali sia su reti estese come Internet, difendendoli da virus, trojan, worm, interferenze e accessi non autorizzati.\nLa riservatezza è la proprietà delle informazioni per cui è garantito che esse siano accessibili solo al personale autorizzato. È stata formalmente definita dall'International Organization for Standardization (ISO) nello standard ISO/IEC 27002 come \"garantire che le informazioni siano accessibili solo a coloro che sono autorizzati ad accedervi\", costituendo uno dei capisaldi della sicurezza.\nIn informatica la riservatezza protegge le comunicazioni scambiate tra emittente e destinatario nei confronti di terzi, rendendo il contenuto inintelligibile a chi non sia autorizzato.\nTuttavia, va chiarito che NON esiste un meccanismo di sicurezza assolutamente sicuro.\nLa disponibilità dei dati è il protocollo di progettazione e attuazione che garantisce un determinato grado di continuità operativa, consentendo agli utenti di accedere al sistema e ai propri dati senza interruzioni.\nCooperazione internazionale: Esempio cardine è la Convenzione sul Cybercrime del Consiglio d'Europa (Budapest, 23 novembre 2001), ratificata dall'Italia con la Legge 48/2008 e sottoscritta anche dagli Stati Uniti per favorire canali di cooperazione diretta tra polizie e magistrature.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "RISERVATEZZA DEI DATI E STANDARD ISO\nLa Computer Security ha lo scopo di proteggere l'infrastruttura informativa e i dati in essa contenuti, sia in ambienti locali sia su reti estese come Internet, difendendoli da virus, trojan, worm, interferenze e accessi non autorizzati.\nLa riservatezza è la proprietà delle informazioni per cui è garantito che esse siano accessibili solo al personale autorizzato. È stata formalmente definita dall'International Organization for Standardization (ISO) nello standard ISO/IEC 27002 come \"garantire che le informazioni siano accessibili solo a coloro che sono autorizzati ad accedervi\", costituendo uno dei capisaldi della sicurezza.\nIn informatica la riservatezza protegge le comunicazioni scambiate tra emittente e destinatario nei confronti di terzi, rendendo il contenuto inintelligibile a chi non sia autorizzato.\nTuttavia, va chiarito che NON ",
+        "highlight": false
+      },
+      {
+        "text": "esiste un meccanismo di sicurezza assolutamente sicuro",
+        "highlight": true
+      },
+      {
+        "text": ".\nLa disponibilità dei dati è il protocollo di progettazione e attuazione che garantisce un determinato grado di continuità operativa, consentendo agli utenti di accedere al sistema e ai propri dati senza interruzioni.\nCooperazione internazionale: Esempio cardine è la Convenzione sul Cybercrime del Consiglio d'Europa (Budapest, 23 novembre 2001), ratificata dall'Italia con la Legge 48/2008 e sottoscritta anche dagli Stati Uniti per favorire canali di cooperazione diretta tra polizie e magistrature.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "022-01",
@@ -1196,7 +1851,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 022 · Firewall, Testing e Tunnel",
     "source_excerpt": "FIREWALL, TESTING E TUNNEL\nUn firewall è un dispositivo hardware o software che controlla le informazioni in transito tra una rete interna e Internet, bloccandole o consentendole in base a regole di filtraggio preimpostate, per impedire ad hacker o malware di penetrare nella macchina.\nOgni eccezione o porta aperta nel firewall (sblocco) crea un potenziale varco di vulnerabilità.\nTest dei firewall: il test può determinare la presenza di bug ma non la loro assenza. Si utilizzano tecniche di test della qualità esterna (black box, senza conoscere il codice sorgente) e interna (white box, basata sulla conoscenza del codice). Vanno eseguiti regolarmente test di regressione e verifiche tramite Tiger Team (stress test, attacchi simulati, dumpster diving). Strumenti come il fragrouter sono progettati per frammentare i pacchetti al fine di aggirare firewall ingenui.\nTUNNEL\nUn tunnel può essere pensato come uno speciale canale ad alta tecnologia che connette servizi e host attraverso la rete senza posa di nuovi cavi: è descrivibile come 'un bizzarro livello di collegamento' posto al di sotto di IP in modo ricorsivo.\nI firewall possono essere illusi e aggirati usando i tunnel: incapsulando pacchetti non autorizzati (es. IP dentro IP, o tramite connessioni telnet e messaggi DNS), un utente interno può stabilire un canale con l'esterno consentendo chiamate sia in uscita sia in entrata non filtrate dal firewall.",
     "note": "Nel quiz originario compariva il refuso 'magori'.",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "FIREWALL, TESTING E TUNNEL\nUn firewall è un dispositivo hardware o software che controlla le informazioni in transito tra una rete interna e Internet, bloccandole o consentendole in base a regole di filtraggio preimpostate, per impedire ad hacker o malware di penetrare nella macchina.\nOgni eccezione o porta aperta nel firewall (sblocco) crea un potenziale varco di vulnerabilità.\nTest dei firewall: il test può determinare la presenza di bug ma non la loro assenza. Si utilizzano tecniche di test della qualità esterna (",
+        "highlight": false
+      },
+      {
+        "text": "black box",
+        "highlight": true
+      },
+      {
+        "text": ", senza conoscere il codice sorgente) e interna (white box, basata sulla conoscenza del codice). Vanno eseguiti regolarmente test di regressione e verifiche tramite Tiger Team (stress test, attacchi simulati, dumpster diving). Strumenti come il fragrouter sono progettati per frammentare i pacchetti al fine di aggirare firewall ingenui.\nTUNNEL\nUn tunnel può essere pensato come uno speciale canale ad alta tecnologia che connette servizi e host attraverso la rete senza posa di nuovi cavi: è descrivibile come 'un bizzarro livello di collegamento' posto al di sotto di IP in modo ricorsivo.\nI firewall possono essere illusi e aggirati usando i tunnel: incapsulando pacchetti non autorizzati (es. IP dentro IP, o tramite connessioni telnet e messaggi DNS), un utente interno può stabilire un canale con l'esterno consentendo chiamate sia in uscita sia in entrata non filtrate dal firewall.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "022-02",
@@ -1221,7 +1890,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 022 · Firewall, Testing e Tunnel",
     "source_excerpt": "FIREWALL, TESTING E TUNNEL\nUn firewall è un dispositivo hardware o software che controlla le informazioni in transito tra una rete interna e Internet, bloccandole o consentendole in base a regole di filtraggio preimpostate, per impedire ad hacker o malware di penetrare nella macchina.\nOgni eccezione o porta aperta nel firewall (sblocco) crea un potenziale varco di vulnerabilità.\nTest dei firewall: il test può determinare la presenza di bug ma non la loro assenza. Si utilizzano tecniche di test della qualità esterna (black box, senza conoscere il codice sorgente) e interna (white box, basata sulla conoscenza del codice). Vanno eseguiti regolarmente test di regressione e verifiche tramite Tiger Team (stress test, attacchi simulati, dumpster diving). Strumenti come il fragrouter sono progettati per frammentare i pacchetti al fine di aggirare firewall ingenui.\nTUNNEL\nUn tunnel può essere pensato come uno speciale canale ad alta tecnologia che connette servizi e host attraverso la rete senza posa di nuovi cavi: è descrivibile come 'un bizzarro livello di collegamento' posto al di sotto di IP in modo ricorsivo.\nI firewall possono essere illusi e aggirati usando i tunnel: incapsulando pacchetti non autorizzati (es. IP dentro IP, o tramite connessioni telnet e messaggi DNS), un utente interno può stabilire un canale con l'esterno consentendo chiamate sia in uscita sia in entrata non filtrate dal firewall.",
     "note": "Nel testo d'esame è presente il refuso 'farewall' e 'Impedie'.",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "FIREWALL, TESTING E TUNNEL\nUn firewall è un dispositivo hardware o software che controlla le informazioni in transito tra una rete interna e Internet, bloccandole o consentendole in base a regole di filtraggio preimpostate, per ",
+        "highlight": false
+      },
+      {
+        "text": "impedire ad",
+        "highlight": true
+      },
+      {
+        "text": " hacker o malware di penetrare nella macchina.\nOgni eccezione o porta aperta nel firewall (sblocco) crea un potenziale varco di vulnerabilità.\nTest dei firewall: il test può determinare la presenza di bug ma non la loro assenza. Si utilizzano tecniche di test della qualità esterna (black box, senza conoscere il codice sorgente) e interna (white box, basata sulla conoscenza del codice). Vanno eseguiti regolarmente test di regressione e verifiche tramite Tiger Team (stress test, attacchi simulati, dumpster diving). Strumenti come il fragrouter sono progettati per frammentare i pacchetti al fine di aggirare firewall ingenui.\nTUNNEL\nUn tunnel può essere pensato come uno speciale canale ad alta tecnologia che connette servizi e host attraverso la rete senza posa di nuovi cavi: è descrivibile come 'un bizzarro livello di collegamento' posto al di sotto di IP in modo ricorsivo.\nI firewall possono essere illusi e aggirati usando i tunnel: incapsulando pacchetti non autorizzati (es. IP dentro IP, o tramite connessioni telnet e messaggi DNS), un utente interno può stabilire un canale con l'esterno consentendo chiamate sia in uscita sia in entrata non filtrate dal firewall.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "022-03",
@@ -1246,7 +1929,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 022 · Firewall, Testing e Tunnel",
     "source_excerpt": "FIREWALL, TESTING E TUNNEL\nUn firewall è un dispositivo hardware o software che controlla le informazioni in transito tra una rete interna e Internet, bloccandole o consentendole in base a regole di filtraggio preimpostate, per impedire ad hacker o malware di penetrare nella macchina.\nOgni eccezione o porta aperta nel firewall (sblocco) crea un potenziale varco di vulnerabilità.\nTest dei firewall: il test può determinare la presenza di bug ma non la loro assenza. Si utilizzano tecniche di test della qualità esterna (black box, senza conoscere il codice sorgente) e interna (white box, basata sulla conoscenza del codice). Vanno eseguiti regolarmente test di regressione e verifiche tramite Tiger Team (stress test, attacchi simulati, dumpster diving). Strumenti come il fragrouter sono progettati per frammentare i pacchetti al fine di aggirare firewall ingenui.\nTUNNEL\nUn tunnel può essere pensato come uno speciale canale ad alta tecnologia che connette servizi e host attraverso la rete senza posa di nuovi cavi: è descrivibile come 'un bizzarro livello di collegamento' posto al di sotto di IP in modo ricorsivo.\nI firewall possono essere illusi e aggirati usando i tunnel: incapsulando pacchetti non autorizzati (es. IP dentro IP, o tramite connessioni telnet e messaggi DNS), un utente interno può stabilire un canale con l'esterno consentendo chiamate sia in uscita sia in entrata non filtrate dal firewall.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "FIREWALL, TESTING E TUNNEL\nUn firewall è un dispositivo hardware o software che controlla le informazioni in transito tra una rete interna e Internet, bloccandole o consentendole in base a regole di filtraggio preimpostate, per impedire ad hacker o malware di penetrare nella macchina.\nOgni eccezione o porta aperta nel firewall (sblocco) crea un potenziale varco di vulnerabilità.\nTest dei firewall: il test può determinare la presenza di bug ma non la loro assenza. ",
+        "highlight": false
+      },
+      {
+        "text": "Si",
+        "highlight": true
+      },
+      {
+        "text": " utilizzano tecniche di test della qualità esterna (black box, senza conoscere il codice sorgente) e interna (white box, basata sulla conoscenza del codice). Vanno eseguiti regolarmente test di regressione e verifiche tramite Tiger Team (stress test, attacchi simulati, dumpster diving). Strumenti come il fragrouter sono progettati per frammentare i pacchetti al fine di aggirare firewall ingenui.\nTUNNEL\nUn tunnel può essere pensato come uno speciale canale ad alta tecnologia che connette servizi e host attraverso la rete senza posa di nuovi cavi: è descrivibile come 'un bizzarro livello di collegamento' posto al di sotto di IP in modo ricorsivo.\nI firewall possono essere illusi e aggirati usando i tunnel: incapsulando pacchetti non autorizzati (es. IP dentro IP, o tramite connessioni telnet e messaggi DNS), un utente interno può stabilire un canale con l'esterno consentendo chiamate sia in uscita sia in entrata non filtrate dal firewall.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "022-04",
@@ -1271,7 +1968,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 022 · Firewall, Testing e Tunnel",
     "source_excerpt": "FIREWALL, TESTING E TUNNEL\nUn firewall è un dispositivo hardware o software che controlla le informazioni in transito tra una rete interna e Internet, bloccandole o consentendole in base a regole di filtraggio preimpostate, per impedire ad hacker o malware di penetrare nella macchina.\nOgni eccezione o porta aperta nel firewall (sblocco) crea un potenziale varco di vulnerabilità.\nTest dei firewall: il test può determinare la presenza di bug ma non la loro assenza. Si utilizzano tecniche di test della qualità esterna (black box, senza conoscere il codice sorgente) e interna (white box, basata sulla conoscenza del codice). Vanno eseguiti regolarmente test di regressione e verifiche tramite Tiger Team (stress test, attacchi simulati, dumpster diving). Strumenti come il fragrouter sono progettati per frammentare i pacchetti al fine di aggirare firewall ingenui.\nTUNNEL\nUn tunnel può essere pensato come uno speciale canale ad alta tecnologia che connette servizi e host attraverso la rete senza posa di nuovi cavi: è descrivibile come 'un bizzarro livello di collegamento' posto al di sotto di IP in modo ricorsivo.\nI firewall possono essere illusi e aggirati usando i tunnel: incapsulando pacchetti non autorizzati (es. IP dentro IP, o tramite connessioni telnet e messaggi DNS), un utente interno può stabilire un canale con l'esterno consentendo chiamate sia in uscita sia in entrata non filtrate dal firewall.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "FIREWALL, TESTING E TUNNEL\nUn firewall è un dispositivo hardware o software che controlla le informazioni in transito tra una rete interna e Internet, bloccandole o consentendole in base a regole di filtraggio preimpostate, per impedire ad hacker o malware di penetrare nella macchina.\nOgni eccezione o porta aperta nel firewall (sblocco) crea un potenziale varco di vulnerabilità.\nTest dei firewall: il test può determinare la presenza di bug ma non la loro assenza. Si utilizzano tecniche di test della qualità esterna (black box, senza conoscere il codice sorgente) e interna (white box, basata sulla conoscenza del codice). Vanno eseguiti regolarmente test di regressione e verifiche tramite Tiger Team (stress test, attacchi simulati, dumpster diving). Strumenti come il fragrouter sono progettati per frammentare i pacchetti al fine di aggirare firewall ingenui.\nTUNNEL\nUn tunnel può essere pensato come uno speciale canale ad alta tecnologia che connette servizi e host attraverso la rete senza posa di nuovi cavi: è descrivibile come '",
+        "highlight": false
+      },
+      {
+        "text": "un bizzarro livello di collegamento",
+        "highlight": true
+      },
+      {
+        "text": "' posto al di sotto di IP in modo ricorsivo.\nI firewall possono essere illusi e aggirati usando i tunnel: incapsulando pacchetti non autorizzati (es. IP dentro IP, o tramite connessioni telnet e messaggi DNS), un utente interno può stabilire un canale con l'esterno consentendo chiamate sia in uscita sia in entrata non filtrate dal firewall.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "022-05",
@@ -1296,7 +2007,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 022 · Firewall, Testing e Tunnel",
     "source_excerpt": "FIREWALL, TESTING E TUNNEL\nUn firewall è un dispositivo hardware o software che controlla le informazioni in transito tra una rete interna e Internet, bloccandole o consentendole in base a regole di filtraggio preimpostate, per impedire ad hacker o malware di penetrare nella macchina.\nOgni eccezione o porta aperta nel firewall (sblocco) crea un potenziale varco di vulnerabilità.\nTest dei firewall: il test può determinare la presenza di bug ma non la loro assenza. Si utilizzano tecniche di test della qualità esterna (black box, senza conoscere il codice sorgente) e interna (white box, basata sulla conoscenza del codice). Vanno eseguiti regolarmente test di regressione e verifiche tramite Tiger Team (stress test, attacchi simulati, dumpster diving). Strumenti come il fragrouter sono progettati per frammentare i pacchetti al fine di aggirare firewall ingenui.\nTUNNEL\nUn tunnel può essere pensato come uno speciale canale ad alta tecnologia che connette servizi e host attraverso la rete senza posa di nuovi cavi: è descrivibile come 'un bizzarro livello di collegamento' posto al di sotto di IP in modo ricorsivo.\nI firewall possono essere illusi e aggirati usando i tunnel: incapsulando pacchetti non autorizzati (es. IP dentro IP, o tramite connessioni telnet e messaggi DNS), un utente interno può stabilire un canale con l'esterno consentendo chiamate sia in uscita sia in entrata non filtrate dal firewall.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "FIREWALL, TESTING E TUNNEL\nUn firewall è un dispositivo hardware o software che controlla le informazioni in transito tra una rete interna e Internet, bloccandole o consentendole in base a regole di filtraggio preimpostate, per impedire ad hacker o malware di penetrare nella macchina.\nOgni eccezione o porta aperta nel firewall (sblocco) crea un potenziale varco di vulnerabilità.\nTest dei firewall: il test può determinare la presenza di bug ma non la loro assenza. Si utilizzano tecniche di test della qualità esterna (black box, senza conoscere il codice sorgente) e interna (white box, basata sulla conoscenza del codice). Vanno eseguiti regolarmente test di regressione e verifiche tramite Tiger Team (stress test, attacchi simulati, dumpster diving). Strumenti come il fragrouter sono progettati per frammentare i pacchetti al fine di ",
+        "highlight": false
+      },
+      {
+        "text": "aggirare",
+        "highlight": true
+      },
+      {
+        "text": " firewall ingenui.\nTUNNEL\nUn tunnel può essere pensato come uno speciale canale ad alta tecnologia che connette servizi e host attraverso la rete senza posa di nuovi cavi: è descrivibile come 'un bizzarro livello di collegamento' posto al di sotto di IP in modo ricorsivo.\nI firewall possono essere illusi e aggirati usando i tunnel: incapsulando pacchetti non autorizzati (es. IP dentro IP, o tramite connessioni telnet e messaggi DNS), un utente interno può stabilire un canale con l'esterno consentendo chiamate sia in uscita sia in entrata non filtrate dal firewall.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "023-01",
@@ -1321,7 +2046,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 023 · Hacker, etica e Crowdsourcing",
     "source_excerpt": "HACKER E CROWDSOURCING\nIl termine hacker ha diversi significati. Secondo il dizionario degli hacker, è ogni individuo che si dedica alla programmazione con entusiasmo, considerando un bene straordinario mettere le informazioni a disposizione di tutti. Secondo Eric Raymond, il motivo principale per cui creano software nel tempo libero e lo distribuiscono gratuitamente è quello di essere riconosciuti dai loro pari.\nIl termine hacker nasce nella seconda metà del XX secolo presso i club e i laboratori del MIT (nel 1961 il MIT acquisì il PDP-1, con cui gli studenti del Tech Model Railroad Club crearono il celebre videogioco Spacewar).\nGli hacker del software libero riservano il termine 'cracker' (da safecracker, scassinatore di casseforti) a chi viola i sistemi per recare danno o profitto personale.\nCrowdsourcing e Bug Bounty:\nPer testare la sicurezza delle reti, le aziende ricorrono a piattaforme di crowdsourcing che intermediano con hacker etici freelance. Tra le più grandi e note figurano HackerOne, Bugcrowd e Synac (mentre 'Batting' non è un'azienda del settore).\nTali società offrono tre servizi principali:\n1) Programmi di bug bounty (ricompense per vulnerabilità scoperte);\n2) Test di penetrazione;\n3) Programmi di divulgazione delle vulnerabilità (vulnerability disclosure policy).",
     "note": "Come da indicazioni didattiche, la risposta corretta univoca è 'Nella seconda metà del XX secolo'.",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "HACKER E CROWDSOURCING\nIl termine hacker ha diversi significati. Secondo il dizionario degli hacker, è ogni individuo che si dedica alla programmazione con entusiasmo, considerando un bene straordinario mettere le informazioni a disposizione di tutti. Secondo Eric Raymond, il motivo principale per cui creano software nel tempo libero e lo distribuiscono gratuitamente è quello di essere riconosciuti dai loro pari.\nIl termine hacker nasce ",
+        "highlight": false
+      },
+      {
+        "text": "nella seconda metà del XX secolo",
+        "highlight": true
+      },
+      {
+        "text": " presso i club e i laboratori del MIT (nel 1961 il MIT acquisì il PDP-1, con cui gli studenti del Tech Model Railroad Club crearono il celebre videogioco Spacewar).\nGli hacker del software libero riservano il termine 'cracker' (da safecracker, scassinatore di casseforti) a chi viola i sistemi per recare danno o profitto personale.\nCrowdsourcing e Bug Bounty:\nPer testare la sicurezza delle reti, le aziende ricorrono a piattaforme di crowdsourcing che intermediano con hacker etici freelance. Tra le più grandi e note figurano HackerOne, Bugcrowd e Synac (mentre 'Batting' non è un'azienda del settore).\nTali società offrono tre servizi principali:\n1) Programmi di bug bounty (ricompense per vulnerabilità scoperte);\n2) Test di penetrazione;\n3) Programmi di divulgazione delle vulnerabilità (vulnerability disclosure policy).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "023-02",
@@ -1346,7 +2085,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 023 · Hacker, etica e Crowdsourcing",
     "source_excerpt": "HACKER E CROWDSOURCING\nIl termine hacker ha diversi significati. Secondo il dizionario degli hacker, è ogni individuo che si dedica alla programmazione con entusiasmo, considerando un bene straordinario mettere le informazioni a disposizione di tutti. Secondo Eric Raymond, il motivo principale per cui creano software nel tempo libero e lo distribuiscono gratuitamente è quello di essere riconosciuti dai loro pari.\nIl termine hacker nasce nella seconda metà del XX secolo presso i club e i laboratori del MIT (nel 1961 il MIT acquisì il PDP-1, con cui gli studenti del Tech Model Railroad Club crearono il celebre videogioco Spacewar).\nGli hacker del software libero riservano il termine 'cracker' (da safecracker, scassinatore di casseforti) a chi viola i sistemi per recare danno o profitto personale.\nCrowdsourcing e Bug Bounty:\nPer testare la sicurezza delle reti, le aziende ricorrono a piattaforme di crowdsourcing che intermediano con hacker etici freelance. Tra le più grandi e note figurano HackerOne, Bugcrowd e Synac (mentre 'Batting' non è un'azienda del settore).\nTali società offrono tre servizi principali:\n1) Programmi di bug bounty (ricompense per vulnerabilità scoperte);\n2) Test di penetrazione;\n3) Programmi di divulgazione delle vulnerabilità (vulnerability disclosure policy).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "HACKER E CROWDSOURCING\nIl termine hacker ha diversi significati. Secondo il dizionario degli hacker, è ogni individuo che si dedica alla programmazione con entusiasmo, considerando un bene straordinario mettere le informazioni a disposizione di tutti. Secondo Eric Raymond, il motivo principale per cui creano software nel tempo libero e lo distribuiscono gratuitamente è quello di essere riconosciuti dai loro pari.\nIl termine hacker nasce nella seconda metà del XX secolo presso i club e i laboratori del MIT (nel 1961 il MIT acquisì il PDP-1, con cui gli studenti del Tech Model Railroad Club crearono il celebre videogioco Spacewar).\nGli hacker del software libero riservano il termine 'cracker' (da safecracker, scassinatore di casseforti) a chi viola i sistemi per recare danno o profitto personale.\nCrowdsourcing e Bug Bounty:\nPer testare la sicurezza delle reti, le aziende ricorrono a piattaforme di crowdsourcing che intermediano con hacker etici freelance. Tra le più grandi e note figurano HackerOne, Bugcrowd e Synac (mentre '",
+        "highlight": false
+      },
+      {
+        "text": "Batting",
+        "highlight": true
+      },
+      {
+        "text": "' non è un'azienda del settore).\nTali società offrono tre servizi principali:\n1) Programmi di bug bounty (ricompense per vulnerabilità scoperte);\n2) Test di penetrazione;\n3) Programmi di divulgazione delle vulnerabilità (vulnerability disclosure policy).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "023-03",
@@ -1371,7 +2124,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 023 · Hacker, etica e Crowdsourcing",
     "source_excerpt": "HACKER E CROWDSOURCING\nIl termine hacker ha diversi significati. Secondo il dizionario degli hacker, è ogni individuo che si dedica alla programmazione con entusiasmo, considerando un bene straordinario mettere le informazioni a disposizione di tutti. Secondo Eric Raymond, il motivo principale per cui creano software nel tempo libero e lo distribuiscono gratuitamente è quello di essere riconosciuti dai loro pari.\nIl termine hacker nasce nella seconda metà del XX secolo presso i club e i laboratori del MIT (nel 1961 il MIT acquisì il PDP-1, con cui gli studenti del Tech Model Railroad Club crearono il celebre videogioco Spacewar).\nGli hacker del software libero riservano il termine 'cracker' (da safecracker, scassinatore di casseforti) a chi viola i sistemi per recare danno o profitto personale.\nCrowdsourcing e Bug Bounty:\nPer testare la sicurezza delle reti, le aziende ricorrono a piattaforme di crowdsourcing che intermediano con hacker etici freelance. Tra le più grandi e note figurano HackerOne, Bugcrowd e Synac (mentre 'Batting' non è un'azienda del settore).\nTali società offrono tre servizi principali:\n1) Programmi di bug bounty (ricompense per vulnerabilità scoperte);\n2) Test di penetrazione;\n3) Programmi di divulgazione delle vulnerabilità (vulnerability disclosure policy).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "HACKER E CROWDSOURCING\nIl termine hacker ha diversi significati. Secondo il dizionario degli hacker, è ogni individuo che si dedica alla programmazione con entusiasmo, considerando un bene straordinario mettere le informazioni a disposizione di tutti. Secondo Eric Raymond, il motivo principale per cui creano software nel tempo libero e lo distribuiscono gratuitamente è quello di essere riconosciuti ",
+        "highlight": false
+      },
+      {
+        "text": "dai loro pari",
+        "highlight": true
+      },
+      {
+        "text": ".\nIl termine hacker nasce nella seconda metà del XX secolo presso i club e i laboratori del MIT (nel 1961 il MIT acquisì il PDP-1, con cui gli studenti del Tech Model Railroad Club crearono il celebre videogioco Spacewar).\nGli hacker del software libero riservano il termine 'cracker' (da safecracker, scassinatore di casseforti) a chi viola i sistemi per recare danno o profitto personale.\nCrowdsourcing e Bug Bounty:\nPer testare la sicurezza delle reti, le aziende ricorrono a piattaforme di crowdsourcing che intermediano con hacker etici freelance. Tra le più grandi e note figurano HackerOne, Bugcrowd e Synac (mentre 'Batting' non è un'azienda del settore).\nTali società offrono tre servizi principali:\n1) Programmi di bug bounty (ricompense per vulnerabilità scoperte);\n2) Test di penetrazione;\n3) Programmi di divulgazione delle vulnerabilità (vulnerability disclosure policy).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "024-01",
@@ -1396,7 +2163,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 024 · Integrità dei dati e Guasti",
     "source_excerpt": "INTEGRITÀ DEI DATI E PREVENZIONE GUASTI\nIl termine integrità dei dati si riferisce alla correttezza e alla complementarità dei dati memorizzati in un database relazionale.\nL'integrità può essere compromessa da: inserimento di dati non validi, modifiche errate, interruzioni di corrente durante la scrittura, applicazioni parziali di transazioni.\nVincoli di integrità:\n- Dati obbligatori: colonna non vuota (NOT NULL);\n- Validity check: rispondenza al tipo di dato stabilito (es. solo numeri per telefoni);\n- Integrità dell'entità: chiave primaria univoca per ogni record della tabella (es. codice identificativo o DNI).\nGuasti che causano perdita di dati:\n- Errore hardware (motore, testine, circuiti, bobine);\n- Errore umano (formattazioni accidentali, cancellazioni, sabotaggi);\n- Errore software (bug applicativi, installazioni scorrette);\n- Virus e malware;\n- Disastri naturali (incendi, alluvioni).\nUna batteria scarica provoca solo lo spegnimento momentaneo ma non costituisce un guasto capace di distruggere i dati.\nMiti da sfatare: la deframmentazione non previene la perdita di dati (ottimizza solo i tempi di lettura dell'hard disk); non tenere il computer acceso non ne allunga la vita utile (le unità hanno una durata minima di 3 anni progettata dal costruttore).",
     "note": "La formulazione didattica del corso adotta il termine 'complementarità'.",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "INTEGRITÀ DEI DATI E PREVENZIONE GUASTI\nIl termine integrità dei dati si riferisce ",
+        "highlight": false
+      },
+      {
+        "text": "alla correttezza e alla complementarità dei dati",
+        "highlight": true
+      },
+      {
+        "text": " memorizzati in un database relazionale.\nL'integrità può essere compromessa da: inserimento di dati non validi, modifiche errate, interruzioni di corrente durante la scrittura, applicazioni parziali di transazioni.\nVincoli di integrità:\n- Dati obbligatori: colonna non vuota (NOT NULL);\n- Validity check: rispondenza al tipo di dato stabilito (es. solo numeri per telefoni);\n- Integrità dell'entità: chiave primaria univoca per ogni record della tabella (es. codice identificativo o DNI).\nGuasti che causano perdita di dati:\n- Errore hardware (motore, testine, circuiti, bobine);\n- Errore umano (formattazioni accidentali, cancellazioni, sabotaggi);\n- Errore software (bug applicativi, installazioni scorrette);\n- Virus e malware;\n- Disastri naturali (incendi, alluvioni).\nUna batteria scarica provoca solo lo spegnimento momentaneo ma non costituisce un guasto capace di distruggere i dati.\nMiti da sfatare: la deframmentazione non previene la perdita di dati (ottimizza solo i tempi di lettura dell'hard disk); non tenere il computer acceso non ne allunga la vita utile (le unità hanno una durata minima di 3 anni progettata dal costruttore).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "024-02",
@@ -1421,7 +2202,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 024 · Integrità dei dati e Guasti",
     "source_excerpt": "INTEGRITÀ DEI DATI E PREVENZIONE GUASTI\nIl termine integrità dei dati si riferisce alla correttezza e alla complementarità dei dati memorizzati in un database relazionale.\nL'integrità può essere compromessa da: inserimento di dati non validi, modifiche errate, interruzioni di corrente durante la scrittura, applicazioni parziali di transazioni.\nVincoli di integrità:\n- Dati obbligatori: colonna non vuota (NOT NULL);\n- Validity check: rispondenza al tipo di dato stabilito (es. solo numeri per telefoni);\n- Integrità dell'entità: chiave primaria univoca per ogni record della tabella (es. codice identificativo o DNI).\nGuasti che causano perdita di dati:\n- Errore hardware (motore, testine, circuiti, bobine);\n- Errore umano (formattazioni accidentali, cancellazioni, sabotaggi);\n- Errore software (bug applicativi, installazioni scorrette);\n- Virus e malware;\n- Disastri naturali (incendi, alluvioni).\nUna batteria scarica provoca solo lo spegnimento momentaneo ma non costituisce un guasto capace di distruggere i dati.\nMiti da sfatare: la deframmentazione non previene la perdita di dati (ottimizza solo i tempi di lettura dell'hard disk); non tenere il computer acceso non ne allunga la vita utile (le unità hanno una durata minima di 3 anni progettata dal costruttore).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "INTEGRITÀ DEI DATI E PREVENZIONE GUASTI\nIl termine integrità dei dati si riferisce alla correttezza e alla complementarità dei dati memorizzati in un database relazionale.\nL'integrità può essere compromessa da: inserimento di dati non validi, modifiche errate, interruzioni di corrente durante la scrittura, applicazioni parziali di transazioni.\nVincoli di integrità:\n- Dati obbligatori: colonna non vuota (NOT NULL);\n- Validity check: rispondenza al tipo di dato stabilito (es. solo numeri per telefoni);\n- Integrità dell'entità: chiave primaria univoca per ogni record della tabella (es. codice identificativo o DNI).\nGuasti che causano perdita di dati:\n- Errore hardware (motore, testine, circuiti, bobine);\n- Errore umano (formattazioni accidentali, cancellazioni, sabotaggi);\n- Errore software (bug applicativi, installazioni scorrette);\n- Virus e malware;\n- Disastri naturali (incendi, alluvioni).\nUna ",
+        "highlight": false
+      },
+      {
+        "text": "batteria scarica",
+        "highlight": true
+      },
+      {
+        "text": " provoca solo lo spegnimento momentaneo ma non costituisce un guasto capace di distruggere i dati.\nMiti da sfatare: la deframmentazione non previene la perdita di dati (ottimizza solo i tempi di lettura dell'hard disk); non tenere il computer acceso non ne allunga la vita utile (le unità hanno una durata minima di 3 anni progettata dal costruttore).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "024-03",
@@ -1446,7 +2241,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 024 · Integrità dei dati e Guasti",
     "source_excerpt": "INTEGRITÀ DEI DATI E PREVENZIONE GUASTI\nIl termine integrità dei dati si riferisce alla correttezza e alla complementarità dei dati memorizzati in un database relazionale.\nL'integrità può essere compromessa da: inserimento di dati non validi, modifiche errate, interruzioni di corrente durante la scrittura, applicazioni parziali di transazioni.\nVincoli di integrità:\n- Dati obbligatori: colonna non vuota (NOT NULL);\n- Validity check: rispondenza al tipo di dato stabilito (es. solo numeri per telefoni);\n- Integrità dell'entità: chiave primaria univoca per ogni record della tabella (es. codice identificativo o DNI).\nGuasti che causano perdita di dati:\n- Errore hardware (motore, testine, circuiti, bobine);\n- Errore umano (formattazioni accidentali, cancellazioni, sabotaggi);\n- Errore software (bug applicativi, installazioni scorrette);\n- Virus e malware;\n- Disastri naturali (incendi, alluvioni).\nUna batteria scarica provoca solo lo spegnimento momentaneo ma non costituisce un guasto capace di distruggere i dati.\nMiti da sfatare: la deframmentazione non previene la perdita di dati (ottimizza solo i tempi di lettura dell'hard disk); non tenere il computer acceso non ne allunga la vita utile (le unità hanno una durata minima di 3 anni progettata dal costruttore).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "INTEGRITÀ DEI DATI E PREVENZIONE GUASTI\nIl termine integrità dei dati si riferisce alla correttezza e alla complementarità dei dati memorizzati ",
+        "highlight": false
+      },
+      {
+        "text": "in un",
+        "highlight": true
+      },
+      {
+        "text": " database relazionale.\nL'integrità può essere compromessa da: inserimento di dati non validi, modifiche errate, interruzioni di corrente durante la scrittura, applicazioni parziali di transazioni.\nVincoli di integrità:\n- Dati obbligatori: colonna non vuota (NOT NULL);\n- Validity check: rispondenza al tipo di dato stabilito (es. solo numeri per telefoni);\n- Integrità dell'entità: chiave primaria univoca per ogni record della tabella (es. codice identificativo o DNI).\nGuasti che causano perdita di dati:\n- Errore hardware (motore, testine, circuiti, bobine);\n- Errore umano (formattazioni accidentali, cancellazioni, sabotaggi);\n- Errore software (bug applicativi, installazioni scorrette);\n- Virus e malware;\n- Disastri naturali (incendi, alluvioni).\nUna batteria scarica provoca solo lo spegnimento momentaneo ma non costituisce un guasto capace di distruggere i dati.\nMiti da sfatare: la deframmentazione non previene la perdita di dati (ottimizza solo i tempi di lettura dell'hard disk); non tenere il computer acceso non ne allunga la vita utile (le unità hanno una durata minima di 3 anni progettata dal costruttore).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "025-01",
@@ -1471,7 +2280,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 025 · Storage, Partizioni e Protezione elettrica",
     "source_excerpt": "STORAGE, ALIMENTAZIONE E PROTEZIONE ELETTRICA\nUn hard disk è un'unità elettromeccanica composta da scheda logica, motore, testine e piatti magnetici rotanti a velocità standard di 5.400, 7.200 o 10.000 giri al minuto. A causa dell'altissima velocità, qualsiasi vibrazione o trauma fisico al tavolo può far graffiare la superficie dei piatti dal braccio meccanico, causando la perdita irreparabile dei dati.\nLe partizioni del disco rigido sono divisioni logiche dell'unità di archiviazione gestite da un file system (NTFS, FAT32, EXT4). Creare due o più partizioni consente di isolare il sistema operativo dai dati personali, evitando che un crash della partizione primaria di avvio cancelli i documenti dell'utente.\nProtezione elettrica:\n- Impianto con messa a terra: la terza linea disperde gli impulsi di sovratensione;\n- Regolatore di tensione: mantiene un margine stabile tra 100V e 115V negli ingressi a 110VAC e tra 210V e 230V negli ingressi a 220VAC, prevenendo la bruciatura della scheda logica dell'hard disk o danni al motore;\n- Soppressore di sovratensioni: taglia i picchi improvvisi di tensione;\n- UPS (gruppo di continuità): accumulatore a batteria che mantiene acceso il PC per 5-20 minuti durante un blackout, evitando perdite di dati e spegnimenti forzati.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "STORAGE, ALIMENTAZIONE E PROTEZIONE ELETTRICA\nUn hard disk è un'unità elettromeccanica composta da scheda logica, motore, testine e piatti magnetici rotanti a velocità standard di 5.400, 7.200 o 10.000 giri al minuto. A causa dell'altissima velocità, qualsiasi vibrazione o trauma fisico al tavolo può far graffiare la superficie dei piatti dal braccio meccanico, causando la perdita irreparabile dei dati.\nLe partizioni del disco rigido sono divisioni logiche dell'",
+        "highlight": false
+      },
+      {
+        "text": "unità di archiviazione",
+        "highlight": true
+      },
+      {
+        "text": " gestite da un file system (NTFS, FAT32, EXT4). Creare due o più partizioni consente di isolare il sistema operativo dai dati personali, evitando che un crash della partizione primaria di avvio cancelli i documenti dell'utente.\nProtezione elettrica:\n- Impianto con messa a terra: la terza linea disperde gli impulsi di sovratensione;\n- Regolatore di tensione: mantiene un margine stabile tra 100V e 115V negli ingressi a 110VAC e tra 210V e 230V negli ingressi a 220VAC, prevenendo la bruciatura della scheda logica dell'hard disk o danni al motore;\n- Soppressore di sovratensioni: taglia i picchi improvvisi di tensione;\n- UPS (gruppo di continuità): accumulatore a batteria che mantiene acceso il PC per 5-20 minuti durante un blackout, evitando perdite di dati e spegnimenti forzati.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "025-02",
@@ -1496,7 +2319,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 025 · Storage, Partizioni e Protezione elettrica",
     "source_excerpt": "STORAGE, ALIMENTAZIONE E PROTEZIONE ELETTRICA\nUn hard disk è un'unità elettromeccanica composta da scheda logica, motore, testine e piatti magnetici rotanti a velocità standard di 5.400, 7.200 o 10.000 giri al minuto. A causa dell'altissima velocità, qualsiasi vibrazione o trauma fisico al tavolo può far graffiare la superficie dei piatti dal braccio meccanico, causando la perdita irreparabile dei dati.\nLe partizioni del disco rigido sono divisioni logiche dell'unità di archiviazione gestite da un file system (NTFS, FAT32, EXT4). Creare due o più partizioni consente di isolare il sistema operativo dai dati personali, evitando che un crash della partizione primaria di avvio cancelli i documenti dell'utente.\nProtezione elettrica:\n- Impianto con messa a terra: la terza linea disperde gli impulsi di sovratensione;\n- Regolatore di tensione: mantiene un margine stabile tra 100V e 115V negli ingressi a 110VAC e tra 210V e 230V negli ingressi a 220VAC, prevenendo la bruciatura della scheda logica dell'hard disk o danni al motore;\n- Soppressore di sovratensioni: taglia i picchi improvvisi di tensione;\n- UPS (gruppo di continuità): accumulatore a batteria che mantiene acceso il PC per 5-20 minuti durante un blackout, evitando perdite di dati e spegnimenti forzati.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "STORAGE, ALIMENTAZIONE E PROTEZIONE ELETTRICA\nUn hard disk è un'unità elettromeccanica composta da scheda logica, motore, testine e piatti magnetici rotanti a velocità standard di 5.400, 7.200 o 10.",
+        "highlight": false
+      },
+      {
+        "text": "000 giri",
+        "highlight": true
+      },
+      {
+        "text": " al minuto. A causa dell'altissima velocità, qualsiasi vibrazione o trauma fisico al tavolo può far graffiare la superficie dei piatti dal braccio meccanico, causando la perdita irreparabile dei dati.\nLe partizioni del disco rigido sono divisioni logiche dell'unità di archiviazione gestite da un file system (NTFS, FAT32, EXT4). Creare due o più partizioni consente di isolare il sistema operativo dai dati personali, evitando che un crash della partizione primaria di avvio cancelli i documenti dell'utente.\nProtezione elettrica:\n- Impianto con messa a terra: la terza linea disperde gli impulsi di sovratensione;\n- Regolatore di tensione: mantiene un margine stabile tra 100V e 115V negli ingressi a 110VAC e tra 210V e 230V negli ingressi a 220VAC, prevenendo la bruciatura della scheda logica dell'hard disk o danni al motore;\n- Soppressore di sovratensioni: taglia i picchi improvvisi di tensione;\n- UPS (gruppo di continuità): accumulatore a batteria che mantiene acceso il PC per 5-20 minuti durante un blackout, evitando perdite di dati e spegnimenti forzati.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "025-03",
@@ -1521,7 +2358,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 025 · Storage, Partizioni e Protezione elettrica",
     "source_excerpt": "STORAGE, ALIMENTAZIONE E PROTEZIONE ELETTRICA\nUn hard disk è un'unità elettromeccanica composta da scheda logica, motore, testine e piatti magnetici rotanti a velocità standard di 5.400, 7.200 o 10.000 giri al minuto. A causa dell'altissima velocità, qualsiasi vibrazione o trauma fisico al tavolo può far graffiare la superficie dei piatti dal braccio meccanico, causando la perdita irreparabile dei dati.\nLe partizioni del disco rigido sono divisioni logiche dell'unità di archiviazione gestite da un file system (NTFS, FAT32, EXT4). Creare due o più partizioni consente di isolare il sistema operativo dai dati personali, evitando che un crash della partizione primaria di avvio cancelli i documenti dell'utente.\nProtezione elettrica:\n- Impianto con messa a terra: la terza linea disperde gli impulsi di sovratensione;\n- Regolatore di tensione: mantiene un margine stabile tra 100V e 115V negli ingressi a 110VAC e tra 210V e 230V negli ingressi a 220VAC, prevenendo la bruciatura della scheda logica dell'hard disk o danni al motore;\n- Soppressore di sovratensioni: taglia i picchi improvvisi di tensione;\n- UPS (gruppo di continuità): accumulatore a batteria che mantiene acceso il PC per 5-20 minuti durante un blackout, evitando perdite di dati e spegnimenti forzati.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "STORAGE, ALIMENTAZIONE E PROTEZIONE ELETTRICA\nUn hard disk è un'unità elettromeccanica composta da scheda logica, motore, testine e piatti magnetici rotanti a velocità standard di 5.400, 7.200 o 10.000 giri al minuto. A causa dell'altissima velocità, qualsiasi vibrazione o trauma fisico al tavolo può far graffiare la superficie dei piatti dal braccio meccanico, causando la perdita irreparabile dei dati.\nLe partizioni del disco rigido sono divisioni logiche dell'unità di archiviazione gestite da un file system (NTFS, FAT32, EXT4). Creare due o più partizioni consente di isolare il sistema operativo dai dati personali, evitando che un crash della partizione primaria di avvio cancelli i documenti dell'utente.\nProtezione elettrica:\n- Impianto con messa a terra: la terza linea disperde gli impulsi di sovratensione;\n- Regolatore di tensione: mantiene un margine stabile tra 100V e 115V negli ingressi a ",
+        "highlight": false
+      },
+      {
+        "text": "110VAC e tra 210V e 230V negli ingressi",
+        "highlight": true
+      },
+      {
+        "text": " a 220VAC, prevenendo la bruciatura della scheda logica dell'hard disk o danni al motore;\n- Soppressore di sovratensioni: taglia i picchi improvvisi di tensione;\n- UPS (gruppo di continuità): accumulatore a batteria che mantiene acceso il PC per 5-20 minuti durante un blackout, evitando perdite di dati e spegnimenti forzati.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "025-04",
@@ -1546,7 +2397,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 025 · Storage, Partizioni e Protezione elettrica",
     "source_excerpt": "STORAGE, ALIMENTAZIONE E PROTEZIONE ELETTRICA\nUn hard disk è un'unità elettromeccanica composta da scheda logica, motore, testine e piatti magnetici rotanti a velocità standard di 5.400, 7.200 o 10.000 giri al minuto. A causa dell'altissima velocità, qualsiasi vibrazione o trauma fisico al tavolo può far graffiare la superficie dei piatti dal braccio meccanico, causando la perdita irreparabile dei dati.\nLe partizioni del disco rigido sono divisioni logiche dell'unità di archiviazione gestite da un file system (NTFS, FAT32, EXT4). Creare due o più partizioni consente di isolare il sistema operativo dai dati personali, evitando che un crash della partizione primaria di avvio cancelli i documenti dell'utente.\nProtezione elettrica:\n- Impianto con messa a terra: la terza linea disperde gli impulsi di sovratensione;\n- Regolatore di tensione: mantiene un margine stabile tra 100V e 115V negli ingressi a 110VAC e tra 210V e 230V negli ingressi a 220VAC, prevenendo la bruciatura della scheda logica dell'hard disk o danni al motore;\n- Soppressore di sovratensioni: taglia i picchi improvvisi di tensione;\n- UPS (gruppo di continuità): accumulatore a batteria che mantiene acceso il PC per 5-20 minuti durante un blackout, evitando perdite di dati e spegnimenti forzati.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "STORAGE, ALIMENTAZIONE E PROTEZIONE ELETTRICA\nUn hard disk è un'unità elettromeccanica composta da scheda logica, motore, testine e piatti magnetici rotanti a velocità standard di 5.400, 7.200 o 10.000 giri al minuto. A causa dell'altissima velocità, qualsiasi vibrazione o trauma fisico al tavolo può far graffiare la superficie dei piatti dal braccio meccanico, causando la perdita irreparabile dei dati.\nLe partizioni del disco rigido sono divisioni logiche dell'unità di archiviazione gestite da un file system (NTFS, FAT32, EXT4). Creare due o più partizioni consente di isolare il sistema operativo dai dati personali, evitando che un crash della partizione primaria di avvio cancelli i documenti dell'utente.\nProtezione elettrica:\n- Impianto con messa a terra: la terza linea disperde gli impulsi di sovratensione;\n- Regolatore di tensione: mantiene un margine stabile tra 100V e 115V negli ingressi a 110VAC e tra 210V e 230V negli ingressi a 220VAC, prevenendo la bruciatura della scheda logica dell'hard disk o danni al motore;\n- Soppressore di sovratensioni: taglia i picchi improvvisi di tensione;\n- UPS (gruppo di continuità): accumulatore a batteria che mantiene ",
+        "highlight": false
+      },
+      {
+        "text": "acceso il",
+        "highlight": true
+      },
+      {
+        "text": " PC per 5-20 minuti durante un blackout, evitando perdite di dati e spegnimenti forzati.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "026-01",
@@ -1571,7 +2436,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 026 · Natura e funzionamento dei Virus",
     "source_excerpt": "VIRUS INFORMATICI: DEFINIZIONE E FUNZIONAMENTO\nDa diversi anni una delle maggiori fonti di problemi di sicurezza all'interno delle organizzazioni è rappresentata dal fenomeno dei virus informatici.\nUn virus informatico è un programma come tutti gli altri, solo che il suo comportamento è stato stabilito dall'autore in modo da fargli compiere azioni subdole o addirittura dannose all'insaputa dell'utente.\nUn virus non possiede alcuna intelligenza o volontà maligna autonoma: agisce sempre e solo sotto l'ordine e le istruzioni preordinate scritte dal suo programmatore umano.\nMeccanismo di attivazione: Il contagio non può avvenire se non mandando in esecuzione il programma che contiene il virus. Nessun programma può attivarsi da solo senza che gli venga passato il controllo della CPU.\nDiffusione: Gli utenti tendono a fidarsi dei file ricevuti (ad esempio aprendo giochi o allegati scaricati da Internet), innescando inconsapevolmente l'infezione. Una volta mandato in esecuzione, il virus inizia a replicarsi attaccando il proprio codice ad altri programmi eseguibili del computer, propagandosi da utente a utente come un'epidemia informatica.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "VIRUS INFORMATICI: DEFINIZIONE E FUNZIONAMENTO\nDa diversi anni una delle maggiori fonti di problemi di sicurezza all'interno delle organizzazioni è rappresentata dal fenomeno dei virus informatici.\nUn virus informatico è un programma come tutti gli altri, solo che il suo comportamento è stato stabilito dall'",
+        "highlight": false
+      },
+      {
+        "text": "autore in modo da",
+        "highlight": true
+      },
+      {
+        "text": " fargli compiere azioni subdole o addirittura dannose all'insaputa dell'utente.\nUn virus non possiede alcuna intelligenza o volontà maligna autonoma: agisce sempre e solo sotto l'ordine e le istruzioni preordinate scritte dal suo programmatore umano.\nMeccanismo di attivazione: Il contagio non può avvenire se non mandando in esecuzione il programma che contiene il virus. Nessun programma può attivarsi da solo senza che gli venga passato il controllo della CPU.\nDiffusione: Gli utenti tendono a fidarsi dei file ricevuti (ad esempio aprendo giochi o allegati scaricati da Internet), innescando inconsapevolmente l'infezione. Una volta mandato in esecuzione, il virus inizia a replicarsi attaccando il proprio codice ad altri programmi eseguibili del computer, propagandosi da utente a utente come un'epidemia informatica.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "026-02",
@@ -1596,7 +2475,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 026 · Natura e funzionamento dei Virus",
     "source_excerpt": "VIRUS INFORMATICI: DEFINIZIONE E FUNZIONAMENTO\nDa diversi anni una delle maggiori fonti di problemi di sicurezza all'interno delle organizzazioni è rappresentata dal fenomeno dei virus informatici.\nUn virus informatico è un programma come tutti gli altri, solo che il suo comportamento è stato stabilito dall'autore in modo da fargli compiere azioni subdole o addirittura dannose all'insaputa dell'utente.\nUn virus non possiede alcuna intelligenza o volontà maligna autonoma: agisce sempre e solo sotto l'ordine e le istruzioni preordinate scritte dal suo programmatore umano.\nMeccanismo di attivazione: Il contagio non può avvenire se non mandando in esecuzione il programma che contiene il virus. Nessun programma può attivarsi da solo senza che gli venga passato il controllo della CPU.\nDiffusione: Gli utenti tendono a fidarsi dei file ricevuti (ad esempio aprendo giochi o allegati scaricati da Internet), innescando inconsapevolmente l'infezione. Una volta mandato in esecuzione, il virus inizia a replicarsi attaccando il proprio codice ad altri programmi eseguibili del computer, propagandosi da utente a utente come un'epidemia informatica.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "VIRUS INFORMATICI: DEFINIZIONE E FUNZIONAMENTO\nDa diversi anni una delle maggiori fonti di problemi di sicurezza all'interno delle organizzazioni è rappresentata dal fenomeno dei virus informatici.\nUn virus informatico è un programma come tutti gli altri, solo che il suo comportamento è stato stabilito dall'autore in modo da fargli compiere azioni subdole o addirittura dannose all'insaputa dell'utente.\nUn virus non possiede alcuna intelligenza o volontà maligna autonoma: agisce sempre e solo sotto l'ordine e le istruzioni preordinate scritte dal suo ",
+        "highlight": false
+      },
+      {
+        "text": "programmatore umano",
+        "highlight": true
+      },
+      {
+        "text": ".\nMeccanismo di attivazione: Il contagio non può avvenire se non mandando in esecuzione il programma che contiene il virus. Nessun programma può attivarsi da solo senza che gli venga passato il controllo della CPU.\nDiffusione: Gli utenti tendono a fidarsi dei file ricevuti (ad esempio aprendo giochi o allegati scaricati da Internet), innescando inconsapevolmente l'infezione. Una volta mandato in esecuzione, il virus inizia a replicarsi attaccando il proprio codice ad altri programmi eseguibili del computer, propagandosi da utente a utente come un'epidemia informatica.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "027-01",
@@ -1621,7 +2514,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 027 · Macrovirus e scenari di infezione",
     "source_excerpt": "IL NUOVO SCENARIO DI DIFFUSIONE DEI VIRUS E I MACROVIRUS\nNegli ultimi anni si è assistito a una recrudescenza del rischio virus favorita da tre fattori tecnologici:\n1) Diffusione generalizzata di strumenti di produttività personale programmabili (suite Microsoft Office, browser web);\n2) Introduzione di nuovi veicoli di infezione costituiti da nuove classi di archivi potenzialmente infettabili;\n3) Disponibilità delle reti telematiche come potenti canali di diffusione istantanea.\nIn passato il codice eseguibile era unicamente codice nativo in linguaggio macchina eseguito dal microprocessore (.exe, .com). Nei programmi moderni è invece possibile codificare sequenze di comandi (macroistruzioni o script) che costituiscono veri e propri programmi interpretati all'interno dell'applicazione ospite.\nAnche un documento di testo (.doc) o un foglio di calcolo (.xls) apparentemente innocuo può quindi ospitare un virus sotto forma di macro: i cosiddetti macrovirus.\nI macrovirus sono molto più insidiosi da rilevare e disinfettare, poiché viaggiano all'interno di normali documenti di lavoro scambiati quotidianamente tra utenti.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "IL NUOVO SCENARIO DI DIFFUSIONE DEI ",
+        "highlight": false
+      },
+      {
+        "text": "VIRUS",
+        "highlight": true
+      },
+      {
+        "text": " E I MACROVIRUS\nNegli ultimi anni si è assistito a una recrudescenza del rischio virus favorita da tre fattori tecnologici:\n1) Diffusione generalizzata di strumenti di produttività personale programmabili (suite Microsoft Office, browser web);\n2) Introduzione di nuovi veicoli di infezione costituiti da nuove classi di archivi potenzialmente infettabili;\n3) Disponibilità delle reti telematiche come potenti canali di diffusione istantanea.\nIn passato il codice eseguibile era unicamente codice nativo in linguaggio macchina eseguito dal microprocessore (.exe, .com). Nei programmi moderni è invece possibile codificare sequenze di comandi (macroistruzioni o script) che costituiscono veri e propri programmi interpretati all'interno dell'applicazione ospite.\nAnche un documento di testo (.doc) o un foglio di calcolo (.xls) apparentemente innocuo può quindi ospitare un virus sotto forma di macro: i cosiddetti macrovirus.\nI macrovirus sono molto più insidiosi da rilevare e disinfettare, poiché viaggiano all'interno di normali documenti di lavoro scambiati quotidianamente tra utenti.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "027-02",
@@ -1646,7 +2553,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 027 · Macrovirus e scenari di infezione",
     "source_excerpt": "IL NUOVO SCENARIO DI DIFFUSIONE DEI VIRUS E I MACROVIRUS\nNegli ultimi anni si è assistito a una recrudescenza del rischio virus favorita da tre fattori tecnologici:\n1) Diffusione generalizzata di strumenti di produttività personale programmabili (suite Microsoft Office, browser web);\n2) Introduzione di nuovi veicoli di infezione costituiti da nuove classi di archivi potenzialmente infettabili;\n3) Disponibilità delle reti telematiche come potenti canali di diffusione istantanea.\nIn passato il codice eseguibile era unicamente codice nativo in linguaggio macchina eseguito dal microprocessore (.exe, .com). Nei programmi moderni è invece possibile codificare sequenze di comandi (macroistruzioni o script) che costituiscono veri e propri programmi interpretati all'interno dell'applicazione ospite.\nAnche un documento di testo (.doc) o un foglio di calcolo (.xls) apparentemente innocuo può quindi ospitare un virus sotto forma di macro: i cosiddetti macrovirus.\nI macrovirus sono molto più insidiosi da rilevare e disinfettare, poiché viaggiano all'interno di normali documenti di lavoro scambiati quotidianamente tra utenti.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "IL NUOVO SCENARIO DI DIFFUSIONE DEI VIRUS E I ",
+        "highlight": false
+      },
+      {
+        "text": "MACROVIRUS",
+        "highlight": true
+      },
+      {
+        "text": "\nNegli ultimi anni si è assistito a una recrudescenza del rischio virus favorita da tre fattori tecnologici:\n1) Diffusione generalizzata di strumenti di produttività personale programmabili (suite Microsoft Office, browser web);\n2) Introduzione di nuovi veicoli di infezione costituiti da nuove classi di archivi potenzialmente infettabili;\n3) Disponibilità delle reti telematiche come potenti canali di diffusione istantanea.\nIn passato il codice eseguibile era unicamente codice nativo in linguaggio macchina eseguito dal microprocessore (.exe, .com). Nei programmi moderni è invece possibile codificare sequenze di comandi (macroistruzioni o script) che costituiscono veri e propri programmi interpretati all'interno dell'applicazione ospite.\nAnche un documento di testo (.doc) o un foglio di calcolo (.xls) apparentemente innocuo può quindi ospitare un virus sotto forma di macro: i cosiddetti macrovirus.\nI macrovirus sono molto più insidiosi da rilevare e disinfettare, poiché viaggiano all'interno di normali documenti di lavoro scambiati quotidianamente tra utenti.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "028-01",
@@ -1671,7 +2592,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 028 · Tecniche di attacco e Siti web sicuri",
     "source_excerpt": "ANALISI DEGLI ATTACCHI E SITI SICURI\nGli aggressori impiegano tecniche ingannevoli per trarre in inganno gli utenti e sottrarre credenziali. Un esempio classico è la schermata di login civetta identica all'originale (come nel caso di finti siti PayPal quali 'paypal-secure.com').\nTecniche di camuffamento dell'URL:\n- Uso di grafie somiglianti come 'www.Paypai.com' (con la lettera 'i' al posto della 'l');\n- Uso di numeri al posto delle lettere come 'www.PayPa1.com' (con il numero '1' al posto della 'l');\n- Hyperlink mascherati in email (es. finta email da 'Ebay@ebay.com' con link che reindirizza a server gratuiti come 'tripod.com' e codice HTML offuscato per nascondere i dati).\nCome riconoscere un sito sicuro:\nGli utenti devono verificare la presenza dell'icona del lucchetto chiuso nella barra del browser, che attesta la presenza di un certificato digitale valido e connessione cifrata HTTPS. Se il lucchetto è aperto o manca l'icona, il sito non è sicuro.\nTuttavia un attaccante con privilegi amministrativi può installare rootkit e backdoor nel sistema operativo per bypassare i controlli del browser sui certificati. Da qui l'importanza di aggiornare quotidianamente le definizioni dell'antivirus e di formare i dipendenti a non aprire allegati non verificati.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "ANALISI DEGLI ATTACCHI E SITI SICURI\nGli aggressori impiegano tecniche ingannevoli per trarre in inganno gli utenti e sottrarre credenziali. Un esempio classico è la schermata di login civetta identica all'originale (come nel caso di finti siti PayPal quali 'paypal-secure.com').\nTecniche di camuffamento dell'URL:\n- Uso di grafie somiglianti come 'www.Paypai.com' (con la lettera 'i' al posto della 'l');\n- Uso di numeri al posto delle lettere come 'www.PayPa1.com' (con il numero '1' al posto della 'l');\n- Hyperlink mascherati in email (es. finta email da 'Ebay@ebay.com' con link che reindirizza a server gratuiti come 'tripod.com' e codice HTML offuscato per nascondere i dati).\nCome riconoscere un sito sicuro:\nGli utenti devono verificare la presenza dell'icona del ",
+        "highlight": false
+      },
+      {
+        "text": "lucchetto chiuso",
+        "highlight": true
+      },
+      {
+        "text": " nella barra del browser, che attesta la presenza di un certificato digitale valido e connessione cifrata HTTPS. Se il lucchetto è aperto o manca l'icona, il sito non è sicuro.\nTuttavia un attaccante con privilegi amministrativi può installare rootkit e backdoor nel sistema operativo per bypassare i controlli del browser sui certificati. Da qui l'importanza di aggiornare quotidianamente le definizioni dell'antivirus e di formare i dipendenti a non aprire allegati non verificati.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "029-01",
@@ -1696,7 +2631,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 029 · Politiche europee e definizione ITU",
     "source_excerpt": "CYBER SECURITY IN EUROPA E ORGANISMI INTERNAZIONALI\nAll'interno dell'Unione Europea i primi documenti ufficiali attinenti la sicurezza delle reti e delle informazioni risalgono agli inizi degli anni 2000, a testimonianza del fatto che la materia è relativamente recente e in continua evoluzione.\nLa strategia dell'Unione Europea per la sicurezza cibernetica (approvata nel febbraio 2013) definisce la cyber security come l'insieme di precauzioni e interventi volti a proteggere il cyber dominio, in campo sia civile che militare, dalle minacce che possono colpire le reti e le infrastrutture interdipendenti, preservandone disponibilità, integrità e riservatezza.\nA livello internazionale, l'ITU (International Telecommunication Union) delle Nazioni Unite ha fornito una delle definizioni più ampie di cybersecurity, intesa come l'insieme di strumenti, politiche, linee guida, pratiche, procedure e tecnologie utilizzate per proteggere lo spazio cibernetico, le relative infrastrutture e gli utilizzatori.\nLo spazio cibernetico ha uno spiccato carattere sovranazionale e dematerializzato: è il contesto globale in cui si elaborano le regole sulle interrelazioni tra soggetti pubblici e privati per la difesa della conoscenza e della libertà di espressione.",
     "note": "Nel quiz originario compariva il refuso 'quele'.",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "CYBER SECURITY IN EUROPA E ORGANISMI INTERNAZIONALI\nAll'interno dell'Unione Europea i primi documenti ufficiali attinenti la sicurezza delle reti e delle informazioni risalgono agli inizi degli anni ",
+        "highlight": false
+      },
+      {
+        "text": "2000",
+        "highlight": true
+      },
+      {
+        "text": ", a testimonianza del fatto che la materia è relativamente recente e in continua evoluzione.\nLa strategia dell'Unione Europea per la sicurezza cibernetica (approvata nel febbraio 2013) definisce la cyber security come l'insieme di precauzioni e interventi volti a proteggere il cyber dominio, in campo sia civile che militare, dalle minacce che possono colpire le reti e le infrastrutture interdipendenti, preservandone disponibilità, integrità e riservatezza.\nA livello internazionale, l'ITU (International Telecommunication Union) delle Nazioni Unite ha fornito una delle definizioni più ampie di cybersecurity, intesa come l'insieme di strumenti, politiche, linee guida, pratiche, procedure e tecnologie utilizzate per proteggere lo spazio cibernetico, le relative infrastrutture e gli utilizzatori.\nLo spazio cibernetico ha uno spiccato carattere sovranazionale e dematerializzato: è il contesto globale in cui si elaborano le regole sulle interrelazioni tra soggetti pubblici e privati per la difesa della conoscenza e della libertà di espressione.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "029-02",
@@ -1721,7 +2670,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 029 · Politiche europee e definizione ITU",
     "source_excerpt": "CYBER SECURITY IN EUROPA E ORGANISMI INTERNAZIONALI\nAll'interno dell'Unione Europea i primi documenti ufficiali attinenti la sicurezza delle reti e delle informazioni risalgono agli inizi degli anni 2000, a testimonianza del fatto che la materia è relativamente recente e in continua evoluzione.\nLa strategia dell'Unione Europea per la sicurezza cibernetica (approvata nel febbraio 2013) definisce la cyber security come l'insieme di precauzioni e interventi volti a proteggere il cyber dominio, in campo sia civile che militare, dalle minacce che possono colpire le reti e le infrastrutture interdipendenti, preservandone disponibilità, integrità e riservatezza.\nA livello internazionale, l'ITU (International Telecommunication Union) delle Nazioni Unite ha fornito una delle definizioni più ampie di cybersecurity, intesa come l'insieme di strumenti, politiche, linee guida, pratiche, procedure e tecnologie utilizzate per proteggere lo spazio cibernetico, le relative infrastrutture e gli utilizzatori.\nLo spazio cibernetico ha uno spiccato carattere sovranazionale e dematerializzato: è il contesto globale in cui si elaborano le regole sulle interrelazioni tra soggetti pubblici e privati per la difesa della conoscenza e della libertà di espressione.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "CYBER SECURITY IN EUROPA E ORGANISMI INTERNAZIONALI\nAll'interno dell'Unione Europea i primi documenti ufficiali attinenti la sicurezza delle reti e delle informazioni risalgono agli inizi degli anni 2000, a testimonianza del fatto che la materia è relativamente recente e in continua evoluzione.\nLa strategia dell'Unione Europea per la sicurezza cibernetica (approvata nel febbraio 2013) definisce la cyber security come l'insieme di precauzioni e interventi volti a proteggere il cyber dominio, in campo sia civile che militare, dalle minacce che possono colpire le reti e le infrastrutture interdipendenti, preservandone disponibilità, integrità e riservatezza.\nA livello internazionale, l'ITU (",
+        "highlight": false
+      },
+      {
+        "text": "International Telecommunication Union",
+        "highlight": true
+      },
+      {
+        "text": ") delle Nazioni Unite ha fornito una delle definizioni più ampie di cybersecurity, intesa come l'insieme di strumenti, politiche, linee guida, pratiche, procedure e tecnologie utilizzate per proteggere lo spazio cibernetico, le relative infrastrutture e gli utilizzatori.\nLo spazio cibernetico ha uno spiccato carattere sovranazionale e dematerializzato: è il contesto globale in cui si elaborano le regole sulle interrelazioni tra soggetti pubblici e privati per la difesa della conoscenza e della libertà di espressione.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "030-01",
@@ -1746,7 +2709,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 030 · Direttiva NIS, minacce e dottrina Omand",
     "source_excerpt": "EVOLUZIONE DELLE POLITICHE EUROPEE E DIRETTIVA NIS\nNel 2000 la Commissione Europea ha adottato una comunicazione focalizzata su due priorità: la sicurezza delle infrastrutture dell'informazione e la lotta al crimine informatico.\nNel giugno 2001 la Commissione ha presentato il documento interamente dedicato alla definizione della NIS (Network and Information Security), intesa come la capacità di una rete o di un sistema informativo di resistere, a un determinato livello di riservatezza, ad eventi imprevisti o atti dolosi che compromettano disponibilità, autenticità, integrità e riservatezza dei dati e dei servizi erogati.\nMinacce classificate dalla NIS:\n1. Intercettazione delle comunicazioni;\n2. Accesso non autorizzato a reti e computer;\n3. Caduta della rete (compresi i cosiddetti 'destructive attack', che comportano l'interruzione funzionale di infrastrutture critiche con gravi danni per l'intero sistema Paese);\n4. Esecuzione di software maligni;\n5. Usurpazione d'identità;\n6. Incidenti ambientali ed eventi imprevisti.\nSir David Omand (già segretario permanente del Cabinet Office del Regno Unito) ha sottolineato che l'interruzione di un servizio è statisticamente più probabile a causa di incidenti ambientali o errori umani che di attacchi deliberati, rendendo fondamentale definire i tempi massimi di ripristino del servizio.\nIl termine 'cyber security' compare formalmente per la prima volta nei documenti UE solo con la relazione del 2008 sull'attuazione della Strategia di sicurezza del 2003.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "EVOLUZIONE DELLE POLITICHE EUROPEE E DIRETTIVA NIS\nNel 2000 la Commissione Europea ha adottato una comunicazione focalizzata su due priorità: la sicurezza delle infrastrutture dell'informazione e la lotta al crimine informatico.\nNel giugno 2001 la Commissione ha presentato il documento interamente dedicato alla definizione della NIS (Network and Information Security), intesa come la capacità di una rete o di un sistema informativo di resistere, a un determinato livello di riservatezza, ad eventi imprevisti o atti dolosi che compromettano disponibilità, autenticità, integrità e riservatezza dei dati e dei servizi erogati.\nMinacce classificate dalla NIS:\n1. Intercettazione delle comunicazioni;\n2. Accesso non autorizzato a reti e computer;\n3. Caduta della rete (compresi i cosiddetti 'destructive attack', che comportano l'interruzione funzionale di infrastrutture critiche con gravi danni per l'intero sistema Paese);\n4. Esecuzione di software maligni;\n5. Usurpazione d'identità;\n6. Incidenti ambientali ed eventi imprevisti.\nSir David Omand (già segretario permanente del Cabinet ",
+        "highlight": false
+      },
+      {
+        "text": "Office del Regno Unito",
+        "highlight": true
+      },
+      {
+        "text": ") ha sottolineato che l'interruzione di un servizio è statisticamente più probabile a causa di incidenti ambientali o errori umani che di attacchi deliberati, rendendo fondamentale definire i tempi massimi di ripristino del servizio.\nIl termine 'cyber security' compare formalmente per la prima volta nei documenti UE solo con la relazione del 2008 sull'attuazione della Strategia di sicurezza del 2003.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "030-02",
@@ -1771,7 +2748,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 030 · Direttiva NIS, minacce e dottrina Omand",
     "source_excerpt": "EVOLUZIONE DELLE POLITICHE EUROPEE E DIRETTIVA NIS\nNel 2000 la Commissione Europea ha adottato una comunicazione focalizzata su due priorità: la sicurezza delle infrastrutture dell'informazione e la lotta al crimine informatico.\nNel giugno 2001 la Commissione ha presentato il documento interamente dedicato alla definizione della NIS (Network and Information Security), intesa come la capacità di una rete o di un sistema informativo di resistere, a un determinato livello di riservatezza, ad eventi imprevisti o atti dolosi che compromettano disponibilità, autenticità, integrità e riservatezza dei dati e dei servizi erogati.\nMinacce classificate dalla NIS:\n1. Intercettazione delle comunicazioni;\n2. Accesso non autorizzato a reti e computer;\n3. Caduta della rete (compresi i cosiddetti 'destructive attack', che comportano l'interruzione funzionale di infrastrutture critiche con gravi danni per l'intero sistema Paese);\n4. Esecuzione di software maligni;\n5. Usurpazione d'identità;\n6. Incidenti ambientali ed eventi imprevisti.\nSir David Omand (già segretario permanente del Cabinet Office del Regno Unito) ha sottolineato che l'interruzione di un servizio è statisticamente più probabile a causa di incidenti ambientali o errori umani che di attacchi deliberati, rendendo fondamentale definire i tempi massimi di ripristino del servizio.\nIl termine 'cyber security' compare formalmente per la prima volta nei documenti UE solo con la relazione del 2008 sull'attuazione della Strategia di sicurezza del 2003.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "EVOLUZIONE DELLE POLITICHE EUROPEE E DIRETTIVA NIS\nNel 2000 la Commissione Europea ha adottato una comunicazione focalizzata su due priorità: la sicurezza delle infrastrutture dell'informazione e la lotta al crimine informatico.\nNel giugno 2001 la Commissione ha presentato il documento interamente dedicato alla definizione della NIS (",
+        "highlight": false
+      },
+      {
+        "text": "Network and Information Security",
+        "highlight": true
+      },
+      {
+        "text": "), intesa come la capacità di una rete o di un sistema informativo di resistere, a un determinato livello di riservatezza, ad eventi imprevisti o atti dolosi che compromettano disponibilità, autenticità, integrità e riservatezza dei dati e dei servizi erogati.\nMinacce classificate dalla NIS:\n1. Intercettazione delle comunicazioni;\n2. Accesso non autorizzato a reti e computer;\n3. Caduta della rete (compresi i cosiddetti 'destructive attack', che comportano l'interruzione funzionale di infrastrutture critiche con gravi danni per l'intero sistema Paese);\n4. Esecuzione di software maligni;\n5. Usurpazione d'identità;\n6. Incidenti ambientali ed eventi imprevisti.\nSir David Omand (già segretario permanente del Cabinet Office del Regno Unito) ha sottolineato che l'interruzione di un servizio è statisticamente più probabile a causa di incidenti ambientali o errori umani che di attacchi deliberati, rendendo fondamentale definire i tempi massimi di ripristino del servizio.\nIl termine 'cyber security' compare formalmente per la prima volta nei documenti UE solo con la relazione del 2008 sull'attuazione della Strategia di sicurezza del 2003.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "030-03",
@@ -1796,7 +2787,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 030 · Direttiva NIS, minacce e dottrina Omand",
     "source_excerpt": "EVOLUZIONE DELLE POLITICHE EUROPEE E DIRETTIVA NIS\nNel 2000 la Commissione Europea ha adottato una comunicazione focalizzata su due priorità: la sicurezza delle infrastrutture dell'informazione e la lotta al crimine informatico.\nNel giugno 2001 la Commissione ha presentato il documento interamente dedicato alla definizione della NIS (Network and Information Security), intesa come la capacità di una rete o di un sistema informativo di resistere, a un determinato livello di riservatezza, ad eventi imprevisti o atti dolosi che compromettano disponibilità, autenticità, integrità e riservatezza dei dati e dei servizi erogati.\nMinacce classificate dalla NIS:\n1. Intercettazione delle comunicazioni;\n2. Accesso non autorizzato a reti e computer;\n3. Caduta della rete (compresi i cosiddetti 'destructive attack', che comportano l'interruzione funzionale di infrastrutture critiche con gravi danni per l'intero sistema Paese);\n4. Esecuzione di software maligni;\n5. Usurpazione d'identità;\n6. Incidenti ambientali ed eventi imprevisti.\nSir David Omand (già segretario permanente del Cabinet Office del Regno Unito) ha sottolineato che l'interruzione di un servizio è statisticamente più probabile a causa di incidenti ambientali o errori umani che di attacchi deliberati, rendendo fondamentale definire i tempi massimi di ripristino del servizio.\nIl termine 'cyber security' compare formalmente per la prima volta nei documenti UE solo con la relazione del 2008 sull'attuazione della Strategia di sicurezza del 2003.",
     "note": "Nel testo originario compare la dicitura 'Distruttive attack'.",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "EVOLUZIONE DELLE POLITICHE EUROPEE E DIRETTIVA NIS\nNel 2000 la Commissione Europea ha adottato una comunicazione focalizzata su due priorità: la sicurezza delle infrastrutture dell'informazione e la lotta al crimine informatico.\nNel giugno 2001 la Commissione ha presentato il documento interamente dedicato alla definizione della NIS (Network and Information Security), intesa come la capacità di una rete o ",
+        "highlight": false
+      },
+      {
+        "text": "di un",
+        "highlight": true
+      },
+      {
+        "text": " sistema informativo di resistere, a un determinato livello di riservatezza, ad eventi imprevisti o atti dolosi che compromettano disponibilità, autenticità, integrità e riservatezza dei dati e dei servizi erogati.\nMinacce classificate dalla NIS:\n1. Intercettazione delle comunicazioni;\n2. Accesso non autorizzato a reti e computer;\n3. Caduta della rete (compresi i cosiddetti 'destructive attack', che comportano l'interruzione funzionale di infrastrutture critiche con gravi danni per l'intero sistema Paese);\n4. Esecuzione di software maligni;\n5. Usurpazione d'identità;\n6. Incidenti ambientali ed eventi imprevisti.\nSir David Omand (già segretario permanente del Cabinet Office del Regno Unito) ha sottolineato che l'interruzione di un servizio è statisticamente più probabile a causa di incidenti ambientali o errori umani che di attacchi deliberati, rendendo fondamentale definire i tempi massimi di ripristino del servizio.\nIl termine 'cyber security' compare formalmente per la prima volta nei documenti UE solo con la relazione del 2008 sull'attuazione della Strategia di sicurezza del 2003.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "030-04",
@@ -1821,7 +2826,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 030 · Direttiva NIS, minacce e dottrina Omand",
     "source_excerpt": "EVOLUZIONE DELLE POLITICHE EUROPEE E DIRETTIVA NIS\nNel 2000 la Commissione Europea ha adottato una comunicazione focalizzata su due priorità: la sicurezza delle infrastrutture dell'informazione e la lotta al crimine informatico.\nNel giugno 2001 la Commissione ha presentato il documento interamente dedicato alla definizione della NIS (Network and Information Security), intesa come la capacità di una rete o di un sistema informativo di resistere, a un determinato livello di riservatezza, ad eventi imprevisti o atti dolosi che compromettano disponibilità, autenticità, integrità e riservatezza dei dati e dei servizi erogati.\nMinacce classificate dalla NIS:\n1. Intercettazione delle comunicazioni;\n2. Accesso non autorizzato a reti e computer;\n3. Caduta della rete (compresi i cosiddetti 'destructive attack', che comportano l'interruzione funzionale di infrastrutture critiche con gravi danni per l'intero sistema Paese);\n4. Esecuzione di software maligni;\n5. Usurpazione d'identità;\n6. Incidenti ambientali ed eventi imprevisti.\nSir David Omand (già segretario permanente del Cabinet Office del Regno Unito) ha sottolineato che l'interruzione di un servizio è statisticamente più probabile a causa di incidenti ambientali o errori umani che di attacchi deliberati, rendendo fondamentale definire i tempi massimi di ripristino del servizio.\nIl termine 'cyber security' compare formalmente per la prima volta nei documenti UE solo con la relazione del 2008 sull'attuazione della Strategia di sicurezza del 2003.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "EVOLUZIONE DELLE POLITICHE EUROPEE E DIRETTIVA NIS\nNel 2000 la Commissione Europea ha adottato una comunicazione focalizzata su due priorità: la sicurezza delle infrastrutture dell'informazione e la lotta al crimine informatico.\nNel giugno 2001 la Commissione ha presentato il documento interamente dedicato alla definizione della NIS (Network and Information Security), intesa come la capacità di una rete o di un sistema informativo di resistere, a un determinato livello di riservatezza, ad eventi imprevisti o atti dolosi che compromettano disponibilità, autenticità, integrità e riservatezza dei dati e dei servizi erogati.\nMinacce classificate dalla NIS:\n1. Intercettazione delle comunicazioni;\n2. Accesso non autorizzato a reti e computer;\n3. Caduta della rete (compresi i cosiddetti 'destructive attack', che comportano l'interruzione funzionale di infrastrutture critiche con gravi danni per l'intero sistema Paese);\n4. Esecuzione di software maligni;\n5. Usurpazione d'identità;\n6. Incidenti ambientali ed eventi imprevisti.\nSir David Omand (già segretario permanente del Cabinet Office del Regno Unito) ha sottolineato che l'interruzione di un servizio è statisticamente più probabile a causa di incidenti ambientali o errori umani che di attacchi deliberati, rendendo fondamentale definire i tempi massimi di ripristino del servizio.\nIl termine 'cyber security' compare formalmente per la prima volta nei documenti UE solo con la relazione del ",
+        "highlight": false
+      },
+      {
+        "text": "2008",
+        "highlight": true
+      },
+      {
+        "text": " sull'attuazione della Strategia di sicurezza del 2003.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "031-01",
@@ -1846,7 +2865,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 031 · Organi ed agenzie cyber dell'Unione Europea",
     "source_excerpt": "ORGANI ED AGENZIE EUROPEE PER LA CYBERSECURITY\nL'Unione Europea ha progressivamente incaricato specifici organi e agenzie per la gestione della sicurezza cibernetica:\n1. Commissione Europea (in particolare la Direzione Generale DG CONNECT / CNET, che finanzia la ricerca tramite programmi come Horizon 2020 con oltre 136 milioni di euro);\n2. Alto Rappresentante per gli affari esteri e la politica di sicurezza;\n3. ENISA (Agenzia dell'UE per la cybersicurezza, punto di riferimento principale per il coordinamento delle politiche cyber nazionali e attivatore di dialogo tra Stati membri);\n4. EDA (European Defence Agency, deputata allo sviluppo delle capabilities di cyberdefence);\n5. EC3 (European Cybercrime Centre presso Europol all'Aia, organo operativo contro i crimini informatici);\n6. CERT-EU (squadra di intervento rapido per le istituzioni europee).\nIl Parlamento europeo è organo politico-legislativo generale e non un'agenzia tecnica di cybersecurity.\nA livello operativo, l'ENISA e il centro NATO di Tallinn (CCD COE - Cooperative Cyber Defence Centre of Excellence, nato nel 2008 per iniziativa estone) organizzano esercitazioni annuali come 'Locked Shields' e 'Cyber Europe'. Tali simulazioni rientrano nella categoria dei 'serious games', applicabili sia in ambito civile sia in ambito militare secondo la metodologia del 'learn by doing'.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "ORGANI ED AGENZIE EUROPEE PER LA CYBERSECURITY\nL'Unione Europea ha progressivamente incaricato specifici organi e agenzie per la gestione della sicurezza cibernetica:\n1. Commissione Europea (in particolare la Direzione Generale DG CONNECT / CNET, che finanzia la ricerca tramite programmi come Horizon 2020 con oltre 136 milioni di euro);\n2. Alto Rappresentante per gli affari esteri e la politica di sicurezza;\n3. ENISA (Agenzia dell'UE per la cybersicurezza, punto di riferimento principale per il coordinamento delle politiche cyber nazionali e ",
+        "highlight": false
+      },
+      {
+        "text": "attivatore di dialogo",
+        "highlight": true
+      },
+      {
+        "text": " tra Stati membri);\n4. EDA (European Defence Agency, deputata allo sviluppo delle capabilities di cyberdefence);\n5. EC3 (European Cybercrime Centre presso Europol all'Aia, organo operativo contro i crimini informatici);\n6. CERT-EU (squadra di intervento rapido per le istituzioni europee).\nIl Parlamento europeo è organo politico-legislativo generale e non un'agenzia tecnica di cybersecurity.\nA livello operativo, l'ENISA e il centro NATO di Tallinn (CCD COE - Cooperative Cyber Defence Centre of Excellence, nato nel 2008 per iniziativa estone) organizzano esercitazioni annuali come 'Locked Shields' e 'Cyber Europe'. Tali simulazioni rientrano nella categoria dei 'serious games', applicabili sia in ambito civile sia in ambito militare secondo la metodologia del 'learn by doing'.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "031-02",
@@ -1871,7 +2904,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 031 · Organi ed agenzie cyber dell'Unione Europea",
     "source_excerpt": "ORGANI ED AGENZIE EUROPEE PER LA CYBERSECURITY\nL'Unione Europea ha progressivamente incaricato specifici organi e agenzie per la gestione della sicurezza cibernetica:\n1. Commissione Europea (in particolare la Direzione Generale DG CONNECT / CNET, che finanzia la ricerca tramite programmi come Horizon 2020 con oltre 136 milioni di euro);\n2. Alto Rappresentante per gli affari esteri e la politica di sicurezza;\n3. ENISA (Agenzia dell'UE per la cybersicurezza, punto di riferimento principale per il coordinamento delle politiche cyber nazionali e attivatore di dialogo tra Stati membri);\n4. EDA (European Defence Agency, deputata allo sviluppo delle capabilities di cyberdefence);\n5. EC3 (European Cybercrime Centre presso Europol all'Aia, organo operativo contro i crimini informatici);\n6. CERT-EU (squadra di intervento rapido per le istituzioni europee).\nIl Parlamento europeo è organo politico-legislativo generale e non un'agenzia tecnica di cybersecurity.\nA livello operativo, l'ENISA e il centro NATO di Tallinn (CCD COE - Cooperative Cyber Defence Centre of Excellence, nato nel 2008 per iniziativa estone) organizzano esercitazioni annuali come 'Locked Shields' e 'Cyber Europe'. Tali simulazioni rientrano nella categoria dei 'serious games', applicabili sia in ambito civile sia in ambito militare secondo la metodologia del 'learn by doing'.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "ORGANI ED AGENZIE EUROPEE PER LA CYBERSECURITY\nL'Unione Europea ha progressivamente incaricato specifici organi e agenzie per la gestione della sicurezza cibernetica:\n1. Commissione Europea (in particolare la Direzione Generale DG CONNECT / CNET, che finanzia la ricerca tramite programmi come Horizon 2020 con oltre 136 milioni di euro);\n2. Alto Rappresentante per gli affari esteri e la politica di sicurezza;\n3. ENISA (Agenzia dell'UE per la cybersicurezza, punto di riferimento principale per il coordinamento delle politiche cyber nazionali e attivatore di dialogo tra Stati membri);\n4. EDA (European Defence Agency, deputata allo sviluppo delle capabilities di cyberdefence);\n5. EC3 (European Cybercrime Centre presso Europol all'Aia, organo operativo contro i crimini informatici);\n6. CERT-EU (squadra di intervento rapido per le istituzioni europee).\nIl ",
+        "highlight": false
+      },
+      {
+        "text": "Parlamento",
+        "highlight": true
+      },
+      {
+        "text": " europeo è organo politico-legislativo generale e non un'agenzia tecnica di cybersecurity.\nA livello operativo, l'ENISA e il centro NATO di Tallinn (CCD COE - Cooperative Cyber Defence Centre of Excellence, nato nel 2008 per iniziativa estone) organizzano esercitazioni annuali come 'Locked Shields' e 'Cyber Europe'. Tali simulazioni rientrano nella categoria dei 'serious games', applicabili sia in ambito civile sia in ambito militare secondo la metodologia del 'learn by doing'.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "031-03",
@@ -1896,7 +2943,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 031 · Organi ed agenzie cyber dell'Unione Europea",
     "source_excerpt": "ORGANI ED AGENZIE EUROPEE PER LA CYBERSECURITY\nL'Unione Europea ha progressivamente incaricato specifici organi e agenzie per la gestione della sicurezza cibernetica:\n1. Commissione Europea (in particolare la Direzione Generale DG CONNECT / CNET, che finanzia la ricerca tramite programmi come Horizon 2020 con oltre 136 milioni di euro);\n2. Alto Rappresentante per gli affari esteri e la politica di sicurezza;\n3. ENISA (Agenzia dell'UE per la cybersicurezza, punto di riferimento principale per il coordinamento delle politiche cyber nazionali e attivatore di dialogo tra Stati membri);\n4. EDA (European Defence Agency, deputata allo sviluppo delle capabilities di cyberdefence);\n5. EC3 (European Cybercrime Centre presso Europol all'Aia, organo operativo contro i crimini informatici);\n6. CERT-EU (squadra di intervento rapido per le istituzioni europee).\nIl Parlamento europeo è organo politico-legislativo generale e non un'agenzia tecnica di cybersecurity.\nA livello operativo, l'ENISA e il centro NATO di Tallinn (CCD COE - Cooperative Cyber Defence Centre of Excellence, nato nel 2008 per iniziativa estone) organizzano esercitazioni annuali come 'Locked Shields' e 'Cyber Europe'. Tali simulazioni rientrano nella categoria dei 'serious games', applicabili sia in ambito civile sia in ambito militare secondo la metodologia del 'learn by doing'.",
     "note": "Nel testo originario compare il refuso 'serius game'.",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "ORGANI ED AGENZIE EUROPEE PER LA CYBERSECURITY\nL'Unione Europea ha progressivamente incaricato specifici organi e agenzie per la gestione della sicurezza cibernetica:\n1. Commissione Europea (in particolare la Direzione Generale DG CONNECT / CNET, che finanzia la ricerca tramite programmi come Horizon 2020 con oltre 136 milioni di euro);\n2. Alto Rappresentante per gli affari esteri e la politica di sicurezza;\n3. ENISA (Agenzia dell'UE per la cybersicurezza, punto di riferimento principale per il coordinamento delle politiche cyber nazionali e attivatore di dialogo tra Stati membri);\n4. EDA (European Defence Agency, deputata allo sviluppo delle capabilities di cyberdefence);\n5. EC3 (European Cybercrime Centre presso Europol all'Aia, organo operativo contro i crimini informatici);\n6. CERT-EU (squadra di intervento rapido per le istituzioni europee).\nIl Parlamento europeo è organo politico-legislativo generale e non un'agenzia tecnica di cybersecurity.\nA livello operativo, l'ENISA e il centro NATO di Tallinn (CCD COE - Cooperative Cyber Defence Centre of Excellence, nato nel 2008 per iniziativa estone) organizzano esercitazioni annuali come 'Locked Shields' e 'Cyber Europe'. Tali simulazioni rientrano nella categoria dei 'serious games', applicabili ",
+        "highlight": false
+      },
+      {
+        "text": "sia in ambito civile",
+        "highlight": true
+      },
+      {
+        "text": " sia in ambito militare secondo la metodologia del 'learn by doing'.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "032-01",
@@ -1921,7 +2982,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 032 · Cooperazione e flusso informativo",
     "source_excerpt": "ELEMENTI CRITICI E COOPERAZIONE INFORMATIVA\nLa strategia europea di sicurezza cibernetica stabilisce le linee essenziali e i valori cardine: responsabilità condivisa e cooperazione borderless.\nLa cooperazione deve realizzarsi a livello nazionale (partnership pubblico-privato), a livello europeo (dialogo tra agenzie e Stati membri) e a livello internazionale.\nTuttavia, lo scambio di informazioni resta un tema critico a causa della reciproca diffidenza tra Stati e tra settore pubblico e imprese private, restie a denunciare falle o intrusioni per timore di danni reputazionali.\nIn Europa l'informazione è spesso definita unidirezionale: le aziende hanno obblighi di notifica verso le autorità, ma raramente ricevono informazioni di ritorno in tempo reale.\nNel marzo 2013 Troels Oerting, direttore dell'EC3 (European Cybercrime Centre), affermò che il meccanismo di informazione in Europa dovrebbe assomigliare a quello statunitense, trasformandosi in una strada a doppio senso in cui i dati e gli alert sulle minacce fluiscono reciprocamente in entrambe le direzioni.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "ELEMENTI CRITICI E COOPERAZIONE INFORMATIVA\nLa strategia europea di sicurezza cibernetica stabilisce le linee essenziali e i valori cardine: responsabilità condivisa e cooperazione borderless.\nLa cooperazione deve realizzarsi a livello nazionale (partnership pubblico-privato), a livello europeo (dialogo tra agenzie e Stati membri) e a livello internazionale.\nTuttavia, lo scambio di informazioni resta un tema critico a causa della reciproca diffidenza tra Stati e tra settore pubblico e imprese private, restie a denunciare falle o intrusioni per timore di danni reputazionali.\nIn Europa l'informazione è spesso definita unidirezionale: le aziende hanno obblighi di notifica verso le autorità, ma raramente ricevono informazioni di ritorno in tempo reale.\nNel marzo 2013 Troels Oerting, ",
+        "highlight": false
+      },
+      {
+        "text": "direttore dell",
+        "highlight": true
+      },
+      {
+        "text": "'EC3 (European Cybercrime Centre), affermò che il meccanismo di informazione in Europa dovrebbe assomigliare a quello statunitense, trasformandosi in una strada a doppio senso in cui i dati e gli alert sulle minacce fluiscono reciprocamente in entrambe le direzioni.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "032-02",
@@ -1946,7 +3021,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 032 · Cooperazione e flusso informativo",
     "source_excerpt": "ELEMENTI CRITICI E COOPERAZIONE INFORMATIVA\nLa strategia europea di sicurezza cibernetica stabilisce le linee essenziali e i valori cardine: responsabilità condivisa e cooperazione borderless.\nLa cooperazione deve realizzarsi a livello nazionale (partnership pubblico-privato), a livello europeo (dialogo tra agenzie e Stati membri) e a livello internazionale.\nTuttavia, lo scambio di informazioni resta un tema critico a causa della reciproca diffidenza tra Stati e tra settore pubblico e imprese private, restie a denunciare falle o intrusioni per timore di danni reputazionali.\nIn Europa l'informazione è spesso definita unidirezionale: le aziende hanno obblighi di notifica verso le autorità, ma raramente ricevono informazioni di ritorno in tempo reale.\nNel marzo 2013 Troels Oerting, direttore dell'EC3 (European Cybercrime Centre), affermò che il meccanismo di informazione in Europa dovrebbe assomigliare a quello statunitense, trasformandosi in una strada a doppio senso in cui i dati e gli alert sulle minacce fluiscono reciprocamente in entrambe le direzioni.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "ELEMENTI CRITICI E COOPERAZIONE INFORMATIVA\nLa strategia europea di sicurezza cibernetica stabilisce le linee essenziali e i valori cardine: responsabilità condivisa e cooperazione borderless.\nLa cooperazione deve realizzarsi a livello nazionale (partnership pubblico-privato), a livello europeo (dialogo tra agenzie e Stati membri) e a livello internazionale.\nTuttavia, lo scambio di informazioni resta un tema critico a causa della reciproca diffidenza tra Stati e tra settore pubblico e imprese private, restie a denunciare falle o intrusioni per timore di danni reputazionali.\nIn Europa l'informazione è spesso definita unidirezionale: le aziende hanno obblighi di notifica verso le autorità, ma raramente ricevono informazioni di ritorno in tempo reale.\nNel marzo 2013 Troels Oerting, direttore dell'EC3 (European Cybercrime Centre), affermò ",
+        "highlight": false
+      },
+      {
+        "text": "che il meccanismo di informazione in Europa dovrebbe assomigliare a quello statunitense",
+        "highlight": true
+      },
+      {
+        "text": ", trasformandosi in una strada a doppio senso in cui i dati e gli alert sulle minacce fluiscono reciprocamente in entrambe le direzioni.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "033-01",
@@ -1971,7 +3060,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 033 · Governance, ICANN e Global Common",
     "source_excerpt": "GOVERNANCE DI INTERNET, ICANN E GLOBAL COMMON\nÈ diffusa l'idea che il cyberspazio costituisca un 'global common', ossia un bene comune dell'umanità sottratto a sovranità esclusive e caratterizzato da libertà d'uso (come l'alto mare o lo spazio extra-atmosferico).\nTuttavia, questa tesi si scontra con una realtà di fatto: la quasi totalità delle infrastrutture fisiche, dei cavi sottomarini, dei server e delle reti è di proprietà privata. Come osservato da Stefano Silvestri (2012), un bene può essere considerato 'comune' solo se disciplinato dal diritto internazionale generale; altrimenti rimane un dominio globale conteso tra logiche di competizione strategica statale.\nGli aspetti regolativi tecnici di Internet sono storicamente gestiti dall'ICANN (Internet Corporation for Assigned Names and Numbers), ente non-profit che controlla la radice (root) del DNS e l'assegnazione degli indirizzi IP nel mondo.\nNel 1999, su richiesta della WIPO, l'ICANN ha adottato la UDRP (Uniform Dispute Resolution Policy), una procedura arbitrale obbligatoria per la risoluzione delle dispute sui nomi a dominio che si impone sui contratti tra operatori e utenti scavalcando i singoli tribunali nazionali.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "GOVERNANCE DI INTERNET, ICANN E GLOBAL COMMON\nÈ diffusa l'idea che il cyberspazio costituisca un 'global common', ossia un bene comune dell'umanità sottratto a sovranità esclusive e caratterizzato da libertà d'uso (come l'alto mare o lo ",
+        "highlight": false
+      },
+      {
+        "text": "spazio",
+        "highlight": true
+      },
+      {
+        "text": " extra-atmosferico).\nTuttavia, questa tesi si scontra con una realtà di fatto: la quasi totalità delle infrastrutture fisiche, dei cavi sottomarini, dei server e delle reti è di proprietà privata. Come osservato da Stefano Silvestri (2012), un bene può essere considerato 'comune' solo se disciplinato dal diritto internazionale generale; altrimenti rimane un dominio globale conteso tra logiche di competizione strategica statale.\nGli aspetti regolativi tecnici di Internet sono storicamente gestiti dall'ICANN (Internet Corporation for Assigned Names and Numbers), ente non-profit che controlla la radice (root) del DNS e l'assegnazione degli indirizzi IP nel mondo.\nNel 1999, su richiesta della WIPO, l'ICANN ha adottato la UDRP (Uniform Dispute Resolution Policy), una procedura arbitrale obbligatoria per la risoluzione delle dispute sui nomi a dominio che si impone sui contratti tra operatori e utenti scavalcando i singoli tribunali nazionali.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "033-02",
@@ -1996,7 +3099,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 033 · Governance, ICANN e Global Common",
     "source_excerpt": "GOVERNANCE DI INTERNET, ICANN E GLOBAL COMMON\nÈ diffusa l'idea che il cyberspazio costituisca un 'global common', ossia un bene comune dell'umanità sottratto a sovranità esclusive e caratterizzato da libertà d'uso (come l'alto mare o lo spazio extra-atmosferico).\nTuttavia, questa tesi si scontra con una realtà di fatto: la quasi totalità delle infrastrutture fisiche, dei cavi sottomarini, dei server e delle reti è di proprietà privata. Come osservato da Stefano Silvestri (2012), un bene può essere considerato 'comune' solo se disciplinato dal diritto internazionale generale; altrimenti rimane un dominio globale conteso tra logiche di competizione strategica statale.\nGli aspetti regolativi tecnici di Internet sono storicamente gestiti dall'ICANN (Internet Corporation for Assigned Names and Numbers), ente non-profit che controlla la radice (root) del DNS e l'assegnazione degli indirizzi IP nel mondo.\nNel 1999, su richiesta della WIPO, l'ICANN ha adottato la UDRP (Uniform Dispute Resolution Policy), una procedura arbitrale obbligatoria per la risoluzione delle dispute sui nomi a dominio che si impone sui contratti tra operatori e utenti scavalcando i singoli tribunali nazionali.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "GOVERNANCE DI INTERNET, ICANN E GLOBAL COMMON\nÈ diffusa l'idea che il cyberspazio costituisca un 'global common', ossia un bene comune dell'umanità sottratto a sovranità esclusive e caratterizzato da libertà d'uso (come l'alto mare o lo spazio extra-atmosferico).\nTuttavia, questa tesi si scontra con una realtà di fatto: la quasi totalità delle infrastrutture fisiche, dei cavi sottomarini, dei server e delle reti è di proprietà privata. Come osservato da Stefano Silvestri (2012), un bene può essere considerato 'comune' solo se disciplinato dal diritto internazionale generale; altrimenti rimane un dominio globale conteso tra logiche di competizione strategica statale.\nGli aspetti regolativi tecnici di Internet sono storicamente gestiti dall'ICANN (Internet Corporation for Assigned Names and Numbers), ente non-profit che controlla la radice (root) del DNS e l'",
+        "highlight": false
+      },
+      {
+        "text": "assegnazione degli indirizzi IP",
+        "highlight": true
+      },
+      {
+        "text": " nel mondo.\nNel 1999, su richiesta della WIPO, l'ICANN ha adottato la UDRP (Uniform Dispute Resolution Policy), una procedura arbitrale obbligatoria per la risoluzione delle dispute sui nomi a dominio che si impone sui contratti tra operatori e utenti scavalcando i singoli tribunali nazionali.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "033-03",
@@ -2021,7 +3138,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 033 · Governance, ICANN e Global Common",
     "source_excerpt": "GOVERNANCE DI INTERNET, ICANN E GLOBAL COMMON\nÈ diffusa l'idea che il cyberspazio costituisca un 'global common', ossia un bene comune dell'umanità sottratto a sovranità esclusive e caratterizzato da libertà d'uso (come l'alto mare o lo spazio extra-atmosferico).\nTuttavia, questa tesi si scontra con una realtà di fatto: la quasi totalità delle infrastrutture fisiche, dei cavi sottomarini, dei server e delle reti è di proprietà privata. Come osservato da Stefano Silvestri (2012), un bene può essere considerato 'comune' solo se disciplinato dal diritto internazionale generale; altrimenti rimane un dominio globale conteso tra logiche di competizione strategica statale.\nGli aspetti regolativi tecnici di Internet sono storicamente gestiti dall'ICANN (Internet Corporation for Assigned Names and Numbers), ente non-profit che controlla la radice (root) del DNS e l'assegnazione degli indirizzi IP nel mondo.\nNel 1999, su richiesta della WIPO, l'ICANN ha adottato la UDRP (Uniform Dispute Resolution Policy), una procedura arbitrale obbligatoria per la risoluzione delle dispute sui nomi a dominio che si impone sui contratti tra operatori e utenti scavalcando i singoli tribunali nazionali.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "GOVERNANCE DI INTERNET, ICANN E ",
+        "highlight": false
+      },
+      {
+        "text": "GLOBAL COMMON",
+        "highlight": true
+      },
+      {
+        "text": "\nÈ diffusa l'idea che il cyberspazio costituisca un 'global common', ossia un bene comune dell'umanità sottratto a sovranità esclusive e caratterizzato da libertà d'uso (come l'alto mare o lo spazio extra-atmosferico).\nTuttavia, questa tesi si scontra con una realtà di fatto: la quasi totalità delle infrastrutture fisiche, dei cavi sottomarini, dei server e delle reti è di proprietà privata. Come osservato da Stefano Silvestri (2012), un bene può essere considerato 'comune' solo se disciplinato dal diritto internazionale generale; altrimenti rimane un dominio globale conteso tra logiche di competizione strategica statale.\nGli aspetti regolativi tecnici di Internet sono storicamente gestiti dall'ICANN (Internet Corporation for Assigned Names and Numbers), ente non-profit che controlla la radice (root) del DNS e l'assegnazione degli indirizzi IP nel mondo.\nNel 1999, su richiesta della WIPO, l'ICANN ha adottato la UDRP (Uniform Dispute Resolution Policy), una procedura arbitrale obbligatoria per la risoluzione delle dispute sui nomi a dominio che si impone sui contratti tra operatori e utenti scavalcando i singoli tribunali nazionali.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "035-01",
@@ -2046,7 +3177,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 035 · Principio di proporzionalità della pena",
     "source_excerpt": "IL PRINCIPIO DI PROPORZIONALITÀ DELLA PENA\nIl principio di proporzionalità nella ricostruzione effettuata dalla Corte Costituzionale costituisce uno dei parametri fondamentali nell'attività del legislatore di determinazione della pena.\nIl giudizio di proporzione tra fatto tipico e sanzione penale rappresenta, come chiarito da Padovani, una premessa ineliminabile dell'accettazione psicologica di un trattamento diretto a favorire nel condannato il recupero della capacità di apprezzare i valori tutelati dall'ordinamento (finalità rieducativa ex art. 27 comma 3 Cost.). Ciò è tanto più importante per i reati informatici, contrassegnati da novità tecnica e spesso non immediatamente percepiti dalla collettività nel loro effettivo disvalore.\nLa Corte Costituzionale (sentenza n. 409 del 1989) ha chiarito che il principio di uguaglianza e ragionevolezza (art. 3 Cost.) esige che la pena sia proporzionata al disvalore del fatto illecito commesso, censurando scelte legislative manifestamente sproporzionate che causino sacrifici eccessivi ai diritti individuali rispetto alle finalità di prevenzione e tutela sociale.\nPrincipi analoghi operano a livello comparato (Corte Suprema USA, Corte Suprema del Canada) e nella giurisprudenza della Corte EDU (art. 3 CEDU, divieto di pene grossolanamente sproporzionate).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "IL PRINCIPIO DI PROPORZIONALITÀ DELLA PENA\nIl principio di proporzionalità nella ricostruzione effettuata dalla Corte Costituzionale costituisce uno dei parametri fondamentali nell'",
+        "highlight": false
+      },
+      {
+        "text": "attività del legislatore di determinazione della pena",
+        "highlight": true
+      },
+      {
+        "text": ".\nIl giudizio di proporzione tra fatto tipico e sanzione penale rappresenta, come chiarito da Padovani, una premessa ineliminabile dell'accettazione psicologica di un trattamento diretto a favorire nel condannato il recupero della capacità di apprezzare i valori tutelati dall'ordinamento (finalità rieducativa ex art. 27 comma 3 Cost.). Ciò è tanto più importante per i reati informatici, contrassegnati da novità tecnica e spesso non immediatamente percepiti dalla collettività nel loro effettivo disvalore.\nLa Corte Costituzionale (sentenza n. 409 del 1989) ha chiarito che il principio di uguaglianza e ragionevolezza (art. 3 Cost.) esige che la pena sia proporzionata al disvalore del fatto illecito commesso, censurando scelte legislative manifestamente sproporzionate che causino sacrifici eccessivi ai diritti individuali rispetto alle finalità di prevenzione e tutela sociale.\nPrincipi analoghi operano a livello comparato (Corte Suprema USA, Corte Suprema del Canada) e nella giurisprudenza della Corte EDU (art. 3 CEDU, divieto di pene grossolanamente sproporzionate).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "036-01",
@@ -2071,7 +3216,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 036 · Nozione di reato informatico e diffamazione online",
     "source_excerpt": "LA NOZIONE DI REATI INFORMATICI E DIFFAMAZIONE ONLINE\nLa definizione di reato informatico vede diversi contributi dottrinali: da 'qualunque comportamento criminoso nel quale il computer è coinvolto come mezzo o come oggetto' (Sarzana di S. Ippolito) a 'ogni condotta antigiuridica riguardante l'elaborazione o trasmissione automatica di dati' (Commissione di esperti dell'OECD: 'any illegal, unethical or unauthorized behavior involving automatic data processing and/or transmission of data').\nSi distingue tra:\n- Reati 'necessariamente' informatici: condotte nuove nate con l'informatica (es. accesso abusivo a sistema informatico ex art. 615-ter c.p.);\n- Reati 'eventualmente' informatici: reati tradizionali commessi sfruttando le tecnologie come mezzo (es. truffa o diffamazione).\nNei reati contro l'onore, l'immissione di messaggi diffamatori in Internet integra pacificamente l'ipotesi aggravata dell'art. 595 comma 3 c.p. ('offesa recata con qualsiasi altro mezzo di pubblicità'), a motivo dell'estrema diffusività e pervasività della rete, che rende le offese fruibili potenzialmente erga omnes in qualsiasi parte del mondo (Cass. n. 4741/2000).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "LA NOZIONE DI REATI INFORMATICI E DIFFAMAZIONE ONLINE\nLa definizione di reato informatico vede diversi contributi dottrinali: da 'qualunque comportamento criminoso nel quale il computer è coinvolto come mezzo o come oggetto' (Sarzana di S. Ippolito) a 'ogni condotta antigiuridica riguardante l'elaborazione o trasmissione automatica di dati' (",
+        "highlight": false
+      },
+      {
+        "text": "Commissione di esperti dell",
+        "highlight": true
+      },
+      {
+        "text": "'OECD: 'any illegal, unethical or unauthorized behavior involving automatic data processing and/or transmission of data').\nSi distingue tra:\n- Reati 'necessariamente' informatici: condotte nuove nate con l'informatica (es. accesso abusivo a sistema informatico ex art. 615-ter c.p.);\n- Reati 'eventualmente' informatici: reati tradizionali commessi sfruttando le tecnologie come mezzo (es. truffa o diffamazione).\nNei reati contro l'onore, l'immissione di messaggi diffamatori in Internet integra pacificamente l'ipotesi aggravata dell'art. 595 comma 3 c.p. ('offesa recata con qualsiasi altro mezzo di pubblicità'), a motivo dell'estrema diffusività e pervasività della rete, che rende le offese fruibili potenzialmente erga omnes in qualsiasi parte del mondo (Cass. n. 4741/2000).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "036-02",
@@ -2096,7 +3255,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 036 · Nozione di reato informatico e diffamazione online",
     "source_excerpt": "LA NOZIONE DI REATI INFORMATICI E DIFFAMAZIONE ONLINE\nLa definizione di reato informatico vede diversi contributi dottrinali: da 'qualunque comportamento criminoso nel quale il computer è coinvolto come mezzo o come oggetto' (Sarzana di S. Ippolito) a 'ogni condotta antigiuridica riguardante l'elaborazione o trasmissione automatica di dati' (Commissione di esperti dell'OECD: 'any illegal, unethical or unauthorized behavior involving automatic data processing and/or transmission of data').\nSi distingue tra:\n- Reati 'necessariamente' informatici: condotte nuove nate con l'informatica (es. accesso abusivo a sistema informatico ex art. 615-ter c.p.);\n- Reati 'eventualmente' informatici: reati tradizionali commessi sfruttando le tecnologie come mezzo (es. truffa o diffamazione).\nNei reati contro l'onore, l'immissione di messaggi diffamatori in Internet integra pacificamente l'ipotesi aggravata dell'art. 595 comma 3 c.p. ('offesa recata con qualsiasi altro mezzo di pubblicità'), a motivo dell'estrema diffusività e pervasività della rete, che rende le offese fruibili potenzialmente erga omnes in qualsiasi parte del mondo (Cass. n. 4741/2000).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "LA NOZIONE DI REATI INFORMATICI E DIFFAMAZIONE ONLINE\nLa definizione di reato informatico vede diversi contributi dottrinali: da 'qualunque comportamento criminoso nel quale il computer è coinvolto come mezzo o come oggetto' (Sarzana di S. Ippolito) a 'ogni condotta antigiuridica riguardante l'elaborazione o trasmissione automatica di dati' (Commissione di esperti dell'OECD: 'any illegal, unethical or unauthorized behavior involving automatic data processing and/or transmission of data').\nSi distingue tra:\n- Reati 'necessariamente' informatici: condotte nuove nate con l'informatica (es. accesso abusivo a sistema informatico ex art. 615-ter c.p.);\n- Reati 'eventualmente' informatici: reati tradizionali commessi sfruttando le tecnologie come mezzo (es. truffa o diffamazione).\nNei reati contro l'onore, l'immissione di messaggi diffamatori in Internet integra pacificamente l'ipotesi aggravata dell'art. 595 ",
+        "highlight": false
+      },
+      {
+        "text": "comma",
+        "highlight": true
+      },
+      {
+        "text": " 3 c.p. ('offesa recata con qualsiasi altro mezzo di pubblicità'), a motivo dell'estrema diffusività e pervasività della rete, che rende le offese fruibili potenzialmente erga omnes in qualsiasi parte del mondo (Cass. n. 4741/2000).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "036-03",
@@ -2121,7 +3294,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 036 · Nozione di reato informatico e diffamazione online",
     "source_excerpt": "LA NOZIONE DI REATI INFORMATICI E DIFFAMAZIONE ONLINE\nLa definizione di reato informatico vede diversi contributi dottrinali: da 'qualunque comportamento criminoso nel quale il computer è coinvolto come mezzo o come oggetto' (Sarzana di S. Ippolito) a 'ogni condotta antigiuridica riguardante l'elaborazione o trasmissione automatica di dati' (Commissione di esperti dell'OECD: 'any illegal, unethical or unauthorized behavior involving automatic data processing and/or transmission of data').\nSi distingue tra:\n- Reati 'necessariamente' informatici: condotte nuove nate con l'informatica (es. accesso abusivo a sistema informatico ex art. 615-ter c.p.);\n- Reati 'eventualmente' informatici: reati tradizionali commessi sfruttando le tecnologie come mezzo (es. truffa o diffamazione).\nNei reati contro l'onore, l'immissione di messaggi diffamatori in Internet integra pacificamente l'ipotesi aggravata dell'art. 595 comma 3 c.p. ('offesa recata con qualsiasi altro mezzo di pubblicità'), a motivo dell'estrema diffusività e pervasività della rete, che rende le offese fruibili potenzialmente erga omnes in qualsiasi parte del mondo (Cass. n. 4741/2000).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "LA NOZIONE DI REATI INFORMATICI E DIFFAMAZIONE ONLINE\nLa definizione di reato informatico vede diversi contributi dottrinali: da 'qualunque comportamento criminoso nel quale il computer è coinvolto come mezzo o come oggetto' (Sarzana di S. Ippolito) a 'ogni condotta antigiuridica riguardante l'elaborazione o trasmissione automatica di dati' (Commissione di esperti dell'OECD: 'any illegal, unethical or unauthorized behavior involving automatic data processing and/or transmission of data').\nSi distingue tra:\n- Reati 'necessariamente' informatici: condotte nuove nate con l'informatica (es. accesso abusivo a ",
+        "highlight": false
+      },
+      {
+        "text": "sistema informatico",
+        "highlight": true
+      },
+      {
+        "text": " ex art. 615-ter c.p.);\n- Reati 'eventualmente' informatici: reati tradizionali commessi sfruttando le tecnologie come mezzo (es. truffa o diffamazione).\nNei reati contro l'onore, l'immissione di messaggi diffamatori in Internet integra pacificamente l'ipotesi aggravata dell'art. 595 comma 3 c.p. ('offesa recata con qualsiasi altro mezzo di pubblicità'), a motivo dell'estrema diffusività e pervasività della rete, che rende le offese fruibili potenzialmente erga omnes in qualsiasi parte del mondo (Cass. n. 4741/2000).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "037-01",
@@ -2146,7 +3333,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 037 · Beni giuridici e diritti costituzionali",
     "source_excerpt": "IL BENE GIURIDICO TUTELATO E I DIRITTI COSTITUZIONALI\nLa dottrina giusinformatiche si è interrogata sul bene giuridico tutelato dai reati informatici: dalla tesi dell'intangibilità informatica (Frosini) a quella dell'informazione come bene economico e della personalità (Sieber). Monti ha sostenuto che le problematiche del diritto dell'informatica sono 'facce diverse di un unico problema: quello dello statuto giuridico da attribuire all'informazione', proponendo di elevarla a bene costituzionale.\nL'evoluzione delle tecnologie investe una pluralità di diritti fondamentali garantiti dalla Costituzione:\n- Diritto alla libera manifestazione del pensiero (art. 21 Cost.);\n- Inviolabilità del domicilio (art. 14 Cost.);\n- Segretezza della corrispondenza e delle comunicazioni (art. 15 Cost.);\n- Libertà di associazione (art. 18 Cost.);\n- Libertà religiosa (art. 19 Cost.);\n- Diritto al lavoro (artt. 4 e 35 Cost.).\nIn particolare, l'art. 615-ter c.p. è stato collocato dal legislatore tra i delitti contro l'inviolabilità del domicilio: la Relazione alla Legge 547/1993 chiarisce che il legislatore ha preso a modello il 'domicilio fisico' per estendere la tutela al 'domicilio informatico' come spazio ideale e riservato della persona, tutelando lo 'ius excludendi alios' del titolare del sistema protetto.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "IL BENE GIURIDICO TUTELATO E I DIRITTI COSTITUZIONALI\nLa dottrina giusinformatiche si è interrogata sul bene giuridico tutelato dai reati informatici: dalla tesi dell'intangibilità informatica (Frosini) a quella dell'informazione come bene economico e della personalità (Sieber). Monti ha sostenuto che le problematiche del diritto dell'informatica sono 'facce diverse di un unico problema: quello dello statuto giuridico da attribuire all'informazione', proponendo di elevarla a bene costituzionale.\nL'evoluzione delle tecnologie investe una pluralità di diritti fondamentali garantiti dalla Costituzione:\n- Diritto alla libera manifestazione del pensiero (art. ",
+        "highlight": false
+      },
+      {
+        "text": "21 Cost",
+        "highlight": true
+      },
+      {
+        "text": ".);\n- Inviolabilità del domicilio (art. 14 Cost.);\n- Segretezza della corrispondenza e delle comunicazioni (art. 15 Cost.);\n- Libertà di associazione (art. 18 Cost.);\n- Libertà religiosa (art. 19 Cost.);\n- Diritto al lavoro (artt. 4 e 35 Cost.).\nIn particolare, l'art. 615-ter c.p. è stato collocato dal legislatore tra i delitti contro l'inviolabilità del domicilio: la Relazione alla Legge 547/1993 chiarisce che il legislatore ha preso a modello il 'domicilio fisico' per estendere la tutela al 'domicilio informatico' come spazio ideale e riservato della persona, tutelando lo 'ius excludendi alios' del titolare del sistema protetto.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "037-02",
@@ -2171,7 +3372,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 037 · Beni giuridici e diritti costituzionali",
     "source_excerpt": "IL BENE GIURIDICO TUTELATO E I DIRITTI COSTITUZIONALI\nLa dottrina giusinformatiche si è interrogata sul bene giuridico tutelato dai reati informatici: dalla tesi dell'intangibilità informatica (Frosini) a quella dell'informazione come bene economico e della personalità (Sieber). Monti ha sostenuto che le problematiche del diritto dell'informatica sono 'facce diverse di un unico problema: quello dello statuto giuridico da attribuire all'informazione', proponendo di elevarla a bene costituzionale.\nL'evoluzione delle tecnologie investe una pluralità di diritti fondamentali garantiti dalla Costituzione:\n- Diritto alla libera manifestazione del pensiero (art. 21 Cost.);\n- Inviolabilità del domicilio (art. 14 Cost.);\n- Segretezza della corrispondenza e delle comunicazioni (art. 15 Cost.);\n- Libertà di associazione (art. 18 Cost.);\n- Libertà religiosa (art. 19 Cost.);\n- Diritto al lavoro (artt. 4 e 35 Cost.).\nIn particolare, l'art. 615-ter c.p. è stato collocato dal legislatore tra i delitti contro l'inviolabilità del domicilio: la Relazione alla Legge 547/1993 chiarisce che il legislatore ha preso a modello il 'domicilio fisico' per estendere la tutela al 'domicilio informatico' come spazio ideale e riservato della persona, tutelando lo 'ius excludendi alios' del titolare del sistema protetto.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "IL BENE GIURIDICO TUTELATO E I DIRITTI COSTITUZIONALI\nLa dottrina giusinformatiche si è interrogata sul bene giuridico tutelato dai reati informatici: dalla tesi dell'intangibilità informatica (Frosini) a quella dell'informazione come bene economico e della personalità (Sieber). Monti ha sostenuto che le problematiche del diritto dell'informatica sono 'facce diverse di un unico problema: quello dello statuto giuridico da attribuire all'informazione', proponendo di elevarla a bene costituzionale.\nL'evoluzione delle tecnologie investe una pluralità di diritti fondamentali garantiti dalla Costituzione:\n- Diritto alla libera manifestazione del pensiero (art. 21 Cost.);\n- Inviolabilità del domicilio (art. ",
+        "highlight": false
+      },
+      {
+        "text": "14 Cost",
+        "highlight": true
+      },
+      {
+        "text": ".);\n- Segretezza della corrispondenza e delle comunicazioni (art. 15 Cost.);\n- Libertà di associazione (art. 18 Cost.);\n- Libertà religiosa (art. 19 Cost.);\n- Diritto al lavoro (artt. 4 e 35 Cost.).\nIn particolare, l'art. 615-ter c.p. è stato collocato dal legislatore tra i delitti contro l'inviolabilità del domicilio: la Relazione alla Legge 547/1993 chiarisce che il legislatore ha preso a modello il 'domicilio fisico' per estendere la tutela al 'domicilio informatico' come spazio ideale e riservato della persona, tutelando lo 'ius excludendi alios' del titolare del sistema protetto.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "037-03",
@@ -2196,7 +3411,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 037 · Beni giuridici e diritti costituzionali",
     "source_excerpt": "IL BENE GIURIDICO TUTELATO E I DIRITTI COSTITUZIONALI\nLa dottrina giusinformatiche si è interrogata sul bene giuridico tutelato dai reati informatici: dalla tesi dell'intangibilità informatica (Frosini) a quella dell'informazione come bene economico e della personalità (Sieber). Monti ha sostenuto che le problematiche del diritto dell'informatica sono 'facce diverse di un unico problema: quello dello statuto giuridico da attribuire all'informazione', proponendo di elevarla a bene costituzionale.\nL'evoluzione delle tecnologie investe una pluralità di diritti fondamentali garantiti dalla Costituzione:\n- Diritto alla libera manifestazione del pensiero (art. 21 Cost.);\n- Inviolabilità del domicilio (art. 14 Cost.);\n- Segretezza della corrispondenza e delle comunicazioni (art. 15 Cost.);\n- Libertà di associazione (art. 18 Cost.);\n- Libertà religiosa (art. 19 Cost.);\n- Diritto al lavoro (artt. 4 e 35 Cost.).\nIn particolare, l'art. 615-ter c.p. è stato collocato dal legislatore tra i delitti contro l'inviolabilità del domicilio: la Relazione alla Legge 547/1993 chiarisce che il legislatore ha preso a modello il 'domicilio fisico' per estendere la tutela al 'domicilio informatico' come spazio ideale e riservato della persona, tutelando lo 'ius excludendi alios' del titolare del sistema protetto.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "IL BENE GIURIDICO TUTELATO E I DIRITTI COSTITUZIONALI\nLa dottrina giusinformatiche si è interrogata sul bene giuridico tutelato dai reati informatici: dalla tesi dell'intangibilità informatica (Frosini) a quella dell'informazione come bene economico e della personalità (Sieber). Monti ha sostenuto che le problematiche del diritto dell'informatica sono 'facce diverse di un unico problema: quello dello statuto giuridico da attribuire all'informazione', proponendo di elevarla a bene costituzionale.\nL'evoluzione delle tecnologie investe una pluralità di diritti fondamentali garantiti dalla Costituzione:\n- Diritto alla libera manifestazione del pensiero (art. 21 Cost.);\n- Inviolabilità del domicilio (art. 14 Cost.);\n- Segretezza della corrispondenza e delle comunicazioni (art. ",
+        "highlight": false
+      },
+      {
+        "text": "15 Cost",
+        "highlight": true
+      },
+      {
+        "text": ".);\n- Libertà di associazione (art. 18 Cost.);\n- Libertà religiosa (art. 19 Cost.);\n- Diritto al lavoro (artt. 4 e 35 Cost.).\nIn particolare, l'art. 615-ter c.p. è stato collocato dal legislatore tra i delitti contro l'inviolabilità del domicilio: la Relazione alla Legge 547/1993 chiarisce che il legislatore ha preso a modello il 'domicilio fisico' per estendere la tutela al 'domicilio informatico' come spazio ideale e riservato della persona, tutelando lo 'ius excludendi alios' del titolare del sistema protetto.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "037-04",
@@ -2221,7 +3450,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 037 · Beni giuridici e diritti costituzionali",
     "source_excerpt": "IL BENE GIURIDICO TUTELATO E I DIRITTI COSTITUZIONALI\nLa dottrina giusinformatiche si è interrogata sul bene giuridico tutelato dai reati informatici: dalla tesi dell'intangibilità informatica (Frosini) a quella dell'informazione come bene economico e della personalità (Sieber). Monti ha sostenuto che le problematiche del diritto dell'informatica sono 'facce diverse di un unico problema: quello dello statuto giuridico da attribuire all'informazione', proponendo di elevarla a bene costituzionale.\nL'evoluzione delle tecnologie investe una pluralità di diritti fondamentali garantiti dalla Costituzione:\n- Diritto alla libera manifestazione del pensiero (art. 21 Cost.);\n- Inviolabilità del domicilio (art. 14 Cost.);\n- Segretezza della corrispondenza e delle comunicazioni (art. 15 Cost.);\n- Libertà di associazione (art. 18 Cost.);\n- Libertà religiosa (art. 19 Cost.);\n- Diritto al lavoro (artt. 4 e 35 Cost.).\nIn particolare, l'art. 615-ter c.p. è stato collocato dal legislatore tra i delitti contro l'inviolabilità del domicilio: la Relazione alla Legge 547/1993 chiarisce che il legislatore ha preso a modello il 'domicilio fisico' per estendere la tutela al 'domicilio informatico' come spazio ideale e riservato della persona, tutelando lo 'ius excludendi alios' del titolare del sistema protetto.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "IL BENE GIURIDICO TUTELATO E I DIRITTI COSTITUZIONALI\nLa dottrina giusinformatiche si è interrogata sul bene giuridico tutelato dai reati informatici: dalla tesi dell'intangibilità informatica (Frosini) a quella dell'informazione come bene economico e della personalità (Sieber). Monti ha sostenuto che le problematiche del diritto dell'informatica sono 'facce diverse di un unico problema: quello dello statuto giuridico da attribuire all'informazione', proponendo di elevarla a bene costituzionale.\nL'evoluzione delle tecnologie investe una pluralità di diritti fondamentali garantiti dalla Costituzione:\n- Diritto alla libera manifestazione del pensiero (art. 21 Cost.);\n- Inviolabilità del domicilio (art. 14 Cost.);\n- Segretezza della corrispondenza e delle comunicazioni (art. 15 Cost.);\n- Libertà di associazione (art. 18 Cost.);\n- Libertà religiosa (art. ",
+        "highlight": false
+      },
+      {
+        "text": "19 Cost",
+        "highlight": true
+      },
+      {
+        "text": ".);\n- Diritto al lavoro (artt. 4 e 35 Cost.).\nIn particolare, l'art. 615-ter c.p. è stato collocato dal legislatore tra i delitti contro l'inviolabilità del domicilio: la Relazione alla Legge 547/1993 chiarisce che il legislatore ha preso a modello il 'domicilio fisico' per estendere la tutela al 'domicilio informatico' come spazio ideale e riservato della persona, tutelando lo 'ius excludendi alios' del titolare del sistema protetto.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "037-05",
@@ -2246,7 +3489,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 037 · Beni giuridici e diritti costituzionali",
     "source_excerpt": "IL BENE GIURIDICO TUTELATO E I DIRITTI COSTITUZIONALI\nLa dottrina giusinformatiche si è interrogata sul bene giuridico tutelato dai reati informatici: dalla tesi dell'intangibilità informatica (Frosini) a quella dell'informazione come bene economico e della personalità (Sieber). Monti ha sostenuto che le problematiche del diritto dell'informatica sono 'facce diverse di un unico problema: quello dello statuto giuridico da attribuire all'informazione', proponendo di elevarla a bene costituzionale.\nL'evoluzione delle tecnologie investe una pluralità di diritti fondamentali garantiti dalla Costituzione:\n- Diritto alla libera manifestazione del pensiero (art. 21 Cost.);\n- Inviolabilità del domicilio (art. 14 Cost.);\n- Segretezza della corrispondenza e delle comunicazioni (art. 15 Cost.);\n- Libertà di associazione (art. 18 Cost.);\n- Libertà religiosa (art. 19 Cost.);\n- Diritto al lavoro (artt. 4 e 35 Cost.).\nIn particolare, l'art. 615-ter c.p. è stato collocato dal legislatore tra i delitti contro l'inviolabilità del domicilio: la Relazione alla Legge 547/1993 chiarisce che il legislatore ha preso a modello il 'domicilio fisico' per estendere la tutela al 'domicilio informatico' come spazio ideale e riservato della persona, tutelando lo 'ius excludendi alios' del titolare del sistema protetto.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "IL BENE GIURIDICO TUTELATO E I DIRITTI COSTITUZIONALI\nLa dottrina giusinformatiche si è interrogata sul bene giuridico tutelato dai reati informatici: dalla tesi dell'intangibilità informatica (Frosini) a quella dell'informazione come bene economico e della personalità (Sieber). ",
+        "highlight": false
+      },
+      {
+        "text": "Monti",
+        "highlight": true
+      },
+      {
+        "text": " ha sostenuto che le problematiche del diritto dell'informatica sono 'facce diverse di un unico problema: quello dello statuto giuridico da attribuire all'informazione', proponendo di elevarla a bene costituzionale.\nL'evoluzione delle tecnologie investe una pluralità di diritti fondamentali garantiti dalla Costituzione:\n- Diritto alla libera manifestazione del pensiero (art. 21 Cost.);\n- Inviolabilità del domicilio (art. 14 Cost.);\n- Segretezza della corrispondenza e delle comunicazioni (art. 15 Cost.);\n- Libertà di associazione (art. 18 Cost.);\n- Libertà religiosa (art. 19 Cost.);\n- Diritto al lavoro (artt. 4 e 35 Cost.).\nIn particolare, l'art. 615-ter c.p. è stato collocato dal legislatore tra i delitti contro l'inviolabilità del domicilio: la Relazione alla Legge 547/1993 chiarisce che il legislatore ha preso a modello il 'domicilio fisico' per estendere la tutela al 'domicilio informatico' come spazio ideale e riservato della persona, tutelando lo 'ius excludendi alios' del titolare del sistema protetto.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "037-06",
@@ -2271,7 +3528,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 037 · Beni giuridici e diritti costituzionali",
     "source_excerpt": "IL BENE GIURIDICO TUTELATO E I DIRITTI COSTITUZIONALI\nLa dottrina giusinformatiche si è interrogata sul bene giuridico tutelato dai reati informatici: dalla tesi dell'intangibilità informatica (Frosini) a quella dell'informazione come bene economico e della personalità (Sieber). Monti ha sostenuto che le problematiche del diritto dell'informatica sono 'facce diverse di un unico problema: quello dello statuto giuridico da attribuire all'informazione', proponendo di elevarla a bene costituzionale.\nL'evoluzione delle tecnologie investe una pluralità di diritti fondamentali garantiti dalla Costituzione:\n- Diritto alla libera manifestazione del pensiero (art. 21 Cost.);\n- Inviolabilità del domicilio (art. 14 Cost.);\n- Segretezza della corrispondenza e delle comunicazioni (art. 15 Cost.);\n- Libertà di associazione (art. 18 Cost.);\n- Libertà religiosa (art. 19 Cost.);\n- Diritto al lavoro (artt. 4 e 35 Cost.).\nIn particolare, l'art. 615-ter c.p. è stato collocato dal legislatore tra i delitti contro l'inviolabilità del domicilio: la Relazione alla Legge 547/1993 chiarisce che il legislatore ha preso a modello il 'domicilio fisico' per estendere la tutela al 'domicilio informatico' come spazio ideale e riservato della persona, tutelando lo 'ius excludendi alios' del titolare del sistema protetto.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "IL BENE GIURIDICO TUTELATO E I DIRITTI COSTITUZIONALI\nLa dottrina giusinformatiche si è interrogata sul bene giuridico tutelato dai reati informatici: dalla tesi dell'intangibilità informatica (Frosini) a quella dell'informazione come bene economico e della personalità (Sieber). Monti ha sostenuto che le problematiche del diritto dell'informatica sono 'facce diverse di un unico problema: quello dello statuto giuridico da attribuire all'informazione', proponendo di elevarla a bene costituzionale.\nL'evoluzione delle tecnologie investe una pluralità di diritti fondamentali garantiti dalla Costituzione:\n- Diritto alla libera manifestazione del pensiero (art. 21 Cost.);\n- Inviolabilità del domicilio (art. 14 Cost.);\n- Segretezza della corrispondenza e delle comunicazioni (art. 15 Cost.);\n- Libertà di associazione (art. ",
+        "highlight": false
+      },
+      {
+        "text": "18 Cost",
+        "highlight": true
+      },
+      {
+        "text": ".);\n- Libertà religiosa (art. 19 Cost.);\n- Diritto al lavoro (artt. 4 e 35 Cost.).\nIn particolare, l'art. 615-ter c.p. è stato collocato dal legislatore tra i delitti contro l'inviolabilità del domicilio: la Relazione alla Legge 547/1993 chiarisce che il legislatore ha preso a modello il 'domicilio fisico' per estendere la tutela al 'domicilio informatico' come spazio ideale e riservato della persona, tutelando lo 'ius excludendi alios' del titolare del sistema protetto.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "038-01",
@@ -2296,7 +3567,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 038 · Clonazione di carte di credito",
     "source_excerpt": "LA CLONAZIONE DELLE CARTE DI CREDITO\nIl reato di indebita utilizzazione e falsificazione di carte di credito e di pagamento (già art. 55 D.Lgs. 231/2007, ora art. 493-ter c.p.) ha natura plurioffensiva: tutela sia il patrimonio individuale del titolare, sia l'ordine pubblico economico, la sicurezza dei pagamenti elettronici e la fede pubblica.\nLa fattispecie si perfeziona con l'uso indebito in sé, a prescindere dal conseguimento di un profitto effettivo. Inoltre, la Suprema Corte ha chiarito che l'eventuale disattivazione della carta non rende il reato impossibile: ai fini della punibilità è sufficiente il semplice possesso di carte clonate (esatta copia della carta originale).\nConcorso di reati:\n- Concorre con il furto aggravato (art. 625 c.p.), poiché l'impossessamento della tessera è condotta distinta rispetto all'uso indebito successivo;\n- Concorre con la ricettazione (art. 648 c.p.) per la ricezione o acquisto della carta di provenienza delittuosa;\n- Concorre con la truffa (art. 640 c.p.) qualora l'agente impieghi artifizi ulteriori oltre al mero utilizzo (es. carpire fraudolentemente il codice segreto con skimmer);\n- Nel caso di prelievi abusivi a casse continue bancarie mediante carte falsificate, la giurisprudenza ha ravvisato il solo reato speciale di frode informatica (art. 640-ter c.p.).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "LA CLONAZIONE DELLE CARTE DI CREDITO\nIl reato di indebita utilizzazione e falsificazione di carte di credito e di pagamento (già art. 55 D.Lgs. 231/2007, ora art. 493-ter c.p.) ha natura plurioffensiva: tutela sia il patrimonio individuale del titolare, sia l'ordine pubblico economico, la sicurezza dei pagamenti elettronici e la fede pubblica.\nLa fattispecie si perfeziona con l'uso indebito in sé, a prescindere dal conseguimento di un profitto effettivo. Inoltre, la Suprema Corte ha chiarito che l'eventuale disattivazione della carta non rende il reato impossibile: ai fini della punibilità è sufficiente il semplice possesso di carte clonate (",
+        "highlight": false
+      },
+      {
+        "text": "esatta copia della carta",
+        "highlight": true
+      },
+      {
+        "text": " originale).\nConcorso di reati:\n- Concorre con il furto aggravato (art. 625 c.p.), poiché l'impossessamento della tessera è condotta distinta rispetto all'uso indebito successivo;\n- Concorre con la ricettazione (art. 648 c.p.) per la ricezione o acquisto della carta di provenienza delittuosa;\n- Concorre con la truffa (art. 640 c.p.) qualora l'agente impieghi artifizi ulteriori oltre al mero utilizzo (es. carpire fraudolentemente il codice segreto con skimmer);\n- Nel caso di prelievi abusivi a casse continue bancarie mediante carte falsificate, la giurisprudenza ha ravvisato il solo reato speciale di frode informatica (art. 640-ter c.p.).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "038-02",
@@ -2321,7 +3606,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 038 · Clonazione di carte di credito",
     "source_excerpt": "LA CLONAZIONE DELLE CARTE DI CREDITO\nIl reato di indebita utilizzazione e falsificazione di carte di credito e di pagamento (già art. 55 D.Lgs. 231/2007, ora art. 493-ter c.p.) ha natura plurioffensiva: tutela sia il patrimonio individuale del titolare, sia l'ordine pubblico economico, la sicurezza dei pagamenti elettronici e la fede pubblica.\nLa fattispecie si perfeziona con l'uso indebito in sé, a prescindere dal conseguimento di un profitto effettivo. Inoltre, la Suprema Corte ha chiarito che l'eventuale disattivazione della carta non rende il reato impossibile: ai fini della punibilità è sufficiente il semplice possesso di carte clonate (esatta copia della carta originale).\nConcorso di reati:\n- Concorre con il furto aggravato (art. 625 c.p.), poiché l'impossessamento della tessera è condotta distinta rispetto all'uso indebito successivo;\n- Concorre con la ricettazione (art. 648 c.p.) per la ricezione o acquisto della carta di provenienza delittuosa;\n- Concorre con la truffa (art. 640 c.p.) qualora l'agente impieghi artifizi ulteriori oltre al mero utilizzo (es. carpire fraudolentemente il codice segreto con skimmer);\n- Nel caso di prelievi abusivi a casse continue bancarie mediante carte falsificate, la giurisprudenza ha ravvisato il solo reato speciale di frode informatica (art. 640-ter c.p.).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "LA CLONAZIONE DELLE CARTE DI CREDITO\nIl reato di indebita utilizzazione e falsificazione di carte di credito e di pagamento (già art. 55 D.Lgs. 231/2007, ora art. 493-ter c.p.) ha natura ",
+        "highlight": false
+      },
+      {
+        "text": "plurioffensiva",
+        "highlight": true
+      },
+      {
+        "text": ": tutela sia il patrimonio individuale del titolare, sia l'ordine pubblico economico, la sicurezza dei pagamenti elettronici e la fede pubblica.\nLa fattispecie si perfeziona con l'uso indebito in sé, a prescindere dal conseguimento di un profitto effettivo. Inoltre, la Suprema Corte ha chiarito che l'eventuale disattivazione della carta non rende il reato impossibile: ai fini della punibilità è sufficiente il semplice possesso di carte clonate (esatta copia della carta originale).\nConcorso di reati:\n- Concorre con il furto aggravato (art. 625 c.p.), poiché l'impossessamento della tessera è condotta distinta rispetto all'uso indebito successivo;\n- Concorre con la ricettazione (art. 648 c.p.) per la ricezione o acquisto della carta di provenienza delittuosa;\n- Concorre con la truffa (art. 640 c.p.) qualora l'agente impieghi artifizi ulteriori oltre al mero utilizzo (es. carpire fraudolentemente il codice segreto con skimmer);\n- Nel caso di prelievi abusivi a casse continue bancarie mediante carte falsificate, la giurisprudenza ha ravvisato il solo reato speciale di frode informatica (art. 640-ter c.p.).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "039-01",
@@ -2346,7 +3645,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 039 · Reati contro l'onore e diffamazione telematica",
     "source_excerpt": "REATI CONTRO L'ONORE E COMUNICAZIONI TELEMATICHE\nSecondo il pacifico insegnamento giurisprudenziale, nei reati contro l'onore, escludendosi la necessaria ricorrenza di un animus injurandi vel diffamandi, il dolo ha natura generica e può assumere anche la forma del dolo eventuale, essendo sufficiente che l'agente faccia consapevolmente uso di espressioni idonee ad assumere portata offensiva secondo il comune significato sociale delle parole.\nDistinzione tra ingiuria e diffamazione online:\n- Ingiuria (art. 594 c.p., ora depenalizzato ad illecito civile): si configura quando la comunicazione offensiva è diretta personalmente alla persona offesa (es. email singola inviata solo alla vittima o chat privata 'one-to-one');\n- Diffamazione (art. 595 c.p.): si configura quando la comunicazione è inviata o resa accessibile a più persone (almeno due destinatari, forum web, newsgroup, bacheche social network, mailing list).\nLa diffamazione via Internet costituisce ipotesi aggravata ai sensi dell'art. 595 comma 3 c.p. (offesa con altro mezzo di pubblicità). L'esercizio del diritto di critica su Internet è tutelato dall'art. 21 Cost. purché rispetti i limiti di continenza verbale, verità e interesse pubblico.",
     "note": "Come stabilito, l'opzione corretta è la n. 2 del quiz originario ('Si, escludendosi la necessaria ricorrenza di un animus injurandi vel ditjamandi').",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "REATI CONTRO L'ONORE E COMUNICAZIONI TELEMATICHE\nSecondo il pacifico insegnamento giurisprudenziale, nei reati contro l'onore, ",
+        "highlight": false
+      },
+      {
+        "text": "escludendosi la necessaria ricorrenza di un animus injurandi",
+        "highlight": true
+      },
+      {
+        "text": " vel diffamandi, il dolo ha natura generica e può assumere anche la forma del dolo eventuale, essendo sufficiente che l'agente faccia consapevolmente uso di espressioni idonee ad assumere portata offensiva secondo il comune significato sociale delle parole.\nDistinzione tra ingiuria e diffamazione online:\n- Ingiuria (art. 594 c.p., ora depenalizzato ad illecito civile): si configura quando la comunicazione offensiva è diretta personalmente alla persona offesa (es. email singola inviata solo alla vittima o chat privata 'one-to-one');\n- Diffamazione (art. 595 c.p.): si configura quando la comunicazione è inviata o resa accessibile a più persone (almeno due destinatari, forum web, newsgroup, bacheche social network, mailing list).\nLa diffamazione via Internet costituisce ipotesi aggravata ai sensi dell'art. 595 comma 3 c.p. (offesa con altro mezzo di pubblicità). L'esercizio del diritto di critica su Internet è tutelato dall'art. 21 Cost. purché rispetti i limiti di continenza verbale, verità e interesse pubblico.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "040-01",
@@ -2371,7 +3684,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 040 · Metodologie delle forze di polizia",
     "source_excerpt": "LA LOTTA AL CYBERCRIME DELLE FORZE DI POLIZIA\nLa repressione del crimine informatico ha imposto alle forze di polizia un profondo rinnovamento metodologico e organizzativo, superando l'originario ritardo e la frammentazione degli interventi.\nPunti cardine del modello operativo:\n1) Capacità di attivare piani preordinati di intervento correlati agli allarmi del sistema informativo;\n2) Costruzione di una base dati di conoscenza sugli eventi criminosi manifestatisi, per comprendere i pattern comportamentali e calibrare le strategie di prevenzione;\n3) Interscambio dei dati in tempo reale tra le varie forze di polizia (Polizia di Stato, Carabinieri, Guardia di Finanza), secondo un'architettura cooperante nel rispetto delle diverse competenze;\n4) Forte integrazione con banche dati esterne, prima fra tutte lo SDI (Sistema di Indagine del Centro Elaborazione Dati del Dipartimento della Pubblica Sicurezza);\n5) Progressiva integrazione dello strumento informatico con le comunicazioni radio di servizio.\nIl sistema adotta un modello multiagenzia per garantire unicità di comando e supporto tecnologico avanzato agli operatori sul territorio (poliziotti di quartiere, pattuglie).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "LA LOTTA AL CYBERCRIME DELLE FORZE DI POLIZIA\nLa repressione del crimine informatico ha imposto alle forze di polizia un profondo rinnovamento metodologico e organizzativo, superando l'originario ritardo e la frammentazione degli interventi.\nPunti cardine del modello operativo:\n1) Capacità di attivare piani preordinati di intervento correlati agli allarmi del sistema informativo;\n2) Costruzione di una base dati di conoscenza sugli eventi criminosi manifestatisi, per comprendere i pattern comportamentali e calibrare le strategie di prevenzione;\n3) Interscambio dei dati in tempo reale tra le varie forze di polizia (Polizia di Stato, Carabinieri, Guardia di Finanza), secondo un'architettura cooperante nel rispetto delle diverse competenze;\n4) Forte integrazione con banche dati esterne, prima fra ",
+        "highlight": false
+      },
+      {
+        "text": "tutte",
+        "highlight": true
+      },
+      {
+        "text": " lo SDI (Sistema di Indagine del Centro Elaborazione Dati del Dipartimento della Pubblica Sicurezza);\n5) Progressiva integrazione dello strumento informatico con le comunicazioni radio di servizio.\nIl sistema adotta un modello multiagenzia per garantire unicità di comando e supporto tecnologico avanzato agli operatori sul territorio (poliziotti di quartiere, pattuglie).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "040-02",
@@ -2396,7 +3723,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 040 · Metodologie delle forze di polizia",
     "source_excerpt": "LA LOTTA AL CYBERCRIME DELLE FORZE DI POLIZIA\nLa repressione del crimine informatico ha imposto alle forze di polizia un profondo rinnovamento metodologico e organizzativo, superando l'originario ritardo e la frammentazione degli interventi.\nPunti cardine del modello operativo:\n1) Capacità di attivare piani preordinati di intervento correlati agli allarmi del sistema informativo;\n2) Costruzione di una base dati di conoscenza sugli eventi criminosi manifestatisi, per comprendere i pattern comportamentali e calibrare le strategie di prevenzione;\n3) Interscambio dei dati in tempo reale tra le varie forze di polizia (Polizia di Stato, Carabinieri, Guardia di Finanza), secondo un'architettura cooperante nel rispetto delle diverse competenze;\n4) Forte integrazione con banche dati esterne, prima fra tutte lo SDI (Sistema di Indagine del Centro Elaborazione Dati del Dipartimento della Pubblica Sicurezza);\n5) Progressiva integrazione dello strumento informatico con le comunicazioni radio di servizio.\nIl sistema adotta un modello multiagenzia per garantire unicità di comando e supporto tecnologico avanzato agli operatori sul territorio (poliziotti di quartiere, pattuglie).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "LA LOTTA AL CYBERCRIME DELLE FORZE DI POLIZIA\nLa repressione del crimine informatico ha imposto alle forze di polizia un profondo rinnovamento metodologico e organizzativo, superando l'originario ritardo e la frammentazione degli interventi.\nPunti cardine del modello operativo:\n1) Capacità di attivare piani preordinati di intervento correlati agli allarmi del sistema informativo;\n2) Costruzione di una base dati di conoscenza sugli eventi criminosi manifestatisi, per comprendere i pattern comportamentali e calibrare le strategie di prevenzione;\n3) Interscambio dei dati in tempo reale tra le varie forze di polizia (Polizia di Stato, Carabinieri, Guardia di Finanza), secondo un'architettura cooperante nel rispetto delle diverse competenze;\n4) Forte integrazione con banche dati esterne, prima fra ",
+        "highlight": false
+      },
+      {
+        "text": "tutte",
+        "highlight": true
+      },
+      {
+        "text": " lo SDI (Sistema di Indagine del Centro Elaborazione Dati del Dipartimento della Pubblica Sicurezza);\n5) Progressiva integrazione dello strumento informatico con le comunicazioni radio di servizio.\nIl sistema adotta un modello multiagenzia per garantire unicità di comando e supporto tecnologico avanzato agli operatori sul territorio (poliziotti di quartiere, pattuglie).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "041-01",
@@ -2421,7 +3762,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 041 · Analisi criminale e teoria di Shannon",
     "source_excerpt": "INVESTIGAZIONE INFORMATICA E ANALISI CRIMINALE\nNel campo investigativo, la gestione dei dati non può più affidarsi a strumenti cartacei tradizionali: l'enorme mole di dati grezzi nelle indagini complesse richiede l'applicazione di metodologie avanzate di 'analisi criminale'.\nIn questo contesto rileva la teoria di Shannon sugli influssi del rumore nel mascheramento del contenuto essenziale delle informazioni: nelle indagini il rischio maggiore è che gli elementi probatori decisivi restino sepolti nel rumore informativo circostante.\nL'analisi criminale costituisce un processo conoscitivo strutturato in: raccolta dati, elaborazione analitica e formulazione di conclusioni.\nI moderni software investigativi superano l'analisi puramente testuale introducendo diagrammi grafici attivi basati su grafi delle relazioni. L'analista rappresenta entità (persone, utenze, conti, veicoli) e relazioni (contatti telefonici, transazioni economiche, frequentazioni), costruendo una matrice logica che evidenzia i nodi portanti e le gerarchie delle reti criminali. La standardizzazione di queste piattaforme consente la condivisione e la validazione dei dati tra gli organi di polizia mondiali.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "INVESTIGAZIONE INFORMATICA E ANALISI CRIMINALE\nNel campo investigativo, la gestione dei dati non può più affidarsi a strumenti cartacei tradizionali: l'enorme mole di dati grezzi nelle indagini complesse richiede l'applicazione di metodologie avanzate di 'analisi criminale'.\nIn questo contesto rileva la teoria di ",
+        "highlight": false
+      },
+      {
+        "text": "Shannon",
+        "highlight": true
+      },
+      {
+        "text": " sugli influssi del rumore nel mascheramento del contenuto essenziale delle informazioni: nelle indagini il rischio maggiore è che gli elementi probatori decisivi restino sepolti nel rumore informativo circostante.\nL'analisi criminale costituisce un processo conoscitivo strutturato in: raccolta dati, elaborazione analitica e formulazione di conclusioni.\nI moderni software investigativi superano l'analisi puramente testuale introducendo diagrammi grafici attivi basati su grafi delle relazioni. L'analista rappresenta entità (persone, utenze, conti, veicoli) e relazioni (contatti telefonici, transazioni economiche, frequentazioni), costruendo una matrice logica che evidenzia i nodi portanti e le gerarchie delle reti criminali. La standardizzazione di queste piattaforme consente la condivisione e la validazione dei dati tra gli organi di polizia mondiali.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "042-01",
@@ -2446,7 +3801,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 042 · Operazioni storiche della Polizia Postale",
     "source_excerpt": "CASI OPERATIVI DELLA POLIZIA POSTALE E DELLE COMUNICAZIONI\nLa dispensa documenta le prime grandi operazioni storiche della Polizia Postale:\n- Marzo 1995 · Operazione Eclipse: avviata a fine 1994 con uffici investigativi statunitensi, ha scoperto un traffico telematico di immagini pedopornografiche; il responsabile, dotato di apparati di ultima generazione per connettersi a banche dati estere, è stato arrestato e condannato a 1 anno di reclusione;\n- Marzo 1995 · Operazione Telecom: sgominata un'associazione per delinquere che clonava seriali di utenze radiomobili per generare traffico verso servizi telefonici a pagamento gestiti dai complici;\n- Luglio 1998 · Operazione Rai-Gr1: indagine su attacco al sito web della Rai con sostituzione dell'audio del giornale radio con messaggi ostili a Microsoft; perquisito e denunciato l'hacker responsabile;\n- Settembre 1998 · Operazione Cathedral: operazione internazionale con polizie di 16 Nazioni contro la pedofilia online; prime tecniche di intercettazione telematica avanzata, 4 arresti dal NOPT;\n- Marzo 1999 · Operazione Bancomat: clonazione di codici segreti tramite distributori automatici manomessi;\n- Aprile 1999 · Operazione Fahrenheit (violazione copyright su opere letterarie online) e Operazione Crypto-TV (smart card duplicate per TV satellitare a pagamento, 160 denunciati);\n- Giugno 1999 · Operazione Bayou (pedopornografia) e Operazione Master X (duplicazione software, sequestrati oltre 14.000 CD-ROM e 5.000 floppy disk).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "CASI OPERATIVI DELLA POLIZIA POSTALE E DELLE COMUNICAZIONI\nLa dispensa documenta le prime grandi operazioni storiche della Polizia Postale:\n- Marzo 1995 · Operazione Eclipse: avviata a fine 1994 con uffici investigativi statunitensi, ha scoperto un traffico telematico di immagini pedopornografiche; il responsabile, dotato di apparati di ultima generazione per connettersi a banche dati estere, ",
+        "highlight": false
+      },
+      {
+        "text": "è stato",
+        "highlight": true
+      },
+      {
+        "text": " arrestato e condannato a 1 anno di reclusione;\n- Marzo 1995 · Operazione Telecom: sgominata un'associazione per delinquere che clonava seriali di utenze radiomobili per generare traffico verso servizi telefonici a pagamento gestiti dai complici;\n- Luglio 1998 · Operazione Rai-Gr1: indagine su attacco al sito web della Rai con sostituzione dell'audio del giornale radio con messaggi ostili a Microsoft; perquisito e denunciato l'hacker responsabile;\n- Settembre 1998 · Operazione Cathedral: operazione internazionale con polizie di 16 Nazioni contro la pedofilia online; prime tecniche di intercettazione telematica avanzata, 4 arresti dal NOPT;\n- Marzo 1999 · Operazione Bancomat: clonazione di codici segreti tramite distributori automatici manomessi;\n- Aprile 1999 · Operazione Fahrenheit (violazione copyright su opere letterarie online) e Operazione Crypto-TV (smart card duplicate per TV satellitare a pagamento, 160 denunciati);\n- Giugno 1999 · Operazione Bayou (pedopornografia) e Operazione Master X (duplicazione software, sequestrati oltre 14.000 CD-ROM e 5.000 floppy disk).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "042-02",
@@ -2471,7 +3840,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 042 · Operazioni storiche della Polizia Postale",
     "source_excerpt": "CASI OPERATIVI DELLA POLIZIA POSTALE E DELLE COMUNICAZIONI\nLa dispensa documenta le prime grandi operazioni storiche della Polizia Postale:\n- Marzo 1995 · Operazione Eclipse: avviata a fine 1994 con uffici investigativi statunitensi, ha scoperto un traffico telematico di immagini pedopornografiche; il responsabile, dotato di apparati di ultima generazione per connettersi a banche dati estere, è stato arrestato e condannato a 1 anno di reclusione;\n- Marzo 1995 · Operazione Telecom: sgominata un'associazione per delinquere che clonava seriali di utenze radiomobili per generare traffico verso servizi telefonici a pagamento gestiti dai complici;\n- Luglio 1998 · Operazione Rai-Gr1: indagine su attacco al sito web della Rai con sostituzione dell'audio del giornale radio con messaggi ostili a Microsoft; perquisito e denunciato l'hacker responsabile;\n- Settembre 1998 · Operazione Cathedral: operazione internazionale con polizie di 16 Nazioni contro la pedofilia online; prime tecniche di intercettazione telematica avanzata, 4 arresti dal NOPT;\n- Marzo 1999 · Operazione Bancomat: clonazione di codici segreti tramite distributori automatici manomessi;\n- Aprile 1999 · Operazione Fahrenheit (violazione copyright su opere letterarie online) e Operazione Crypto-TV (smart card duplicate per TV satellitare a pagamento, 160 denunciati);\n- Giugno 1999 · Operazione Bayou (pedopornografia) e Operazione Master X (duplicazione software, sequestrati oltre 14.000 CD-ROM e 5.000 floppy disk).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "CASI OPERATIVI DELLA POLIZIA POSTALE E DELLE COMUNICAZIONI\nLa dispensa documenta le prime grandi operazioni storiche della Polizia Postale:\n- ",
+        "highlight": false
+      },
+      {
+        "text": "Marzo",
+        "highlight": true
+      },
+      {
+        "text": " 1995 · Operazione Eclipse: avviata a fine 1994 con uffici investigativi statunitensi, ha scoperto un traffico telematico di immagini pedopornografiche; il responsabile, dotato di apparati di ultima generazione per connettersi a banche dati estere, è stato arrestato e condannato a 1 anno di reclusione;\n- Marzo 1995 · Operazione Telecom: sgominata un'associazione per delinquere che clonava seriali di utenze radiomobili per generare traffico verso servizi telefonici a pagamento gestiti dai complici;\n- Luglio 1998 · Operazione Rai-Gr1: indagine su attacco al sito web della Rai con sostituzione dell'audio del giornale radio con messaggi ostili a Microsoft; perquisito e denunciato l'hacker responsabile;\n- Settembre 1998 · Operazione Cathedral: operazione internazionale con polizie di 16 Nazioni contro la pedofilia online; prime tecniche di intercettazione telematica avanzata, 4 arresti dal NOPT;\n- Marzo 1999 · Operazione Bancomat: clonazione di codici segreti tramite distributori automatici manomessi;\n- Aprile 1999 · Operazione Fahrenheit (violazione copyright su opere letterarie online) e Operazione Crypto-TV (smart card duplicate per TV satellitare a pagamento, 160 denunciati);\n- Giugno 1999 · Operazione Bayou (pedopornografia) e Operazione Master X (duplicazione software, sequestrati oltre 14.000 CD-ROM e 5.000 floppy disk).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "042-03",
@@ -2496,7 +3879,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 042 · Operazioni storiche della Polizia Postale",
     "source_excerpt": "CASI OPERATIVI DELLA POLIZIA POSTALE E DELLE COMUNICAZIONI\nLa dispensa documenta le prime grandi operazioni storiche della Polizia Postale:\n- Marzo 1995 · Operazione Eclipse: avviata a fine 1994 con uffici investigativi statunitensi, ha scoperto un traffico telematico di immagini pedopornografiche; il responsabile, dotato di apparati di ultima generazione per connettersi a banche dati estere, è stato arrestato e condannato a 1 anno di reclusione;\n- Marzo 1995 · Operazione Telecom: sgominata un'associazione per delinquere che clonava seriali di utenze radiomobili per generare traffico verso servizi telefonici a pagamento gestiti dai complici;\n- Luglio 1998 · Operazione Rai-Gr1: indagine su attacco al sito web della Rai con sostituzione dell'audio del giornale radio con messaggi ostili a Microsoft; perquisito e denunciato l'hacker responsabile;\n- Settembre 1998 · Operazione Cathedral: operazione internazionale con polizie di 16 Nazioni contro la pedofilia online; prime tecniche di intercettazione telematica avanzata, 4 arresti dal NOPT;\n- Marzo 1999 · Operazione Bancomat: clonazione di codici segreti tramite distributori automatici manomessi;\n- Aprile 1999 · Operazione Fahrenheit (violazione copyright su opere letterarie online) e Operazione Crypto-TV (smart card duplicate per TV satellitare a pagamento, 160 denunciati);\n- Giugno 1999 · Operazione Bayou (pedopornografia) e Operazione Master X (duplicazione software, sequestrati oltre 14.000 CD-ROM e 5.000 floppy disk).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "CASI OPERATIVI DELLA POLIZIA POSTALE E DELLE COMUNICAZIONI\nLa dispensa documenta le prime grandi operazioni storiche della Polizia Postale:\n- Marzo 1995 · Operazione Eclipse: avviata a fine 1994 con uffici investigativi statunitensi, ha scoperto un traffico telematico di immagini pedopornografiche; il responsabile, dotato di apparati di ultima generazione per connettersi a banche dati estere, è stato arrestato e condannato a 1 anno di reclusione;\n- Marzo 1995 · Operazione Telecom: sgominata un'associazione per delinquere che clonava seriali di utenze radiomobili per generare traffico verso servizi telefonici a pagamento gestiti dai complici;\n- ",
+        "highlight": false
+      },
+      {
+        "text": "Luglio 1998",
+        "highlight": true
+      },
+      {
+        "text": " · Operazione Rai-Gr1: indagine su attacco al sito web della Rai con sostituzione dell'audio del giornale radio con messaggi ostili a Microsoft; perquisito e denunciato l'hacker responsabile;\n- Settembre 1998 · Operazione Cathedral: operazione internazionale con polizie di 16 Nazioni contro la pedofilia online; prime tecniche di intercettazione telematica avanzata, 4 arresti dal NOPT;\n- Marzo 1999 · Operazione Bancomat: clonazione di codici segreti tramite distributori automatici manomessi;\n- Aprile 1999 · Operazione Fahrenheit (violazione copyright su opere letterarie online) e Operazione Crypto-TV (smart card duplicate per TV satellitare a pagamento, 160 denunciati);\n- Giugno 1999 · Operazione Bayou (pedopornografia) e Operazione Master X (duplicazione software, sequestrati oltre 14.000 CD-ROM e 5.000 floppy disk).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "042-04",
@@ -2521,7 +3918,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 042 · Operazioni storiche della Polizia Postale",
     "source_excerpt": "CASI OPERATIVI DELLA POLIZIA POSTALE E DELLE COMUNICAZIONI\nLa dispensa documenta le prime grandi operazioni storiche della Polizia Postale:\n- Marzo 1995 · Operazione Eclipse: avviata a fine 1994 con uffici investigativi statunitensi, ha scoperto un traffico telematico di immagini pedopornografiche; il responsabile, dotato di apparati di ultima generazione per connettersi a banche dati estere, è stato arrestato e condannato a 1 anno di reclusione;\n- Marzo 1995 · Operazione Telecom: sgominata un'associazione per delinquere che clonava seriali di utenze radiomobili per generare traffico verso servizi telefonici a pagamento gestiti dai complici;\n- Luglio 1998 · Operazione Rai-Gr1: indagine su attacco al sito web della Rai con sostituzione dell'audio del giornale radio con messaggi ostili a Microsoft; perquisito e denunciato l'hacker responsabile;\n- Settembre 1998 · Operazione Cathedral: operazione internazionale con polizie di 16 Nazioni contro la pedofilia online; prime tecniche di intercettazione telematica avanzata, 4 arresti dal NOPT;\n- Marzo 1999 · Operazione Bancomat: clonazione di codici segreti tramite distributori automatici manomessi;\n- Aprile 1999 · Operazione Fahrenheit (violazione copyright su opere letterarie online) e Operazione Crypto-TV (smart card duplicate per TV satellitare a pagamento, 160 denunciati);\n- Giugno 1999 · Operazione Bayou (pedopornografia) e Operazione Master X (duplicazione software, sequestrati oltre 14.000 CD-ROM e 5.000 floppy disk).",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "CASI OPERATIVI DELLA POLIZIA POSTALE E DELLE COMUNICAZIONI\nLa dispensa documenta le prime grandi operazioni storiche della Polizia Postale:\n- Marzo 1995 · ",
+        "highlight": false
+      },
+      {
+        "text": "Operazione Eclipse",
+        "highlight": true
+      },
+      {
+        "text": ": avviata a fine 1994 con uffici investigativi statunitensi, ha scoperto un traffico telematico di immagini pedopornografiche; il responsabile, dotato di apparati di ultima generazione per connettersi a banche dati estere, è stato arrestato e condannato a 1 anno di reclusione;\n- Marzo 1995 · Operazione Telecom: sgominata un'associazione per delinquere che clonava seriali di utenze radiomobili per generare traffico verso servizi telefonici a pagamento gestiti dai complici;\n- Luglio 1998 · Operazione Rai-Gr1: indagine su attacco al sito web della Rai con sostituzione dell'audio del giornale radio con messaggi ostili a Microsoft; perquisito e denunciato l'hacker responsabile;\n- Settembre 1998 · Operazione Cathedral: operazione internazionale con polizie di 16 Nazioni contro la pedofilia online; prime tecniche di intercettazione telematica avanzata, 4 arresti dal NOPT;\n- Marzo 1999 · Operazione Bancomat: clonazione di codici segreti tramite distributori automatici manomessi;\n- Aprile 1999 · Operazione Fahrenheit (violazione copyright su opere letterarie online) e Operazione Crypto-TV (smart card duplicate per TV satellitare a pagamento, 160 denunciati);\n- Giugno 1999 · Operazione Bayou (pedopornografia) e Operazione Master X (duplicazione software, sequestrati oltre 14.000 CD-ROM e 5.000 floppy disk).",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "043-01",
@@ -2546,7 +3957,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 043 · Minori nella rete e Legge di Kranzberg",
     "source_excerpt": "I MINORI NELLA RETE E LA LEGGE DI KRANZBERG\nIl report 'Digital in 2019' di We Are Social (basato su 239 Paesi) ha evidenziato che oltre il 45% della popolazione mondiale (3,5 miliardi di persone) è utente attivo dei social media, con una crescita di oltre un milione di nuovi utenti al giorno, prevalentemente connessi tramite smartphone.\nLa globalizzazione e le ICT hanno annullato le distanze fisiche, ma hanno moltiplicato i rischi di vittimizzazione online, specialmente per i minori.\nA questo riguardo la prima 'legge di Kranzberg' rileva come \"la tecnologia non sia né buona né cattiva, ma al contempo non sia neppure neutrale\": le innovazioni tecnologiche non hanno un valore intrinseco, ma interagiscono con la società generando conseguenze impreviste in base ai valori e comportamenti di chi le impiega.\nL'assenza di un territorio fisico e la dimensione transnazionale superano i tradizionali limiti del tempus e locus commissi delicti. Per i minori i rischi principali riguardano l'adescamento online, il cyberbullismo e l'esposizione a contenuti inappropriati o sessualmente espliciti che possono rimanere intrappolati per sempre nella rete.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "I MINORI NELLA RETE E LA LEGGE DI KRANZBERG\nIl report 'Digital in 2019' di We Are Social (basato su 239 Paesi) ha evidenziato che oltre il 45% della popolazione mondiale (3,5 miliardi di persone) è utente attivo dei social media, con una crescita di oltre un milione di nuovi utenti al giorno, prevalentemente connessi tramite smartphone.\nLa globalizzazione e le ICT hanno annullato le distanze fisiche, ma hanno moltiplicato i rischi di vittimizzazione online, specialmente per i minori.\nA questo riguardo la prima 'legge di Kranzberg' rileva come \"",
+        "highlight": false
+      },
+      {
+        "text": "la tecnologia non sia né buona né cattiva",
+        "highlight": true
+      },
+      {
+        "text": ", ma al contempo non sia neppure neutrale\": le innovazioni tecnologiche non hanno un valore intrinseco, ma interagiscono con la società generando conseguenze impreviste in base ai valori e comportamenti di chi le impiega.\nL'assenza di un territorio fisico e la dimensione transnazionale superano i tradizionali limiti del tempus e locus commissi delicti. Per i minori i rischi principali riguardano l'adescamento online, il cyberbullismo e l'esposizione a contenuti inappropriati o sessualmente espliciti che possono rimanere intrappolati per sempre nella rete.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "043-02",
@@ -2571,7 +3996,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 043 · Minori nella rete e Legge di Kranzberg",
     "source_excerpt": "I MINORI NELLA RETE E LA LEGGE DI KRANZBERG\nIl report 'Digital in 2019' di We Are Social (basato su 239 Paesi) ha evidenziato che oltre il 45% della popolazione mondiale (3,5 miliardi di persone) è utente attivo dei social media, con una crescita di oltre un milione di nuovi utenti al giorno, prevalentemente connessi tramite smartphone.\nLa globalizzazione e le ICT hanno annullato le distanze fisiche, ma hanno moltiplicato i rischi di vittimizzazione online, specialmente per i minori.\nA questo riguardo la prima 'legge di Kranzberg' rileva come \"la tecnologia non sia né buona né cattiva, ma al contempo non sia neppure neutrale\": le innovazioni tecnologiche non hanno un valore intrinseco, ma interagiscono con la società generando conseguenze impreviste in base ai valori e comportamenti di chi le impiega.\nL'assenza di un territorio fisico e la dimensione transnazionale superano i tradizionali limiti del tempus e locus commissi delicti. Per i minori i rischi principali riguardano l'adescamento online, il cyberbullismo e l'esposizione a contenuti inappropriati o sessualmente espliciti che possono rimanere intrappolati per sempre nella rete.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "I MINORI NELLA RETE E LA LEGGE DI KRANZBERG\nIl report 'Digital in 2019' di We Are Social (basato su 239 Paesi) ha evidenziato che oltre il 45% della popolazione mondiale (3,5 miliardi di persone) è utente attivo dei social media, con una crescita di oltre un milione di nuovi utenti al giorno, prevalentemente connessi tramite smartphone.\nLa globalizzazione e le ICT hanno annullato le distanze fisiche, ma hanno moltiplicato i rischi di vittimizzazione online, specialmente per i minori.\nA questo riguardo la prima 'legge di Kranzberg' rileva come \"la tecnologia non sia né buona né cattiva, ma al contempo non sia neppure neutrale\": le innovazioni tecnologiche non hanno un valore intrinseco, ma interagiscono con la società generando conseguenze impreviste in base ai valori e comportamenti di chi le impiega.\nL'assenza di un territorio fisico e la dimensione transnazionale superano i tradizionali limiti del tempus e locus commissi delicti. Per i minori i rischi principali riguardano l'adescamento online, il cyberbullismo e l'esposizione a contenuti inappropriati o sessualmente espliciti che possono rimanere intrappolati per ",
+        "highlight": false
+      },
+      {
+        "text": "sempre",
+        "highlight": true
+      },
+      {
+        "text": " nella rete.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "044-01",
@@ -2596,7 +4035,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 044 · Trattati internazionali di tutela del minore",
     "source_excerpt": "EVOLUZIONE DELLA PROTEZIONE INTERNAZIONALE DEL MINORE\nLa tutela dei minori si è evoluta storicamente attraverso passaggi fondamentali:\n1) Convenzione sull'età minima di Ginevra (OIL, 1919): primo strumento internazionale in assoluto a tutela dei diritti dell'infanzia;\n2) Prima Carta dei diritti del bambino (1923), redatta da Eglantyne Jebb, fondatrice di Save the Children, adottata dall'Unione internazionale di soccorso ai fanciulli (UISE);\n3) Dichiarazione di Ginevra del 1924 (Società delle Nazioni), che tipizzò per la prima volta i diritti del minore considerandolo però mero 'oggetto' di protezione passiva;\n4) Dichiarazione Universale dei Diritti dell'Uomo (1948, art. 25 par. 2: cure e assistenza speciali all'infanzia);\n5) Dichiarazione ONU dei diritti del fanciullo (20 novembre 1959): primo approccio organico, valore politico-morale;\n6) Convenzione ONU sui diritti dell'infanzia e dell'adolescenza (New York, 20 novembre 1989 - CRC): primo trattato internazionale legalmente vincolante che riconosce il fanciullo come soggetto titolare di diritti, 'uomo in fieri' (art. 1 CRC: ogni essere umano sotto i 18 anni). Art. 13 tutela la libertà di espressione anche telematica; art. 17 la tutela da materiale dannoso; art. 34 la protezione da abusi sessuali.\n7) Dichiarazione di Stoccolma del 1996: definita la 'carta madre' nella lotta contro lo sfruttamento sessuale commerciale dei minori.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "EVOLUZIONE DELLA PROTEZIONE INTERNAZIONALE DEL MINORE\nLa tutela dei minori si è evoluta storicamente attraverso passaggi fondamentali:\n1) Convenzione sull'età minima di Ginevra (OIL, 1919): primo strumento internazionale in assoluto a tutela dei diritti dell'infanzia;\n2) Prima Carta dei diritti del bambino (1923), redatta da Eglantyne Jebb, fondatrice di Save the Children, adottata dall'Unione internazionale di soccorso ai fanciulli (UISE);\n3) Dichiarazione di Ginevra del 1924 (Società delle Nazioni), che tipizzò per la prima volta i diritti del minore considerandolo però mero 'oggetto' di protezione passiva;\n4) Dichiarazione Universale dei Diritti dell'Uomo (1948, art. 25 par. 2: cure e assistenza speciali all'infanzia);\n5) Dichiarazione ONU dei diritti del fanciullo (20 novembre 1959): primo approccio organico, valore politico-morale;\n6) Convenzione ONU sui diritti dell'infanzia e dell'adolescenza (New York, 20 novembre 1989 - CRC): primo trattato internazionale legalmente vincolante che riconosce il fanciullo come soggetto titolare di diritti, 'uomo in fieri' (art. 1 CRC: ogni essere umano sotto i 18 anni). Art. 13 tutela la libertà di espressione anche telematica; art. 17 la tutela da materiale dannoso; art. 34 la protezione da abusi sessuali.\n7) Dichiarazione di Stoccolma del 1996: definita la '",
+        "highlight": false
+      },
+      {
+        "text": "carta madre",
+        "highlight": true
+      },
+      {
+        "text": "' nella lotta contro lo sfruttamento sessuale commerciale dei minori.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "044-02",
@@ -2621,7 +4074,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 044 · Trattati internazionali di tutela del minore",
     "source_excerpt": "EVOLUZIONE DELLA PROTEZIONE INTERNAZIONALE DEL MINORE\nLa tutela dei minori si è evoluta storicamente attraverso passaggi fondamentali:\n1) Convenzione sull'età minima di Ginevra (OIL, 1919): primo strumento internazionale in assoluto a tutela dei diritti dell'infanzia;\n2) Prima Carta dei diritti del bambino (1923), redatta da Eglantyne Jebb, fondatrice di Save the Children, adottata dall'Unione internazionale di soccorso ai fanciulli (UISE);\n3) Dichiarazione di Ginevra del 1924 (Società delle Nazioni), che tipizzò per la prima volta i diritti del minore considerandolo però mero 'oggetto' di protezione passiva;\n4) Dichiarazione Universale dei Diritti dell'Uomo (1948, art. 25 par. 2: cure e assistenza speciali all'infanzia);\n5) Dichiarazione ONU dei diritti del fanciullo (20 novembre 1959): primo approccio organico, valore politico-morale;\n6) Convenzione ONU sui diritti dell'infanzia e dell'adolescenza (New York, 20 novembre 1989 - CRC): primo trattato internazionale legalmente vincolante che riconosce il fanciullo come soggetto titolare di diritti, 'uomo in fieri' (art. 1 CRC: ogni essere umano sotto i 18 anni). Art. 13 tutela la libertà di espressione anche telematica; art. 17 la tutela da materiale dannoso; art. 34 la protezione da abusi sessuali.\n7) Dichiarazione di Stoccolma del 1996: definita la 'carta madre' nella lotta contro lo sfruttamento sessuale commerciale dei minori.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "EVOLUZIONE DELLA PROTEZIONE ",
+        "highlight": false
+      },
+      {
+        "text": "INTERNAZIONALE DEL",
+        "highlight": true
+      },
+      {
+        "text": " MINORE\nLa tutela dei minori si è evoluta storicamente attraverso passaggi fondamentali:\n1) Convenzione sull'età minima di Ginevra (OIL, 1919): primo strumento internazionale in assoluto a tutela dei diritti dell'infanzia;\n2) Prima Carta dei diritti del bambino (1923), redatta da Eglantyne Jebb, fondatrice di Save the Children, adottata dall'Unione internazionale di soccorso ai fanciulli (UISE);\n3) Dichiarazione di Ginevra del 1924 (Società delle Nazioni), che tipizzò per la prima volta i diritti del minore considerandolo però mero 'oggetto' di protezione passiva;\n4) Dichiarazione Universale dei Diritti dell'Uomo (1948, art. 25 par. 2: cure e assistenza speciali all'infanzia);\n5) Dichiarazione ONU dei diritti del fanciullo (20 novembre 1959): primo approccio organico, valore politico-morale;\n6) Convenzione ONU sui diritti dell'infanzia e dell'adolescenza (New York, 20 novembre 1989 - CRC): primo trattato internazionale legalmente vincolante che riconosce il fanciullo come soggetto titolare di diritti, 'uomo in fieri' (art. 1 CRC: ogni essere umano sotto i 18 anni). Art. 13 tutela la libertà di espressione anche telematica; art. 17 la tutela da materiale dannoso; art. 34 la protezione da abusi sessuali.\n7) Dichiarazione di Stoccolma del 1996: definita la 'carta madre' nella lotta contro lo sfruttamento sessuale commerciale dei minori.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "046-01",
@@ -2646,7 +4113,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 046 · Normativa italiana, CNPO e filtraggio ISP",
     "source_excerpt": "TUTELA DEI MINORI NELL'ORDINAMENTO ITALIANO E CNPO\nNell'ordinamento italiano la tutela del minore trova fondamento costituzionale negli artt. 2 e 30 Cost. (diritti inviolabili nella famiglia), artt. 2 e 3 Cost. (uguaglianza e solidarietà) e art. 31 comma 2 Cost., secondo cui la Repubblica \"protegge l'infanzia e la gioventù, favorendo gli istituti necessari a tale scopo\", unitamente agli artt. 15 (riservatezza) e 32 (salute).\nSul piano penale, la Legge 3 agosto 1998 n. 269 ha introdotto le norme contro lo sfruttamento della prostituzione, della pornografia e del turismo sessuale a danno di minori, introducendo la 'pedofilia telematica'.\nLa Legge 6 febbraio 2006 n. 38 ha inasprito le sanzioni e istituito presso il Ministero dell'Interno il CNPO (Centro nazionale per il contrasto alla pedopornografia sulla rete internet) con il compito di monitorare costantemente i siti web e redigere una black list dei siti illegali da inibire.\nTale lista è condivisa con gli Internet Service Provider (ISP), i quali ai sensi dell'art. 14-ter e 14-quater hanno l'obbligo di segnalazione e di adozione di strumenti tecnologici di filtraggio.\nIl 2 gennaio del 2007 il Ministro delle comunicazioni Paolo Gentiloni ha firmato il decreto attuativo che stabilisce le modalità di filtraggio e la responsabilità amministrativa degli ISP inadempienti.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "TUTELA DEI MINORI NELL'ORDINAMENTO ITALIANO E CNPO\nNell'ordinamento italiano la tutela del minore trova fondamento costituzionale negli artt. 2 e 30 Cost. (diritti inviolabili nella famiglia), artt. 2 e 3 Cost. (uguaglianza e solidarietà) e art. 31 comma 2 Cost., secondo cui la Repubblica \"protegge l'infanzia e la gioventù, favorendo gli istituti necessari a tale scopo\", unitamente agli artt. 15 (riservatezza) e 32 (salute).\nSul piano penale, la Legge 3 agosto 1998 n. 269 ha introdotto le norme contro lo sfruttamento della prostituzione, della pornografia e del turismo sessuale a danno di minori, introducendo la 'pedofilia telematica'.\nLa Legge 6 febbraio 2006 n. 38 ha inasprito le sanzioni e istituito presso il Ministero dell'Interno il CNPO (",
+        "highlight": false
+      },
+      {
+        "text": "Centro nazionale per il contrasto alla pedopornografia sulla rete internet",
+        "highlight": true
+      },
+      {
+        "text": ") con il compito di monitorare costantemente i siti web e redigere una black list dei siti illegali da inibire.\nTale lista è condivisa con gli Internet Service Provider (ISP), i quali ai sensi dell'art. 14-ter e 14-quater hanno l'obbligo di segnalazione e di adozione di strumenti tecnologici di filtraggio.\nIl 2 gennaio del 2007 il Ministro delle comunicazioni Paolo Gentiloni ha firmato il decreto attuativo che stabilisce le modalità di filtraggio e la responsabilità amministrativa degli ISP inadempienti.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "046-02",
@@ -2671,7 +4152,21 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 046 · Normativa italiana, CNPO e filtraggio ISP",
     "source_excerpt": "TUTELA DEI MINORI NELL'ORDINAMENTO ITALIANO E CNPO\nNell'ordinamento italiano la tutela del minore trova fondamento costituzionale negli artt. 2 e 30 Cost. (diritti inviolabili nella famiglia), artt. 2 e 3 Cost. (uguaglianza e solidarietà) e art. 31 comma 2 Cost., secondo cui la Repubblica \"protegge l'infanzia e la gioventù, favorendo gli istituti necessari a tale scopo\", unitamente agli artt. 15 (riservatezza) e 32 (salute).\nSul piano penale, la Legge 3 agosto 1998 n. 269 ha introdotto le norme contro lo sfruttamento della prostituzione, della pornografia e del turismo sessuale a danno di minori, introducendo la 'pedofilia telematica'.\nLa Legge 6 febbraio 2006 n. 38 ha inasprito le sanzioni e istituito presso il Ministero dell'Interno il CNPO (Centro nazionale per il contrasto alla pedopornografia sulla rete internet) con il compito di monitorare costantemente i siti web e redigere una black list dei siti illegali da inibire.\nTale lista è condivisa con gli Internet Service Provider (ISP), i quali ai sensi dell'art. 14-ter e 14-quater hanno l'obbligo di segnalazione e di adozione di strumenti tecnologici di filtraggio.\nIl 2 gennaio del 2007 il Ministro delle comunicazioni Paolo Gentiloni ha firmato il decreto attuativo che stabilisce le modalità di filtraggio e la responsabilità amministrativa degli ISP inadempienti.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "TUTELA DEI MINORI NELL'ORDINAMENTO ITALIANO E CNPO\nNell'ordinamento italiano la tutela del minore trova fondamento costituzionale negli artt. 2 e 30 Cost. (diritti inviolabili nella famiglia), artt. 2 e 3 Cost. (uguaglianza e solidarietà) e art. 31 comma 2 Cost., secondo cui la Repubblica \"protegge l'infanzia e la gioventù, favorendo gli istituti necessari a tale scopo\", unitamente agli artt. 15 (riservatezza) e 32 (salute).\nSul piano penale, la Legge 3 agosto 1998 n. 269 ha introdotto le norme contro lo sfruttamento della prostituzione, della pornografia e del turismo sessuale a danno di minori, introducendo la 'pedofilia telematica'.\nLa Legge 6 febbraio 2006 n. 38 ha inasprito le sanzioni e istituito presso il Ministero dell'Interno il CNPO (Centro nazionale per il contrasto alla pedopornografia sulla rete internet) con il compito di monitorare costantemente i siti web e redigere una black list dei siti illegali da inibire.\nTale lista è condivisa con gli Internet Service Provider (ISP), i quali ai sensi dell'art. 14-ter e 14-quater hanno l'obbligo di segnalazione e di adozione di strumenti tecnologici di filtraggio.\nIl 2 gennaio del 2007 il Ministro delle comunicazioni ",
+        "highlight": false
+      },
+      {
+        "text": "Paolo Gentiloni",
+        "highlight": true
+      },
+      {
+        "text": " ha firmato il decreto attuativo che stabilisce le modalità di filtraggio e la responsabilità amministrativa degli ISP inadempienti.",
+        "highlight": false
+      }
+    ]
   },
   {
     "id": "046-03",
@@ -2696,6 +4191,20 @@ window.UNIQUIZ_DATA["cybercrime"].closed = [
     "source_label": "Dispensa ufficiale di Cybercrime · Lezione 046 · Normativa italiana, CNPO e filtraggio ISP",
     "source_excerpt": "TUTELA DEI MINORI NELL'ORDINAMENTO ITALIANO E CNPO\nNell'ordinamento italiano la tutela del minore trova fondamento costituzionale negli artt. 2 e 30 Cost. (diritti inviolabili nella famiglia), artt. 2 e 3 Cost. (uguaglianza e solidarietà) e art. 31 comma 2 Cost., secondo cui la Repubblica \"protegge l'infanzia e la gioventù, favorendo gli istituti necessari a tale scopo\", unitamente agli artt. 15 (riservatezza) e 32 (salute).\nSul piano penale, la Legge 3 agosto 1998 n. 269 ha introdotto le norme contro lo sfruttamento della prostituzione, della pornografia e del turismo sessuale a danno di minori, introducendo la 'pedofilia telematica'.\nLa Legge 6 febbraio 2006 n. 38 ha inasprito le sanzioni e istituito presso il Ministero dell'Interno il CNPO (Centro nazionale per il contrasto alla pedopornografia sulla rete internet) con il compito di monitorare costantemente i siti web e redigere una black list dei siti illegali da inibire.\nTale lista è condivisa con gli Internet Service Provider (ISP), i quali ai sensi dell'art. 14-ter e 14-quater hanno l'obbligo di segnalazione e di adozione di strumenti tecnologici di filtraggio.\nIl 2 gennaio del 2007 il Ministro delle comunicazioni Paolo Gentiloni ha firmato il decreto attuativo che stabilisce le modalità di filtraggio e la responsabilità amministrativa degli ISP inadempienti.",
     "note": "",
-    "type": "closed"
+    "type": "closed",
+    "source_segments": [
+      {
+        "text": "TUTELA DEI MINORI NELL'ORDINAMENTO ITALIANO E CNPO\nNell'ordinamento italiano la tutela del minore trova fondamento costituzionale negli artt. 2 e 30 Cost. (diritti inviolabili nella famiglia), artt. 2 e 3 Cost. (uguaglianza e solidarietà) e art. ",
+        "highlight": false
+      },
+      {
+        "text": "31 comma 2 Cost",
+        "highlight": true
+      },
+      {
+        "text": "., secondo cui la Repubblica \"protegge l'infanzia e la gioventù, favorendo gli istituti necessari a tale scopo\", unitamente agli artt. 15 (riservatezza) e 32 (salute).\nSul piano penale, la Legge 3 agosto 1998 n. 269 ha introdotto le norme contro lo sfruttamento della prostituzione, della pornografia e del turismo sessuale a danno di minori, introducendo la 'pedofilia telematica'.\nLa Legge 6 febbraio 2006 n. 38 ha inasprito le sanzioni e istituito presso il Ministero dell'Interno il CNPO (Centro nazionale per il contrasto alla pedopornografia sulla rete internet) con il compito di monitorare costantemente i siti web e redigere una black list dei siti illegali da inibire.\nTale lista è condivisa con gli Internet Service Provider (ISP), i quali ai sensi dell'art. 14-ter e 14-quater hanno l'obbligo di segnalazione e di adozione di strumenti tecnologici di filtraggio.\nIl 2 gennaio del 2007 il Ministro delle comunicazioni Paolo Gentiloni ha firmato il decreto attuativo che stabilisce le modalità di filtraggio e la responsabilità amministrativa degli ISP inadempienti.",
+        "highlight": false
+      }
+    ]
   }
 ];

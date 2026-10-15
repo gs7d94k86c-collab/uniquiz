@@ -2,3 +2,5 @@
 *.swp
 *~
 scratch/
+*.pdf
+*.txt
