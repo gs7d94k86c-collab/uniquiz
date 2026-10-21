@@ -4734,24 +4734,24 @@ window.DIRITTO_PROCESSUALE_CIVILE_CLOSED = window.UNIQUIZ_DATA["diritto_processu
       "attraverso un avviso da notificare a ciascuno di essi entro 10 giorni dal pignoramento"
     ],
     "accepted_indices": [
-      0
+      1
     ],
-    "primary_index": 0,
-    "exam_answer": "attraverso un avviso da notificare a ciascuno di essi entro 20 giorni dal pignoramento",
-    "deep_dive": "Procedente deve notificare loro un avviso contenente l’indicazione del creditore pignorante, del credito per il quale si procede, del titolo e delle cose pignorate. L’avviso consente ai creditori di intervenire nell’espropriazione. Ai sensi dell’art.",
+    "primary_index": 1,
+    "exam_answer": "attraverso un avviso da notificare a ciascuno di essi entro 5 giorni dal pignoramento",
+    "deep_dive": "Ai sensi dell'art. 498, comma 2, c.p.c. (Avviso ai creditori iscritti), i creditori che sui beni pignorati hanno un diritto di prelazione risultante da pubblici registri devono essere avvertiti dell'espropriazione affinché possano intervenire: a tal fine il creditore pignorante deve notificare a ciascuno di essi un apposito avviso entro il termine di 5 giorni dal pignoramento (termine ordinatorio in difetto del quale il giudice non può provvedere sull'istanza di assegnazione o di vendita).",
     "source_label": "Lezione 049 · Slide ufficiali (Prof.ssa Rosa Foresta)",
-    "source_excerpt": "L’ESPROPRIAZIONE\nIN GENERALE\n\nL’INTERVENTO DEI CREDITORI\nI creditori che hanno, sui beni pignorati, un diritto di prelazione\nrisultante da pubblici registri (ossia un diritto ad essere preferiti\nrispetto  ad  altri  creditori)  devono  essere  avvertiti\ndell’espropriazione.\nIn particolare entro 5 giorni dal pignoramento, il creditore\nprocedente deve notificare loro un avviso contenente l’indicazione\ndel creditore pignorante, del credito per il quale si procede, del\ntitolo e delle cose pignorate.\nL’avviso consente ai creditori di intervenire nell’espropriazione.\n\nAi sensi dell’art. 499 c.p.c., l’intervento può essere effettuato:\n dai creditori che nei confronti del debitore hanno un credito\nfondato su titolo esecutivo;\n dai creditori che al momento del pignoramento avevano\neseguito un sequestro sui beni pignorati;\n dai creditori che al momento del pignoramento avevano un\ndiritto di pegno o di prelazione risultante da pubblici registri;\n\n dai creditori che al momento del pignoramento erano titolari\ndi un credito di somma di denaro risultante da scritture\ncontabili.\nIn linea generale, quindi, non è consentito l’intervento ai creditori\nsforniti di titolo esecutivo.\nL’atto di intervento  (ricorso) deve essere depositato prima che\nsia tenuta l’udienza in cui è disposta la vendita o l’assegnazione.\nDeve contenere l’indicazione del credito e quella del titolo stesso,\nla domanda per partecipare alla distribuzione della somma ricavata\ne la dichiarazione di residenza e l’elezione di domicilio nel\ncomune in cui ha sede il giudice dell’esecuzione.",
+    "source_excerpt": "INTERVENTO DEI CREDITORI\nI creditori che hanno, sui beni pignorati, un diritto di prelazione risultante da pubblici registri devono essere avvertiti dell’espropriazione.\nIn particolare entro 5 giorni dal pignoramento, il creditore procedente deve notificare loro un avviso contenente l’indicazione del creditore pignorante, del credito per il quale si procede, del titolo e delle cose pignorate (art. 498 c.p.c.).\nL’avviso consente ai creditori di intervenire nell’espropriazione.",
     "source_segments": [
       {
-        "text": "L’ESPROPRIAZIONE\nIN GENERALE\n\nL’INTERVENTO DEI CREDITORI\nI creditori che hanno, sui beni pignorati, un diritto di prelazione\nrisultante da pubblici registri (ossia un diritto ad essere preferiti\nrispetto  ad  altri  creditori)  devono  essere  avvertiti\ndell’espropriazione.\nIn particolare entro 5 giorni dal pignoramento, il ",
+        "text": "INTERVENTO DEI CREDITORI\nI creditori che hanno, sui beni pignorati, un diritto di prelazione risultante da pubblici registri devono essere avvertiti dell’espropriazione.\nIn particolare ",
         "highlight": false
       },
       {
-        "text": "creditore",
+        "text": "entro 5 giorni dal pignoramento, il creditore procedente deve notificare loro un avviso",
         "highlight": true
       },
       {
-        "text": "\nprocedente deve notificare loro un avviso contenente l’indicazione\ndel creditore pignorante, del credito per il quale si procede, del\ntitolo e delle cose pignorate.\nL’avviso consente ai creditori di intervenire nell’espropriazione.\n\nAi sensi dell’art. 499 c.p.c., l’intervento può essere effettuato:\n dai creditori che nei confronti del debitore hanno un credito\nfondato su titolo esecutivo;\n dai creditori che al momento del pignoramento avevano\neseguito un sequestro sui beni pignorati;\n dai creditori che al momento del pignoramento avevano un\ndiritto di pegno o di prelazione risultante da pubblici registri;\n\n dai creditori che al momento del pignoramento erano titolari\ndi un credito di somma di denaro risultante da scritture\ncontabili.\nIn linea generale, quindi, non è consentito l’intervento ai creditori\nsforniti di titolo esecutivo.\nL’atto di intervento  (ricorso) deve essere depositato prima che\nsia tenuta l’udienza in cui è disposta la vendita o l’assegnazione.\nDeve contenere l’indicazione del credito e quella del titolo stesso,\nla domanda per partecipare alla distribuzione della somma ricavata\ne la dichiarazione di residenza e l’elezione di domicilio nel\ncomune in cui ha sede il giudice dell’esecuzione.",
+        "text": " contenente l’indicazione del creditore pignorante, del credito per il quale si procede, del titolo e delle cose pignorate (art. 498 c.p.c.).\nL’avviso consente ai creditori di intervenire nell’espropriazione.",
         "highlight": false
       }
     ],
@@ -6298,24 +6298,24 @@ window.DIRITTO_PROCESSUALE_CIVILE_CLOSED = window.UNIQUIZ_DATA["diritto_processu
       "se il procedimento non è iniziato nel termine perentorio il provvedimento cautelare diviene definitivo"
     ],
     "accepted_indices": [
-      1
+      2
     ],
-    "primary_index": 1,
-    "exam_answer": "se il procedimento non è iniziato nel termine perentorio o, se successivamente al suo inizio si estingue, il provvedimento cautelare viene sospeso",
-    "deep_dive": "Trattazione del procedimento (art. 669 ter). Se invece il ricorso cautelare viene presentato nel corso di un processo, la domanda deve essere proposta al giudice davanti al quale il processo si svolge. In particolare:  se la causa pende davanti al tribunale, la domanda si propone al giudice istruttore o, se questi non è ancora designato o il giudizio è sospeso o interrotto, al Presidente;  se la causa pende davanti al giudice di pace la domanda si propone al tribunale;  se la causa pende dinanzi alla Corte D’Appello, poiché non esiste il giudice istruttore, la domanda deve essere proposta al collegio in camera di consiglio;  se la controversia è oggetto di clausola compromissoria o se è pendente il giudizio arbitrale, la domanda si propone al giudice che sarebbe stato competente a conoscere del merito. PROCEDIMENTI CAUTELARI Presentato il ricorso, il giudice, sentite le parti, procede nel modo che ritiene più opportuno agli atti di istruzione indispensabili in relazione ai presupposti e ai fini del provvedimento richiesto, e provvede con ordinanza all’accoglimento o al rigetto della domanda. Il procedimento cautelare, quindi, può concludersi con un provvedimento di diniego o di accoglimento della tutela cautelare. Il diniego della tutela richiesta può essere determinato da un’ordinanza con la quale il giudice dichiara la propria incompetenza (e il soggetto può riproporre domanda davanti al giudice competente) o da un’ ordinanza di rigetto del ricorso nel merito, che non preclude al ricorrente di riproporre l’istanza cautelare quando si verifichino mutamenti delle circostanze o vengano dedotte nuove ragioni di fatto o di diritto. Se l’ordinanza di incompetenza o di rigetto è pronunciata prima dell’inizio della causa di merito, con essa il giudice provvede definitivamente sulle spese del procedimento cautelare; la condanna alle spese è immediatamente esecutiva. Invece, in caso di accoglimento del ricorso cautelare, il giudice, se la domanda è proposta prima dell’inizio della causa di merito, fissa un termine perentorio (decorrente dalla pronuncia dell’ordinanza se avvenuta in udienza, o dalla comunicazione alle parti se avvenuta fuori udienza) per l’inizio della causa di merito. Tale termine non può essere superiore a 60 gg.",
+    "primary_index": 2,
+    "exam_answer": "se il procedimento non è iniziato nel termine perentorio o, se successivamente al suo inizio si estingue, il provvedimento cautelare divente inefficace",
+    "deep_dive": "Ai sensi dell'art. 669-novies, comma 1, c.p.c. (Inefficacia del provvedimento cautelare), se il procedimento di merito non è iniziato nel termine perentorio fissato dal giudice (o in mancanza entro 60 giorni) ovvero se successivamente al suo inizio si estingue, il provvedimento cautelare perde la sua efficacia (diviene inefficace), fatta eccezione per i provvedimenti a strumentalità attenuata (provvedimenti d'urgenza ex art. 700 c.p.c., denunce di nuova opera o danno temuto e altri provvedimenti anticipatori ex art. 669-octies co. 6 c.p.c.).",
     "source_label": "Lezione 065 · Slide ufficiali (Prof.ssa Rosa Foresta)",
-    "source_excerpt": "PROCEDIMENTI\nCAUTELARI\n\nINEFFICACIA DEL PROVVEDIMENTO\nAi sensi dell’art. 669 novies se il procedimento non è iniziato nel\ntermine perentorio o, se successivamente al suo inizio si estingue,\nil provvedimento cautelare dovente  inefficace, tranne per i casi\nappena evidenziati.\nIn entrambe le ipotesi, il giudice che ha emesso il provvedimento,\nsu ricorso della parte interessata, convoca le parti e dichiara, se\nnon c’è contestazione, con ordinanza avente efficacia esecutiva\nche il provvedimento è divenuto inefficace e dà le disposizioni\nnecessarie per ripristinare la situazione precedente.\n\nIn caso di contestazione, l’ufficio giudiziario al quale appartiene il\ngiudice che ha emesso il provvedimento cautelare decide con\nsentenza provvisoriamente esecutiva.\nIl provvedimento cautelare perde efficacia anche quando non è\nstata versata la cauzione (l’art. 669 undecies prevede che, con il\nprovvedimento di accoglienza o di conferma o di modifica, il\ngiudice può imporre all’istante, valutata ogni circostanza, una\ncauzione per l’eventuale risarcimento danni) o se con sentenza è\nstato dichiarato inesistente il diritto a cautela del quale era stato\nconcesso.\n\nNel  corso  dell’istruzione  il  giudice  può,  su  istanza  di  parte,\nmodificare o revocare con ordinanza il provvedimento cautelare,\nanche se emesso anteriormente alla causa, non solo quando si sono\nverificati  fatti  nuovi  che  giustifichino  una  modifica  del\nprovvedimento, ma anche quando si alleghino elementi di fatto,\nanche  anteriori  all’emissione  del  provvedimento  da  revocare,\npurché di essi si sia avuta conoscenza in epoca successiva al\nprovvedimento stesso (in tal caso l’istante deve fornire la prova\ndel momento in cui ne è venuto a conoscenza).\nL’istanza di revoca o modifica non può essere proposta se sono\nancora pendenti i termini per il reclamo.",
+    "source_excerpt": "INEFFICACIA DEL PROVVEDIMENTO\nAi sensi dell’art. 669 novies se il procedimento non è iniziato nel termine perentorio o, se successivamente al suo inizio si estingue, il provvedimento cautelare dovente inefficace, tranne per i casi appena evidenziati.\nIn entrambe le ipotesi, il giudice che ha emesso il provvedimento, su ricorso della parte interessata, convoca le parti e dichiara, se non c’è contestazione, con ordinanza avente efficacia esecutiva che il provvedimento è divenuto inefficace e dà le disposizioni necessarie per ripristinare la situazione precedente.",
     "source_segments": [
       {
-        "text": "PROCEDIMENTI\nCAUTELARI\n\nINEFFICACIA DEL PROVVEDIMENTO\nAi sensi dell’art. 669 novies ",
+        "text": "INEFFICACIA DEL PROVVEDIMENTO\nAi sensi dell’art. 669 novies ",
         "highlight": false
       },
       {
-        "text": "se il procedimento non è iniziato nel\ntermine",
+        "text": "se il procedimento non è iniziato nel termine perentorio o, se successivamente al suo inizio si estingue, il provvedimento cautelare dovente inefficace",
         "highlight": true
       },
       {
-        "text": " perentorio o, se successivamente al suo inizio si estingue,\nil provvedimento cautelare dovente  inefficace, tranne per i casi\nappena evidenziati.\nIn entrambe le ipotesi, il giudice che ha emesso il provvedimento,\nsu ricorso della parte interessata, convoca le parti e dichiara, se\nnon c’è contestazione, con ordinanza avente efficacia esecutiva\nche il provvedimento è divenuto inefficace e dà le disposizioni\nnecessarie per ripristinare la situazione precedente.\n\nIn caso di contestazione, l’ufficio giudiziario al quale appartiene il\ngiudice che ha emesso il provvedimento cautelare decide con\nsentenza provvisoriamente esecutiva.\nIl provvedimento cautelare perde efficacia anche quando non è\nstata versata la cauzione (l’art. 669 undecies prevede che, con il\nprovvedimento di accoglienza o di conferma o di modifica, il\ngiudice può imporre all’istante, valutata ogni circostanza, una\ncauzione per l’eventuale risarcimento danni) o se con sentenza è\nstato dichiarato inesistente il diritto a cautela del quale era stato\nconcesso.\n\nNel  corso  dell’istruzione  il  giudice  può,  su  istanza  di  parte,\nmodificare o revocare con ordinanza il provvedimento cautelare,\nanche se emesso anteriormente alla causa, non solo quando si sono\nverificati  fatti  nuovi  che  giustifichino  una  modifica  del\nprovvedimento, ma anche quando si alleghino elementi di fatto,\nanche  anteriori  all’emissione  del  provvedimento  da  revocare,\npurché di essi si sia avuta conoscenza in epoca successiva al\nprovvedimento stesso (in tal caso l’istante deve fornire la prova\ndel momento in cui ne è venuto a conoscenza).\nL’istanza di revoca o modifica non può essere proposta se sono\nancora pendenti i termini per il reclamo.",
+        "text": ", tranne per i casi appena evidenziati.\nIn entrambe le ipotesi, il giudice che ha emesso il provvedimento, su ricorso della parte interessata, convoca le parti e dichiara, se non c’è contestazione, con ordinanza avente efficacia esecutiva che il provvedimento è divenuto inefficace e dà le disposizioni necessarie per ripristinare la situazione precedente.",
         "highlight": false
       }
     ],
@@ -7216,24 +7216,24 @@ window.DIRITTO_PROCESSUALE_CIVILE_CLOSED = window.UNIQUIZ_DATA["diritto_processu
       "rappresenta il momento in cui i coniugi sono autorizzati a vivere separati"
     ],
     "accepted_indices": [
-      0
+      1
     ],
-    "primary_index": 0,
-    "exam_answer": "rappresenta il momento in cui avviene la costituzione in giudizio dell’attore",
-    "deep_dive": "Congiunto rappresenta un’abbreviazione del procedimento giudiziale e per tale motivo verrà trattato in seguito. IL PROCEDIMENTO BIFASICO I giudizi di separazione e divorzio sono caratterizzati da una struttura procedimentale c.d.",
+    "primary_index": 1,
+    "exam_answer": "non rappresenta il momento in cui avviene la costituzione in giudizio dell’attore",
+    "deep_dive": "Nel procedimento speciale di separazione giudiziale e di divorzio (disciplina bifasica ex artt. 706 e 709 c.p.c. e art. 4 L. 898/1970 illustrata nelle dispense), il deposito del ricorso introduttivo avvia la fase presidenziale ma NON rappresenta il momento in cui avviene la costituzione in giudizio dell'attore nella fase contenziosa: come precisato anche nella Lezione 77, l'attore si considera formalmente costituito nel giudizio contenzioso solo con il successivo deposito della memoria integrativa ex art. 709, comma 3, c.p.c.",
     "source_label": "Lezione 075 · Slide ufficiali (Prof.ssa Rosa Foresta)",
-    "source_excerpt": "LA SEPARAZIONE\nPERSONALE DEI\nCONIUGI E IL\nDIVORZIO\n\nIL CONTENUTO DELL’ATTO INTRODUTTIVO\nL’atto introduttivo dei procedimenti di separazione e divorzio,\ndisciplinato dall’art. 706 c.p.c. e dall’art. 4 della L. 898/70, è il\nricorso, il deposito del quale non rappresenta il momento in cui\navviene la costituzione in giudizio dell’attore.\nIl  ricorso  deve  contenere  l’esposizione  dei  fatti  sui  quali  la\ndomanda è fondata e, per il divorzio, l’indicazione delle norme di\nlegge applicabili, con riferimento ai casi in cui il divorzio è\nconsentito.\n\nLa fase contenziosa avrà inizio solamente con l’udienza davanti al\ngiudice  istruttore  e  non  sarà  in  alcun  modo  pregiudicata  dal\ncontenuto dell’atto introduttivo essendo possibile successivamente\nproporre domande accessorie alla separazione.\nLe  norme  summenzionate  prescrivono  dunque  il  contenuto\nminimo  dell’atto  introduttivo  che,  come  osservato,  non  deve\ncontenere gli elementi propri della domanda giudiziale essendo un\natto di mero impulso processuale.\nL’ultimo comma dell’art. 706 c.p.c. precisa che nel ricorso deve\nessere indicata l’esistenza di figli di entrambi i coniugi: l’omessa\nindicazione, comunque, non costituisce causa di nullità dell’atto\nintroduttivo.\n\nInoltre, al ricorso devono essere allegate le ultime dichiarazioni\ndei redditi presentate dai coniugi (nessuna sanzione è prevista per\nla mancata allegazione).\nÈ possibile formulare nel primo atto difensivo anche le istanze\nistruttorie (es. indagini polizia tributaria, CTU, ascolto minore\necc.)  su  cui  fondare  le  domande  svolte  o  rimandare  tale\nindicazione alla fase davanti al G.I. con le memorie ex art. 183,\ncomma 6, c.p.c. tenendo conto delle possibili preclusioni.",
+    "source_excerpt": "FASE INTRODUTTIVA\nL'atto introduttivo dei giudizi di separazione e divorzio, disciplinato dall’art. 706 c.p.c. e dall’art. 4 della L. 898/70, è il ricorso, il deposito del quale non rappresenta il momento in cui avviene la costituzione in giudizio dell’attore.\nCon riguardo alla memoria integrativa, da depositare entro il termine stabilito nel provvedimento presidenziale, l’attore si considera costituito.",
     "source_segments": [
       {
-        "text": "LA SEPARAZIONE\nPERSONALE DEI\nCONIUGI E IL\nDIVORZIO\n\nIL CONTENUTO DELL’ATTO INTRODUTTIVO\nL’atto introduttivo dei procedimenti di separazione e divorzio,\ndisciplinato dall’art. 706 c.p.c. e dall’art. 4 della L. 898/70, è il\nricorso, il deposito del quale non ",
+        "text": "FASE INTRODUTTIVA\nL'atto introduttivo dei giudizi di separazione e divorzio, disciplinato dall’art. 706 c.p.c. e dall’art. 4 della L. 898/70, ",
         "highlight": false
       },
       {
-        "text": "rappresenta il momento in cui\navviene la costituzione in giudizio dell’attore",
+        "text": "è il ricorso, il deposito del quale non rappresenta il momento in cui avviene la costituzione in giudizio dell’attore",
         "highlight": true
       },
       {
-        "text": ".\nIl  ricorso  deve  contenere  l’esposizione  dei  fatti  sui  quali  la\ndomanda è fondata e, per il divorzio, l’indicazione delle norme di\nlegge applicabili, con riferimento ai casi in cui il divorzio è\nconsentito.\n\nLa fase contenziosa avrà inizio solamente con l’udienza davanti al\ngiudice  istruttore  e  non  sarà  in  alcun  modo  pregiudicata  dal\ncontenuto dell’atto introduttivo essendo possibile successivamente\nproporre domande accessorie alla separazione.\nLe  norme  summenzionate  prescrivono  dunque  il  contenuto\nminimo  dell’atto  introduttivo  che,  come  osservato,  non  deve\ncontenere gli elementi propri della domanda giudiziale essendo un\natto di mero impulso processuale.\nL’ultimo comma dell’art. 706 c.p.c. precisa che nel ricorso deve\nessere indicata l’esistenza di figli di entrambi i coniugi: l’omessa\nindicazione, comunque, non costituisce causa di nullità dell’atto\nintroduttivo.\n\nInoltre, al ricorso devono essere allegate le ultime dichiarazioni\ndei redditi presentate dai coniugi (nessuna sanzione è prevista per\nla mancata allegazione).\nÈ possibile formulare nel primo atto difensivo anche le istanze\nistruttorie (es. indagini polizia tributaria, CTU, ascolto minore\necc.)  su  cui  fondare  le  domande  svolte  o  rimandare  tale\nindicazione alla fase davanti al G.I. con le memorie ex art. 183,\ncomma 6, c.p.c. tenendo conto delle possibili preclusioni.",
+        "text": ".\nCon riguardo alla memoria integrativa, da depositare entro il termine stabilito nel provvedimento presidenziale, l’attore si considera costituito.",
         "highlight": false
       }
     ],
@@ -7794,24 +7794,24 @@ window.DIRITTO_PROCESSUALE_CIVILE_CLOSED = window.UNIQUIZ_DATA["diritto_processu
       "sono pronunciati dal tribunale in camera di consiglio senza il parere del pubblico ministero"
     ],
     "accepted_indices": [
-      3
+      1
     ],
-    "primary_index": 3,
-    "exam_answer": "sono pronunciati dal tribunale in camera di consiglio senza il parere del pubblico ministero",
-    "deep_dive": "C.p.c.). L’atto introduttivo va notificato solo se vi sono controinteressati, ovverosia se è relativo a interessi di soggetti diversi dal ricorrente. Il presidente nomina tra i componenti del collegio un relatore che riferisce in camera di consiglio. Se deve essere sentito il pubblico ministero, gli atti sono a lui comunicati ed egli stende le sue conclusioni in calce al provvedimento del presidente. Sul ricorso il giudice decide con provvedimento che può assumere la forma di decreto motivato , ordinanza o sentenza, il cui contenuto è variabile a seconda della finalità perseguita. Talvolta, poi, l’efficacia del provvedimento è sottoposta a un termine. LA TUTELA CAMERALE L’art.",
+    "primary_index": 1,
+    "exam_answer": "sono pronunciati dal tribunale in camera di consiglio, su ricorso degli interessati, sentito il pubblico ministero",
+    "deep_dive": "Ai sensi dell'art. 721 c.p.c. (in combinato disposto con l'art. 48 c.c.), i provvedimenti conservativi del patrimonio nell'interesse della persona scomparsa (inclusa la nomina del curatore dello scomparso) sono pronunciati dal tribunale dell'ultimo domicilio o dell'ultima residenza in camera di consiglio, con decreto motivato adottato su ricorso degli interessati, sentito obbligatoriamente il pubblico ministero.",
     "source_label": "Lezione 081 · Slide ufficiali (Prof.ssa Rosa Foresta)",
-    "source_excerpt": "PROVVEDIMENTI CONSERVATIVI DELL’INTERESSE\nDELLO SCOMPARSO\nQuando una persona non è più comparsa nel luogo del suo ultimo\ndomicilio o dell’ultima residenza e non se ne hanno più notizie, il\ntribunale dell’ultimo domicilio o dell’ultima residenza, su istanza\ndegli interessati o dei presunti successori legittimi o del pubblico\nministero, può nominare un curatore che rappresenti la persona in\ngiudizio o nella formazione degli inventari e dei conti e nelle\nliquidazioni  o divisioni in cui sia interessata e può dare gli altri\nprovvedimenti necessari alla conservazione del patrimonio della\npersona scomparsa (art. 48 c.c.).\n\nL’art. 721 c.p.c. prevede che i  provvedimenti conservativi\nnell’interesse dello scomparso siano pronunciati dal tribunale in\ncamera di consiglio , su ricorso degli interessati, sentito il\npubblico ministero.\nTali provvedimenti possono riguardare la nomina del curatore o\nl’emanazione di provvedimenti necessari alla conservazione del\npatrimonio.\nIl procedimento segue le forme del rito camerale che si conclude\ncon un  decreto motivato  reclamabile, entro 10 giorni dalla\ncomunicazione, dal ricorrente dagli altri soggetti legittimati a\nricorrere e da coloro che sono intervenuti nel procedimento.\n\nIl decreto è  revocabile e  modificabile per il sopravvenuto\nmutamento delle circostanze già esaminate in sede di emanazione\ndel provvedimento o in sede di reclamo.\n\nLA TUTELA\nCAMERALE",
+    "source_excerpt": "PROVVEDIMENTI CONSERVATIVI DELL’INTERESSE DELLO SCOMPARSO\nL’art. 721 c.p.c. prevede che i provvedimenti conservativi nell’interesse dello scomparso siano pronunciati dal tribunale in camera di consiglio, su ricorso degli interessati, sentito il pubblico ministero.\nTali provvedimenti possono riguardare la nomina del curatore o l’emanazione di provvedimenti necessari alla conservazione del patrimonio.\nIl procedimento segue le forme del rito camerale che si conclude con un decreto motivato reclamabile, entro 10 giorni dalla comunicazione.",
     "source_segments": [
       {
-        "text": "PROVVEDIMENTI CONSERVATIVI DELL’INTERESSE\nDELLO SCOMPARSO\nQuando una persona non è più comparsa nel luogo del suo ultimo\ndomicilio o dell’ultima residenza e non se ne hanno più notizie, il\ntribunale dell’ultimo domicilio o dell’ultima residenza, su istanza\ndegli interessati o dei presunti successori legittimi o del pubblico\nministero, può nominare un curatore che rappresenti la persona in\ngiudizio o nella formazione degli inventari e dei conti e nelle\nliquidazioni  o divisioni in cui sia interessata e può dare gli altri\nprovvedimenti necessari alla conservazione del patrimonio della\npersona scomparsa (art. 48 c.c.).\n\nL’art. 721 c.p.c. prevede che i  provvedimenti conservativi\nnell’interesse dello scomparso siano ",
+        "text": "PROVVEDIMENTI CONSERVATIVI DELL’INTERESSE DELLO SCOMPARSO\nL’art. 721 c.p.c. prevede che i provvedimenti conservativi nell’interesse dello scomparso ",
         "highlight": false
       },
       {
-        "text": "pronunciati dal tribunale in\ncamera di consiglio",
+        "text": "siano pronunciati dal tribunale in camera di consiglio, su ricorso degli interessati, sentito il pubblico ministero",
         "highlight": true
       },
       {
-        "text": " , su ricorso degli interessati, sentito il\npubblico ministero.\nTali provvedimenti possono riguardare la nomina del curatore o\nl’emanazione di provvedimenti necessari alla conservazione del\npatrimonio.\nIl procedimento segue le forme del rito camerale che si conclude\ncon un  decreto motivato  reclamabile, entro 10 giorni dalla\ncomunicazione, dal ricorrente dagli altri soggetti legittimati a\nricorrere e da coloro che sono intervenuti nel procedimento.\n\nIl decreto è  revocabile e  modificabile per il sopravvenuto\nmutamento delle circostanze già esaminate in sede di emanazione\ndel provvedimento o in sede di reclamo.\n\nLA TUTELA\nCAMERALE",
+        "text": ".\nTali provvedimenti possono riguardare la nomina del curatore o l’emanazione di provvedimenti necessari alla conservazione del patrimonio.\nIl procedimento segue le forme del rito camerale che si conclude con un decreto motivato reclamabile, entro 10 giorni dalla comunicazione.",
         "highlight": false
       }
     ],
@@ -8474,24 +8474,24 @@ window.DIRITTO_PROCESSUALE_CIVILE_CLOSED = window.UNIQUIZ_DATA["diritto_processu
       "Il terzo danneggiato possa chiedere il risarcimento del danno all’assicurazione del vettore"
     ],
     "accepted_indices": [
-      1
+      3
     ],
-    "primary_index": 1,
-    "exam_answer": "Il terzo danneggiato possa chiedere il risarcimento del danno al proprio assicuratore",
-    "deep_dive": "AZIONE DIRETTA DEL TERZO TRASPORTATO L’art. 141 D. Lgs. 209/2005 prevede l’ azione diretta del terzo trasportato, danneggiato a seguito del sinistro stradale, nei confronti dell’impresa assicuratrice del veicolo su cui viaggia. Il terzo danneggiato, dunque, chiede il risarcimento del danno all’assicurazione del vettore. Quest’ultimo è tenuto al pagamento dell’indennizzo. Il trasportato non può agire nei confronti dell’assicuratore del veicolo antagonista, se non quando il massimale dell’assicuratore del vettore sia incapiente e quello dell’assicuratore dell’altro corresponsabile sia superiore al minimo di legge. L’azione diretta del terzo trasportato è un’azione aggiuntiva e non preclude al trasportato-danneggiato di evocare in giudizio esclusivamente il responsabile, ovvero il titolare e il conducente del veicolo antagonista e la compagnia di assicurazione di questo. LE AZIONI RISARCITORIE NEI SINISTRI STRADALI AZIONE DIRETTA NEI CONFRONTI DELL’ASSICURATORE DEL RESPONSABILE L’art.",
+    "primary_index": 3,
+    "exam_answer": "Il terzo danneggiato possa chiedere il risarcimento del danno all’assicurazione del vettore",
+    "deep_dive": "L'art. 141 del Codice delle Assicurazioni Private (D.Lgs. n. 209/2005) disciplina la tutela del terzo trasportato, prevedendo che per i danni subiti a seguito del sinistro stradale il trasportato promuova l'azione diretta nei confronti dell'impresa di assicurazione del veicolo sul quale era a bordo al momento del sinistro (ossia l'assicurazione del vettore), prescindendo dall'accertamento della responsabilità dei conducenti dei veicoli coinvolti. La richiesta al proprio assicuratore riguarda invece il diverso istituto del risarcimento diretto tra veicoli ex art. 149 Cod. Ass.",
     "source_label": "Lezione 089 · Slide ufficiali (Prof.ssa Rosa Foresta)",
-    "source_excerpt": "Lo statuto della  responsabilità  per  danni  da  circolazione\nstradale è  costituito,  oltre  che  dall’art.  2054  c.c.  e  dalle\ndisposizioni generali in materia di responsabilità civile, dalle\nnorme dettate dal Codice della strada, dagli artt. 122 – 160 D. Lgs.\n209/2005 (codice delle assicurazioni private) e dalle disposizioni\ndettate dal codice civile in tema di contratto di assicurazione.\nL’art.  148  D.  Lgs.  209/2005  prevede  che  la  liquidazione\nstragiudiziale dell’indennizzo si articola in tre fasi:\n richiesta di risarcimento da parte del danneggiato;\n\n accertamento del danno e formulazione dell’offerta;\n accettazione o rifiuto dell’offerta.\n\nAZIONE DIRETTA DEL TERZO TRASPORTATO\nL’art. 141 D. Lgs. 209/2005 prevede l’ azione diretta del terzo\ntrasportato, danneggiato a seguito del sinistro stradale, nei\nconfronti dell’impresa assicuratrice del veicolo su cui viaggia.\nIl terzo danneggiato, dunque, chiede il risarcimento del danno\nall’assicurazione del vettore.\nQuest’ultimo è tenuto al pagamento dell’indennizzo.\n\nIl trasportato non può agire nei confronti dell’assicuratore del\nveicolo antagonista, se non quando il massimale dell’assicuratore\ndel vettore sia incapiente e quello dell’assicuratore dell’altro\ncorresponsabile sia superiore al minimo di legge.\nL’azione diretta del terzo trasportato è un’azione aggiuntiva e non\npreclude  al  trasportato-danneggiato  di  evocare  in  giudizio\nesclusivamente il responsabile, ovvero il titolare e il conducente\ndel veicolo antagonista e la compagnia di assicurazione di questo.\n\nLE AZIONI\nRISARCITORIE\nNEI SINISTRI\nSTRADALI",
+    "source_excerpt": "AZIONE DIRETTA DEL TERZO TRASPORTATO\nL’art. 141 D. Lgs. 209/2005 prevede l’azione diretta del terzo trasportato, danneggiato a seguito del sinistro stradale, nei confronti dell’impresa assicuratrice del veicolo su cui viaggia.\nIl terzo danneggiato, dunque, chiede il risarcimento del danno all’assicurazione del vettore.\nQuest’ultimo è tenuto al pagamento dell’indennizzo.",
     "source_segments": [
       {
-        "text": "Lo statuto della  responsabilità  per  danni  da  circolazione\nstradale è  costituito,  oltre  che  dall’art.  2054  c.c.  e  dalle\ndisposizioni generali in materia di responsabilità civile, dalle\nnorme dettate dal Codice della strada, dagli artt. 122 – 160 D. Lgs.\n209/2005 (codice delle assicurazioni private) e dalle disposizioni\ndettate dal codice civile in tema di contratto di assicurazione.\nL’art.  148  D.  Lgs.  209/2005  prevede  che  la  liquidazione\nstragiudiziale dell’indennizzo si articola in tre fasi:\n richiesta di risarcimento da parte del danneggiato;\n\n accertamento del danno e formulazione dell’offerta;\n accettazione o rifiuto dell’offerta.\n\nAZIONE DIRETTA DEL TERZO TRASPORTATO\nL’art. 141 D. Lgs. 209/2005 prevede l’ azione diretta del terzo\ntrasportato, danneggiato a seguito del sinistro stradale, nei\nconfronti dell’impresa assicuratrice del veicolo su cui viaggia.\nIl terzo danneggiato, dunque, chiede ",
+        "text": "AZIONE DIRETTA DEL TERZO TRASPORTATO\nL’art. 141 D. Lgs. 209/2005 prevede l’azione diretta del terzo trasportato, danneggiato a seguito del sinistro stradale, nei confronti dell’impresa assicuratrice del veicolo su cui viaggia.\n",
         "highlight": false
       },
       {
-        "text": "il risarcimento del danno\nal",
+        "text": "Il terzo danneggiato, dunque, chiede il risarcimento del danno all’assicurazione del vettore",
         "highlight": true
       },
       {
-        "text": "l’assicurazione del vettore.\nQuest’ultimo è tenuto al pagamento dell’indennizzo.\n\nIl trasportato non può agire nei confronti dell’assicuratore del\nveicolo antagonista, se non quando il massimale dell’assicuratore\ndel vettore sia incapiente e quello dell’assicuratore dell’altro\ncorresponsabile sia superiore al minimo di legge.\nL’azione diretta del terzo trasportato è un’azione aggiuntiva e non\npreclude  al  trasportato-danneggiato  di  evocare  in  giudizio\nesclusivamente il responsabile, ovvero il titolare e il conducente\ndel veicolo antagonista e la compagnia di assicurazione di questo.\n\nLE AZIONI\nRISARCITORIE\nNEI SINISTRI\nSTRADALI",
+        "text": ".\nQuest’ultimo è tenuto al pagamento dell’indennizzo.",
         "highlight": false
       }
     ],
@@ -8508,24 +8508,24 @@ window.DIRITTO_PROCESSUALE_CIVILE_CLOSED = window.UNIQUIZ_DATA["diritto_processu
       "il giudice di pace se il valore della domanda è inferiore o pari ad € 30.000, il tribunale nei restanti casi"
     ],
     "accepted_indices": [
-      2
+      0
     ],
-    "primary_index": 2,
-    "exam_answer": "il giudice di pace se il valore della domanda è inferiore o pari ad € 40.000, il tribunale nei restanti casi",
-    "deep_dive": "Giudice di pace;  superiore ad € 20.000, per le quali è competente il tribunale. Nel risarcimento dei danni da circolazione di veicoli sono compresi:  quelli derivanti da incidente tra auto;  quelli derivanti dalla circolazione su qualunque strada.",
+    "primary_index": 0,
+    "exam_answer": "il giudice di pace se il valore della domanda è inferiore o pari ad € 20.000, il tribunale nei restanti casi",
+    "deep_dive": "Ai sensi dell'art. 7, comma 2, c.p.c. (nel testo previgente alla riforma Cartabia su cui sono strutturate le dispense della Lezione 89), per le cause di risarcimento del danno prodotto dalla circolazione di veicoli e di natanti è competente per valore e materia il Giudice di Pace quando il valore della controversia non supera € 20.000, mentre per le domande di valore superiore ad € 20.000 la competenza spetta al Tribunale.",
     "source_label": "Lezione 089 · Slide ufficiali (Prof.ssa Rosa Foresta)",
-    "source_excerpt": "Con la Legge n. 124/2017 il legislatore ha introdotto modifiche\nal codice delle assicurazioni private.\nIl nuovo art. 132 ter sancisce che le imprese devono praticare\nuno  sconto nel  caso  in  cui  vengano  istallati  meccanismi\nelettronici che registrano l’attività del veicolo.\nCollegata  a  questa  norma  è  la  disposizione  introdotta\nsull’efficacia probatoria della scatola nera di cui all’art. 145 ter,\ndove si prevede che le risultanze del dispositivo formano piena\nprova, nei procedimenti civili, dei fatti cui si riferiscono.\n\nLE AZIONI\nRISARCITORIE\nNEI SINISTRI\nSTRADALI\n\nRISARCIMENTO DEL DANNO DA CIRCOLAZIONE DI\nVEICOLI E NATANTI\nPer le controversie aventi ad oggetto il risarcimento del danno\nsubito da persone o cose a causa della circolazione di veicoli o\ndi natanti, la competenza si distribuisce a seconda che il valore\ndella domanda sia:\n inferiore o pari ad € 20.000, la cui competenza è del\ngiudice di pace;\n superiore ad € 20.000, per le quali è competente il\ntribunale.\n\nNel risarcimento dei danni da circolazione di veicoli sono\ncompresi:\n quelli derivanti da incidente tra auto;\n quelli derivanti dalla circolazione su qualunque strada\n(pubblica o privata) o area privata;\n quelli prodotti durante la sosta degli autoveicoli su un’area\npubblica o ad essa equiparata;\n\n i danni causati dalla condotta di guida del conducente,\nincaricato dal proprietario dell’autoveicolo posto in\ncircolazione.",
+    "source_excerpt": "RISARCIMENTO DEL DANNO DA CIRCOLAZIONE DI VEICOLI E NATANTI\nPer le controversie aventi ad oggetto il risarcimento del danno subito da persone o cose a causa della circolazione di veicoli o di natanti, la competenza si distribuisce a seconda che il valore della domanda sia:\n• inferiore o pari ad € 20.000, la cui competenza è del giudice di pace;\n• superiore ad € 20.000, per le quali è competente il tribunale.",
     "source_segments": [
       {
-        "text": "Con la Legge n. 124/2017 il legislatore ha introdotto modifiche\nal codice delle assicurazioni private.\nIl nuovo art. 132 ter sancisce che le imprese devono praticare\nuno  sconto nel  caso  in  cui  vengano  istallati  meccanismi\nelettronici che registrano l’attività del veicolo.\nCollegata  a  questa  norma  è  la  disposizione  introdotta\nsull’efficacia probatoria della scatola nera di cui all’art. 145 ter,\ndove si prevede che le risultanze del dispositivo formano piena\nprova, nei procedimenti civili, dei fatti cui si riferiscono.\n\nLE AZIONI\nRISARCITORIE\nNEI SINISTRI\nSTRADALI\n\nRISARCIMENTO DEL DANNO DA CIRCOLAZIONE DI\nVEICOLI E NATANTI\nPer le controversie aventi ad oggetto il risarcimento del danno\nsubito da persone o cose a causa della circolazione di veicoli o\ndi natanti, la competenza si distribuisce a seconda che il valore\ndella domanda sia:\n ",
+        "text": "RISARCIMENTO DEL DANNO DA CIRCOLAZIONE DI VEICOLI E NATANTI\nPer le controversie aventi ad oggetto il risarcimento del danno subito da persone o cose a causa della circolazione di veicoli o di natanti, la competenza si distribuisce a seconda che il valore della domanda sia:\n• ",
         "highlight": false
       },
       {
-        "text": "inferiore o pari ad €",
+        "text": "inferiore o pari ad € 20.000, la cui competenza è del giudice di pace;\n• superiore ad € 20.000, per le quali è competente il tribunale",
         "highlight": true
       },
       {
-        "text": " 20.000, la cui competenza è del\ngiudice di pace;\n superiore ad € 20.000, per le quali è competente il\ntribunale.\n\nNel risarcimento dei danni da circolazione di veicoli sono\ncompresi:\n quelli derivanti da incidente tra auto;\n quelli derivanti dalla circolazione su qualunque strada\n(pubblica o privata) o area privata;\n quelli prodotti durante la sosta degli autoveicoli su un’area\npubblica o ad essa equiparata;\n\n i danni causati dalla condotta di guida del conducente,\nincaricato dal proprietario dell’autoveicolo posto in\ncircolazione.",
+        "text": ".",
         "highlight": false
       }
     ],
