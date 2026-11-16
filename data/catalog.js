@@ -41,5 +41,17 @@ window.UNIQUIZ_DATA = {
     "short": "Comunicazione",
     "closed": [],
     "open": []
+  },
+  "diritto_di_famiglia": {
+    "title": "Diritto di famiglia",
+    "short": "Diritto di Famiglia",
+    "closed": [],
+    "open": []
+  },
+  "diritto_privato": {
+    "title": "Diritto privato",
+    "short": "Diritto Privato",
+    "closed": [],
+    "open": []
   }
 };

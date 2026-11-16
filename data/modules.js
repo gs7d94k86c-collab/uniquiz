@@ -398,5 +398,128 @@ window.UNIQUIZ_MODULES = {
       "from": 8,
       "to": 8
     }
-  ]
+  ],
+  "diritto_di_famiglia": [
+  {
+    "id": "df1",
+    "name": "M1 · Fonti, Parentela, Alimenti e Minore",
+    "title": "Diritto di famiglia, fonti costituzionali, evoluzione storica, parentela/affinità, obbligazione alimentare e diritti del minore",
+    "from": 2,
+    "to": 7
+  },
+  {
+    "id": "df2",
+    "name": "M2 · Matrimonio e Regimi Patrimoniali",
+    "title": "Matrimonio civile e concordatario, formalità, impedimenti, invalidità, rapporti personali, comunione legale e convenzionale, fondo patrimoniale",
+    "from": 8,
+    "to": 17
+  },
+  {
+    "id": "df3",
+    "name": "M3 · Crisi Coniugale, Separazione e Divorzio",
+    "title": "Crisi coniugale, separazione, divorzio, assegno divorzile, affidamento dei figli, negoziazione assistita e responsabilità civile in famiglia",
+    "from": 18,
+    "to": 27
+  },
+  {
+    "id": "df4",
+    "name": "M4 · Unioni Civili e Convivenze di Fatto",
+    "title": "Unioni civili, scioglimento, tutela delle coppie dello stesso sesso e filiazione, convivenze di fatto e contratti di convivenza",
+    "from": 28,
+    "to": 32
+  },
+  {
+    "id": "df5",
+    "name": "M5 · Filiazione, Responsabilità Genitoriale e PMA",
+    "title": "Stato unico di figlio, ascolto del minore, responsabilità genitoriale, accertamento, figlio nato fuori dal matrimonio, cognome e PMA",
+    "from": 33,
+    "to": 40
+  },
+  {
+    "id": "df6",
+    "name": "M6 · Adozione e Diritto alle Origini",
+    "title": "Adozione dei minori, stato di abbandono, adozione piena, procedimento, adozione in casi particolari, internazionale e diritto alle origini",
+    "from": 41,
+    "to": 48
+  }
+],
+  "diritto_privato": [
+  {
+    "id": "dp1",
+    "name": "M1 · Ordinamento, Fonti e Fatto Giuridico",
+    "title": "Ordinamento, norma, fonti, efficacia temporale, interpretazione, diritto internazionale privato, fatto/atto/negozio",
+    "from": 1,
+    "to": 9
+  },
+  {
+    "id": "dp2",
+    "name": "M2 · Rapporto Giuridico e Situazioni Soggettive",
+    "title": "Rapporto giuridico, diritto soggettivo, interesse legittimo, aspettativa, situazioni passive, vicende",
+    "from": 10,
+    "to": 16
+  },
+  {
+    "id": "dp3",
+    "name": "M3 · Persone, Diritti della Personalità ed Enti",
+    "title": "Capacità giuridica e di agire, protezione incapaci, assenza/morte presunta, diritti personalità, enti ed ETS",
+    "from": 17,
+    "to": 24
+  },
+  {
+    "id": "dp4",
+    "name": "M4 · La Famiglia",
+    "title": "Unioni civili, convivenze, matrimonio, separazione e divorzio, regime patrimoniale, filiazione, adozione, alimenti",
+    "from": 25,
+    "to": 32
+  },
+  {
+    "id": "dp5",
+    "name": "M5 · Successioni e Donazioni",
+    "title": "Apertura, capacità, rappresentazione, accettazione/rinunzia, legittima e necessaria, testamento, legati, divisione, donazione",
+    "from": 33,
+    "to": 41
+  },
+  {
+    "id": "dp6",
+    "name": "M6 · Beni, Proprietà, Diritti Reali e Possesso",
+    "title": "Beni, proprietà, modi di acquisto e azioni petitorie, diritti reali di godimento, comunione, condominio, possesso",
+    "from": 42,
+    "to": 49
+  },
+  {
+    "id": "dp7",
+    "name": "M7 · Obbligazioni e Garanzia Patrimoniale",
+    "title": "Rapporto obbligatorio, solidarietà, pecuniarie, cessione/delegazione/accollo, adempimento, estinzione, inadempimento, mora, tutela credito, altre fonti",
+    "from": 50,
+    "to": 62
+  },
+  {
+    "id": "dp8",
+    "name": "M8 · Il Contratto in Generale",
+    "title": "Autonomia, formazione, culpa in contrahendo, vizi/forma/oggetto, causa, preliminare, rappresentanza, accidentali, effetti, simulazione, invalidità, risoluzione, consumatore",
+    "from": 63,
+    "to": 76
+  },
+  {
+    "id": "dp9",
+    "name": "M9 · Singoli Contratti Tipici",
+    "title": "Compravendita, permuta, mandato, mutuo, fideiussione, locazione e comodato",
+    "from": 77,
+    "to": 80
+  },
+  {
+    "id": "dp10",
+    "name": "M10 · Responsabilità Extracontrattuale",
+    "title": "Fatto illecito, dolo e colpa, responsabilità oggettiva e aggravata, nesso causale, danno, risarcimento, casistiche speciali",
+    "from": 81,
+    "to": 88
+  },
+  {
+    "id": "dp11",
+    "name": "M11 · Pubblicità, Garanzie Reali e Tempo",
+    "title": "Pubblicità, trascrizione immobiliare, privilegio, pegno, ipoteca, influenza del tempo, prescrizione e decadenza",
+    "from": 89,
+    "to": 96
+  }
+]
 };
